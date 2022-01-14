@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#0 HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6143?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#0
-http://linea.cc:8000/test123/test123/49897.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#0 HD+
-http://linea.cc:8000/test123/test123/49948.ts?checkedby:iptvcat.com
