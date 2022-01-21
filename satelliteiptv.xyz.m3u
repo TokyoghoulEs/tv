@@ -1,0 +1,341 @@
+#EXTM3U
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/spain.png" ,########## Spain ##########
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7257
+#EXTINF:-1 group-title="Spain" ,------- Main & Regional -------
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679810
+#EXTINF:-1 group-title="Spain" ,LA1 FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16288
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/tvela1hd.png" ,LA1 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8782
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/LA1.es.png" tvg-id="la1.es" ,LA1 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7215
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/LA2.es.png" tvg-id="LA2.es" ,LA2 FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8781
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/LA2.es.png" tvg-id="la2.es" ,LA2 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7214
+#EXTINF:-1 group-title="Spain" ,LA Sexta FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16260
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/lasextahd.png" tvg-id="LaSexta.es" ,LA Sexta HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7213
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/lasexta.png" ,LA Sexta ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6671
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/antena3hd.png" tvg-id="antena3.es" ,Antena 3 FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7253
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/antena3hd.png" tvg-id="antena3.es" ,Antena 3 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8779
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/cuatrohd.png" tvg-id="cuatro.es" ,Cuatro FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7228
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/cuatrohd.png" tvg-id="cuatro.es" ,Cuatro HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8777
+#EXTINF:-1 group-title="Spain" tvg-id="telecinco.es" ,Telecinco FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/14022
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/telecincohd.png" tvg-id="telecinco.es" ,Telecinco HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11488
+#EXTINF:-1 group-title="Spain" tvg-id="#0.es" ,Canal #0 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16283
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/canal-0.png" tvg-id="#0.es" ,Canal #0 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13539
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/24Horas.es.png" tvg-id="24horas.es" ,24 Horas ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7174
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/dw.png" ,DW ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13532
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/galicia_tv_eu.png" tvg-id="tvgalicia.es" ,TV Galicia ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7218
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/tv3cates.png" ,TV3 Catalunya HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8780
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/tv3cates.png" ,TV 3 Catalunya ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7175
+#EXTINF:-1 group-title="Spain" tvg-id="CanalAndalucia.es" ,Andalucia ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7254
+#EXTINF:-1 group-title="Spain" ,13 TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13547
+#EXTINF:-1 group-title="Spain" ,8TV Madrid ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13545
+#EXTINF:-1 group-title="Spain" ,XTRM HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13527
+#EXTINF:-1 group-title="Spain" ,Red Advenir ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13524
+#EXTINF:-1 group-title="Spain" tvg-id="bemad.es" ,Be Mad TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683552
+#EXTINF:-1 group-title="Spain" ,------- Sports -------
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679811
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/beinsports.png" ,bein Sports Espana FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7248
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" ,bein Sports Espana HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8745
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" tvg-id="beinsports.es" ,beIN Sports Espana ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13540
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" ,DAZN 1 FHD VIP ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683544
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" ,DAZN 2 HD VIP ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683545
+#EXTINF:-1 group-title="Spain" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_640/https://worldsoccertalk.com/wp-content/uploads/2014/01/laliga-logo-thin.jpg" ,La Liga TV BAR HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/669971
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistarfutbol.png" ,Movistar La Liga FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16274
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" ,Movistar La Liga 1 [Match Time] ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683144
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" tvg-id="vamos.es" ,Movistar Vamos Bar ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683141
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" tvg-id="vamos.es" ,Movistar Vamos FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/682871
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" tvg-id="vamos.es" ,Movistar Vamos HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/682872
+#EXTINF:-1 group-title="Spain" ,Movistar Liga De Campeones FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620686
+#EXTINF:-1 group-title="Spain" ,Movistar Liga De Campeones HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620685
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/logo.png" ,Movistar Liga De Campeones 1 [Match Time] HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683153
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes.es" ,Movistar Deportes FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16278
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistardeportes1.png" tvg-id="movistardeportes.es" ,Movistar Deportes HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7240
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes2.es" ,Movistar Deportes 2 FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16277
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistardeportes2.png" tvg-id="movistardeportes2.es" ,Movistar Deportes 2 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7239
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistarfutbol.png" tvg-id="movistarfutbol.es" ,Movistar Futbol FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13551
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarFutbol.es.png" tvg-id="movistarfutbol.es" ,Movistar Futbol HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8783
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistarfutbol.png" ,Movistar Futbol ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7238
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/canalplus.png" tvg-id="Movistar.es" ,Movistar F1 FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7246
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistarformula1.png" tvg-id="MovistarFormula1.es" ,Movistar F1 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13549
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarFormula1.es.png" tvg-id="MovistarFormula1.es" ,Movistar F1 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/71971
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistargolf.png" tvg-id="movistargolf.es" ,Movistar Golf FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7237
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/movistargolf.png" tvg-id="movistargolf.es" ,Movistar Golf HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13550
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/gol.png" tvg-id="gol.es" ,Gol TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13457
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Teledeporte.es.png" tvg-id="teledeporte.es" ,Teledeporte ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7178
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/realmadridtv_2.png" tvg-id="realmadridtv.es" ,Real Madrid Channel ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7182
+#EXTINF:-1 group-title="Spain" tvg-id="telemadrid.es" ,Tele Madrid ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679745
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/barcatv.png" ,Barca TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7250
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/eurosport1.png" tvg-id="eurosport1.es" ,Eurosport 1 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8746
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/eurosport2.png" tvg-id="eurosport2.es" ,Eurosport 2 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13531
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Viajar.es.png" tvg-id="viajar.es" ,Viajar FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7170
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/torostv.png" tvg-id="toros.es" ,Toros HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13548
+#EXTINF:-1 group-title="Spain" tvg-id="etbsat.es" ,ETB SAT ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/684922
+#EXTINF:-1 group-title="Spain" tvg-id="etb1.es" ,ETB 1 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/684921
+#EXTINF:-1 group-title="Spain" ,ETB 2 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/684923
+#EXTINF:-1 group-title="Spain" ,------- Movies & Series -------
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679812
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/axnhd_2.png" tvg-id="AXN.es" ,AXN HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7252
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/axn.png" tvg-id="axn.es" ,AXN ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13543
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/axnwhitehd.png" tvg-id="AXNWhite.es" ,AXN White FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7251
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/axnwhite.png" tvg-id="axnwhite.es" ,AXN White ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13542
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/amchd.png" tvg-id="AMC.es" ,AMC FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7255
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/syfyhd.png" tvg-id="syfy.es" ,SyFy FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13522
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/syfy.png" tvg-id="syfy.es" ,SyFy HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13523
+#EXTINF:-1 group-title="Spain" tvg-id="Fox.es" ,Fox FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16267
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Fox.es.png" tvg-id="fox.es" ,Fox ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7220
+#EXTINF:-1 group-title="Spain" tvg-id="FoxLife.es" ,FOX Life FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16266
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/FoxLife.es.png" tvg-id="foxlife.es" ,Fox Life ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7219
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/TNT.es.png" tvg-id="tnt.es" ,TNT FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7177
+#EXTINF:-1 group-title="Spain" ,Sundance TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/14121
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarSeries.es.png" tvg-id="MovistarSeries.es" ,Movistar Series FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7191
+#EXTINF:-1 group-title="Spain" tvg-id="movistarseriesxtra.es" ,Movistar Series HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16282
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarSeries.es.png" tvg-id="movistarseries.es" ,Movistar Series ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8767
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarXtra.es.png" ,Movistar Seriesmania FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7190
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/canalplusseries.png" ,Movistar Seriesmania HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7234
+#EXTINF:-1 group-title="Spain" ,Movistar Seriesmania ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8770
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/canal%20+%20accion%20hd.png" tvg-id="movistaraccion.es" ,Movistar Accion FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7245
+#EXTINF:-1 group-title="Spain" ,Movistar Accion HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16280
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarAccion.es.png" tvg-id="movistaraccion.es" ,Movistar Accion ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7195
+#EXTINF:-1 group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/225px-Movistar_Drama.svg.png" tvg-id="moviestardrama.es" ,Movistar Drama FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/685775
+#EXTINF:-1 group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/225px-Movistar_Drama.svg.png" tvg-id="moviestardrama.es" ,Movistar Drama HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/685776
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarComedia.es.png" tvg-id="movistarcomedia.es" ,Movistar Comedia FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7243
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarComedia.es.png" tvg-id="movistarcomedia.es" ,Movistar Comedia HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7194
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarEstrenos.es.png" tvg-id="MovistarEstrenos.es" ,Movistar Esternos FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7192
+#EXTINF:-1 group-title="Spain" ,Movistar Estrenos FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/686790
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarEstrenos.es.png" tvg-id="movistarestrenos.es" ,Movistar Estrenos HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8771
+#EXTINF:-1 group-title="Spain" tvg-id="movistarestrenos.es" ,Movistar Estrenos ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16262
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarEstrenos.es.png" tvg-id="movistarestrenos.es" ,Movistar Estrenos ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7222
+#EXTINF:-1 group-title="Spain" ,Movistar DCine FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16279
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MovistarDCine.es.png" tvg-id="MovistarDCine.es" ,Movistar DCine HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7193
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/DCineEspanol.es.png" tvg-id="MovistarDCine.es" ,Movistar DCine ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7242
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/canalfhd.png" tvg-id="MovistarXtra.es" ,Movistar CineDoc & Roll ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7233
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/neox.png" tvg-id="neox.es" ,Neox TV HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7186
+#EXTINF:-1 group-title="Spain" tvg-id="neox.es" ,Neox TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16264
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/cosmohd.png" tvg-id="cosmo.es" ,Cosmo FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7229
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/cosmohd.png" ,Cosmopolitan HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13537
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/calle13hd.png" tvg-id="calle13.es" ,Calle 13 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7247
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/comedycentralhd.png" tvg-id="comedycentral.es" ,Comedy Central HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7230
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/antena3_series_es.png" ,A3 Series ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13544
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Nova.es.png" tvg-id="nova.es" ,Nova ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7183
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/divinity.png" tvg-id="divinity.es" ,Divinity HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13534
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Energy.es.png" tvg-id="energy.es" ,Energy ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8765
+#EXTINF:-1 group-title="Spain" ,Taquilla 1 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7211
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/movistar_es_taquilla.png" ,Taquilla 1 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8756
+#EXTINF:-1 group-title="Spain" ,Taquilla 2 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7210
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/taquilla.png" ,Taquilla 2 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8755
+#EXTINF:-1 group-title="Spain" ,Taquilla 3 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7209
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/taquilla.png" ,Taquilla 3 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8754
+#EXTINF:-1 group-title="Spain" ,Taquilla 4 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7208
+#EXTINF:-1 group-title="Spain" ,Taquilla 5 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7207
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/taquilla.png" ,Taquilla 5 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8752
+#EXTINF:-1 group-title="Spain" ,Taquilla 6 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7206
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/taquilla.png" ,Taquilla 6 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8751
+#EXTINF:-1 group-title="Spain" ,Taquilla 7 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7205
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/taquilla.png" ,Taquilla 7 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8750
+#EXTINF:-1 group-title="Spain" ,Taquilla 8 HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7204
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/movistar_es_taquilla.png" ,Taquilla 8 ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13520
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/TCM.es.png" tvg-id="tcm.es" ,TCM HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7180
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/ParamountChannel.es.png" tvg-id="paramountchannel.es" ,Paramount Channel ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8769
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/canalhollywoodhd.png" tvg-id="Hollywood.es" ,Hollywood FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8768
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Hollywood.es.png" tvg-id="historia.es" ,Hollywood HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7216
+#EXTINF:-1 group-title="Spain" ,------- Documentary -------
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679813
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/discoverychannel.png" tvg-id="DiscoveryChannel.es" ,Discovery Channel ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7226
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/Discover%20Dmax.png" tvg-id="DiscoveryMax.es" ,Discovery Dmax ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13535
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/nationalgeographichd_2.png" tvg-id="natgeo.es" ,National Geographic HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13528
+#EXTINF:-1 group-title="Spain" tvg-id="natgeo.es" ,National Geographic ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16270
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/NatGeoWild.es.png" tvg-id="natgeowild.es" ,Nat Geo Wild ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7188
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/crimenplusinves.png" tvg-id="crimeinvestigation.es" ,Crime & Investigation ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8757
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Historia.es.png" tvg-id="historia.es" ,Historia ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7217
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/canalcocina.png" tvg-id="canalcocina.es" ,Canal Cocina ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7244
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/canaldecasa.png" ,DeCasa ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7241
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/Dkiss.png" ,Dkiss HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13533
+#EXTINF:-1 group-title="Spain" tvg-id="mega.es" ,Mega FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16263
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/megahdes.png" tvg-id="mega.es" ,Mega HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13824
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Mega.es.png" tvg-id="mega.es" ,Mega ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8760
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/NonStopPeople.es.png" tvg-id="nonstoppeople.es" ,Blaze ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7184
+#EXTINF:-1 group-title="Spain" ,Caza y Pesca FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16269
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/cazaypesca.png" tvg-id="cazapesca.es" ,Caza y Pesca ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7232
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/IberaliaTV.es.png" tvg-id="IberaliaTV.es" ,Iberalia ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7171
+#EXTINF:-1 group-title="Spain" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/9273a131ff78afd484dd16cc39bc9dd2_ODISEA-color.png" tvg-id="odisea.es" ,Odisea TV HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/685777
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Odisea.es.png" tvg-id="odisea.es" ,Odisea TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8761
+#EXTINF:-1 group-title="Spain" ,------- Entertainment -------
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679816
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/MTV.es.png" tvg-id="mtv.es" ,MTV Espana ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8759
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/fdf.png" ,FDF ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7221
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/ten.png" ,Ten ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13518
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/mezzolivehd.png" ,Mezzo HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7212
+#EXTINF:-1 group-title="Spain" ,------- Children -------
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679814
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/babytv.png" ,Baby TV ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8774
+#EXTINF:-1 group-title="Spain" tvg-id="Disney Channel ES" ,Disney Channel FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16287
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/disneychannel.png" tvg-id="disneychannel.es" ,Disney Channel HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7225
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/DisneyXD.es.png" tvg-id="disneyxd.es" ,Disney+ ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7223
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/DisneyJunior.es.png" tvg-id="disneyjunior.es" ,Disney Junior ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7224
+#EXTINF:-1 group-title="Spain" tvg-id="nickelodeon.es" ,Nickelodeon HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16268
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/Nickelodeon.es.png" tvg-id="nickelodeon.es" ,Nickelodeon ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7185
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/nickjr_2.png" tvg-id="nickjr.es" ,Nick Jr. ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13526
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/ES/boing.png" tvg-id="boing.es" ,Boing ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8773
+#EXTINF:-1 group-title="Spain" tvg-id="canalpanda.es" ,Canal Panda ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/53156
+#EXTINF:-1 group-title="Spain" tvg-logo="http://pici.life/es/ClanTVE.es.png" tvg-id="clantve.es" ,Clan TVE ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7231
