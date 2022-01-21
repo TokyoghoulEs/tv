@@ -1,0 +1,546 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| CANALES ESPANOL |----- 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127635
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="tveinteu.es" ,|ES| TVE INTERNACIONAL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127636
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" tvg-id="la1.es" ,|ES| LA 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127637
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA2.png" tvg-id="la2.es" ,|ES| LA 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127638
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24_HORAS.png" tvg-id="24horas.es" ,|ES| 24 HORAS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127639
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" tvg-id="antena3.es" ,|ES| ANTENA 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127640
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CUATRO_HD.png" tvg-id="cuatro.es" ,|ES| CUATRO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127641
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" tvg-id="telecinco.es" ,|ES| TELECINCO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127642
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" tvg-id="lasexta.es" ,|ES| LA SEXTA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127643
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="mega.es" ,|ES| MEGA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127644
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TVGA HD.png" tvg-id="tvgalicia.es" ,|ES| TV GALICIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127645
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" tvg-id="clantve.es" ,|ES| CLAN TVE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127646
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NOVA.png" tvg-id="nova.es" ,|ES| NOVA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127647
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX" tvg-id="neox.es" ,|ES| NEOX
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127648
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="ten.es" ,|ES| TEN
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127649
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-id="vamos.es" ,|ES| #VAMOS HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/144173
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| SPANISH TALENTS       
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127650
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24_HORAS.png" tvg-id="24horas.es" ,|ES| CANAL 24 HORAS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127651
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_SUR_A..png" tvg-id="canalsur.es" ,|ES| CANAL SUR
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127652
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_SUR_A..png" ,|ES| CANAL SUR A.
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127653
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| Extramadura
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127654
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| ANDALUCIA TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127655
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| CANAL ORBE 21
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127656
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ARAGON " tvg-id="aragontv.es" ,|ES| ARAGON TV INT
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127657
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="13tv.es" ,|ES| TRECE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127658
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| CANALES ESPANOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127659
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="tveinteu.es" ,|ES-4K| TVE INTERNACIONAL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127660
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" tvg-id="la1.es" ,|ES-4K| LA 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127661
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA2.png" tvg-id="la2.es" ,|ES-4K| LA 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127662
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24_HORAS.png" tvg-id="24horas.es" ,|ES-4K| 24 HORAS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127663
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" tvg-id="antena3.es" ,|ES-4K| ANTENA 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127664
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CUATRO_HD.png" tvg-id="cuatro.es" ,|ES-4K| CUATRO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127665
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" tvg-id="telecinco.es" ,|ES-4K| TELECINCO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127666
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" tvg-id="lasexta.es" ,|ES-4K| LA SEXTA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127667
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="mega.es" ,|ES-4K| MEGA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127668
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TVGA HD.png" tvg-id="tvgalicia.es" ,|ES-4K| TV GALICIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127669
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" tvg-id="clantve.es" ,|ES-4K| CLAN TVE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127670
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NOVA.png" tvg-id="nova.es" ,|ES-4K| NOVA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127671
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX.png" tvg-id="neox.es" ,|ES-4K| NEOX
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127672
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-id="vamos.es" ,|ES-4K| #VAMOS HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/144174
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_SUR_A..png" tvg-id="canalsurandalucia.es" ,|ES-4K| CANAL SUR A.
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127673
+#EXTINF:-1 group-title="ESPANOL CANALES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES-4K| CANAL ORBE 21
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127674
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| CULTURA ESPANOL |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127751
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TOROS_HD.png" tvg-id="toros.es" ,|ES| TOROS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127752
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png" tvg-id="odisea.es" ,|ES| CANAL ODISEA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127753
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" tvg-id="disneychannel.es" ,|ES| DISCOVERY CHANNEL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127754
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png" ,|ES| DISCOVERY CRIME INVESTIGATION
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127755
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="dmax.es" ,|ES| DMAX
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127756
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="dkiss.es" ,|ES| DKISS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127757
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HISTORIA.png" tvg-id="historia.es" ,|ES| HISTORIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127758
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" tvg-id="natgeo.es" ,|ES| NAT GEOGRAPHIC
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127759
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NG_WILD_HD.png" tvg-id="natgeowild.es" ,|ES| NAT GEO WILD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127760
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CAZAyPESCA_HD.png" tvg-id="cazapesca.es" ,|ES| CAZA & PESCA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127761
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/VIAJAR_HD.png" tvg-id="viajar.es" ,|ES| VIAJAR
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127762
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_COCINA.png" tvg-id="canalcocina.es" ,|ES| CANAL COCINA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127763
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="aande.es" ,|ES| A&E
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127764
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| CULTURA ESPANOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127765
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TOROS_HD.png" tvg-id="toros.es" ,|ES-4K| TOROS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127766
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png" tvg-id="odisea.es" ,|ES-4K| CANAL ODISEA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127767
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" tvg-id="discoverychannel.es" ,|ES-4K| DISCOVERY CHANNEL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127768
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png" ,|ES-4K| DISCOVERY CRIME INVESTIGATION
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127769
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="dmax.es" ,|ES-4K| DMAX
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127770
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="dkiss.es" ,|ES-4K| DKISS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127771
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HISTORIA" tvg-id="historia.es" ,|ES-4K| HISTORIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127772
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" tvg-id="natgeo.es" ,|ES-4K| NAT GEOGRAPHIC
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127773
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/WILD" tvg-id="natgeowild.es" ,|ES-4K| NAT GEO WILD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127774
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PESCA" tvg-id="cazapesca.es" ,|ES-4K| CAZA Y PESCA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127775
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/VIAJAR" tvg-id="viajar.es" ,|ES-4K| VIAJAR
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127776
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_COCINA.png" tvg-id="canalcocina.es" ,|ES-4K| CANAL COCINA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127777
+#EXTINF:-1 group-title="ESPANOL CULTURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="aande.es" ,|ES-4K| A&E
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127778
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| ENTRETENIMIENTO ESPAÑOL |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127697
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/#0_HD.png" ,|ES| #0
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127698
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.SERIES_HD.png" tvg-id="movistarseries.es" ,|ES| M. SERIES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127699
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Seriesmania_HD.png" ,|ES| M. SERIESMANIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127700
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_HD.png" tvg-id="fox.es" ,|ES| FOX
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127701
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_LIFE_HD.png" tvg-id="foxlife.es" ,|ES| FOX LIFE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127702
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png" tvg-id="axn.es" ,|ES| AXN
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127703
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" tvg-id="axnwhite.es" ,|ES| AXN WHITE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127704
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" tvg-id="syfy.es" ,|ES| SYFY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127705
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png" tvg-id="sundance.es" ,|ES| SUNDANCE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127706
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" tvg-id="calle13.es" ,|ES| CALLE 13
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127707
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/IBERALIA_TV.png" tvg-id="iberaliatv.es" ,|ES| IBERALIA TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127708
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" ,|ES| CANAL DE CASA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127709
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" tvg-id="amc.es" ,|ES| AMC
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127710
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" tvg-id="cosmo.es" ,|ES| COSMO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127711
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" tvg-id="energy.es" ,|ES| ENERGY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127712
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FDF.png" ,|ES| FDF
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127713
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png" tvg-id="bemad.es" ,|ES| BE MAD TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127714
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DIVINITY.png" tvg-id="divinity.es" ,|ES| DIVINITY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127715
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="xtrm.es" ,|ES| XTRM
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127716
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| ENTRETENIMIENTO ESPAÑOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127717
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/#0_HD.png" ,|ES-4K| #0
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127718
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.SERIES_HD.png" tvg-id="movistarseries.es" ,|ES-4K| M. SERIES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127719
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Seriesmania_HD.png" ,|ES-4K| M. SERIESMANIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127720
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_HD.png" tvg-id="fox.es" ,|ES-4K| FOX
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127721
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_LIFE_HD.png" tvg-id="foxlife.es" ,|ES-4K| FOX LIFE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127722
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png" tvg-id="axn.es" ,|ES-4K| AXN
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127723
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" tvg-id="axnwhite.es" ,|ES-4K| AXN WHITE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127724
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" tvg-id="syfy.es" ,|ES-4K| SYFY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127725
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png" tvg-id="sundance.es" ,|ES-4K| SUNDANCE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127726
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" tvg-id="calle13.es" ,|ES-4K| CALLE 13
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127727
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/IBERALIA_TV.png" tvg-id="iberaliatv.es" ,|ES-4K| IBERALIA TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127728
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" ,|ES-4K| CANAL DE CASA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127729
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" tvg-id="amc.es" ,|ES-4K| AMC
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127730
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" tvg-id="cosmo.es" ,|ES-4K| COSMO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127731
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" tvg-id="energy.es" ,|ES-4K| ENERGY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127732
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FDF.png" ,|ES-4K| FDF
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127733
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png" tvg-id="bemad.es" ,|ES-4K| BE MAD TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127734
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DIVINITY.png" tvg-id="divinity.es" ,|ES-4K| DIVINITY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127735
+#EXTINF:-1 group-title="ESPANOL ENTRETENIMIENTO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="xtrm.es" ,|ES-4K| XTRM
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127736
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| CINE ESPANOL |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127675
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/netflix.png" ,|ES| La Casa de Papel
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/142650
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.ESTRENOSHD.png" tvg-id="movistarestrenos.es" ,|ES| M. ESTRENOS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127676
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" tvg-id="movistaraccion.es" ,|ES| M. ACCION
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127677
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png" tvg-id="moviestardrama.es" ,|ES| M. COMEDIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127678
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DRAMA_HD.png" ,|ES| M. DRAMA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127679
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Cine_Espanol.png" tvg-id="movistardcine.es" ,|ES| M. CINE ESPANOL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127680
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.CineDoc&Roll.png" tvg-id="mcinedocandroll.es" ,|ES| M. CINEDOC&ROLL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127681
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png" tvg-id="hollywood.es" ,|ES| HOLLYWOOD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127682
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" tvg-id="tcm.es" ,|ES| TCM
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127683
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" tvg-id="tnt.es" ,|ES| TNT
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127684
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" ,|ES| PARAMOUNT CHANNEL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127685
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| CINE ESPANOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127686
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.ESTRENOSHD.png" tvg-id="movistarestrenos.es" ,|ES-4K| M. ESTRENOS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127687
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" tvg-id="movistaraccion.es" ,|ES-4K| M. ACCION
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127688
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png" tvg-id="movistarcomedia.es" ,|ES-4K| M. COMEDIA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127689
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DRAMA_HD.png" tvg-id="moviestardrama.es" ,|ES-4K| M. DRAMA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127690
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Cine_Espanol.png" tvg-id="movistardcine.es" ,|ES-4K| M. CINE ESPANOL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127691
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.CineDoc&Roll.png" tvg-id="mcinedocandroll.es" ,|ES-4K| M. CINEDOC&ROLL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127692
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png" tvg-id="hollywood.es" ,|ES-4K| HOLLYWOOD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127693
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" tvg-id="tcm.es" ,|ES-4K| TCM
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127694
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" tvg-id="tnt.es" ,|ES-4K| TNT
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127695
+#EXTINF:-1 group-title="ESPANOL CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" tvg-id="paramountchannel.es" ,|ES-4K| PARAMOUNT CHANNEL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127696
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| ALQELIER SPAIN |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127737
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" tvg-id="alquiler1.es" ,|ES| ALQELIER 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127738
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 2 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135210
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 3 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135211
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 4 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135347
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 5 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135425
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 6 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135426
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 7 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135469
+#EXTINF:-1 group-title="ESPANOL ALQELIER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" ,|ES| ALQELIER 8 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/135500
+#EXTINF:-1 group-title="ESPANOL ALQELIER" ,|ES| ALQELIER 9 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/153321
+#EXTINF:-1 group-title="ESPANOL ALQELIER" ,|ES| ALQELIER 10 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/153322
+#EXTINF:-1 group-title="ESPANOL ALQELIER" ,|ES| ALQELIER 11 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/153323
+#EXTINF:-1 group-title="ESPANOL ALQELIER" ,|ES| ALQELIER 12 HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/153324
+#EXTINF:-1 group-title="ESPANOL ALQELIER" ,|SP| CHRISTMAS MOVIES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/153325
+#EXTINF:-1 group-title="ESPANOL ALQELIER" ,|SP| NETFLIX MOVIES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/153326
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| NINOS ESPAÑOL |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127779
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_CH..png" tvg-id="Movistar Disney ES" ,|ES| M. DISNEY
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127780
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png" tvg-id="boing.es" ,|ES| BOING
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127781
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_PANDA.png" tvg-id="canalpanda.es" ,|ES| CANAL PANDA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127782
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="disneychannel.es" ,|ES| DISNEY CHANNEL
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127783
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" tvg-id="disneyjunior.es" ,|ES| DISNEY JR
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127784
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| DISNEY XD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127785
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BabyTV.png" tvg-id="babytv.es" ,|ES| BABY TV 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127786
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICKELODEONHD.png
+" tvg-id="nickelodeon.es" ,|ES| NICKELODEON
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127787
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICK_JR.png" tvg-id="nickjr.es" ,|ES| NICK JR
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127788
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| NICK/MTV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127789
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="dreamworks.es" ,|ES| DREAMWORKS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127790
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| NINOS ESPAÑOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127791
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BabyTV.png" tvg-id="babytv.es" ,|ES-4K| BABY TV 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127792
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png" tvg-id="boing.es" ,|ES-4K| BOING 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127793
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_PANDA.png" tvg-id="canalpanda.es" ,|ES-4K| CANAL PANDA 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127794
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_CH_HD.png" ,|ES-4K| DISNEY CH 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127795
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" ,|ES-4K| DISNEY JR 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127796
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="dreamworks.es" ,|ES-4K| DREAMWORKS
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127797
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICK_JR.png" tvg-id="nickjr.es" ,|ES-4K| NICK JR 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127798
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES-4K| NICK/MTV 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127799
+#EXTINF:-1 group-title="ESPANOL NINOS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICKELODEONHD.png" tvg-id="nickelodeon.es" ,|ES-4K| NICKELODEON
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127800
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| MUSICA ESPAÑOL |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127801
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MTV_HD.png" tvg-id="mtv.es" ,|ES| MTV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127802
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MTV_ESPANA.png" ,|ES| MTV ESPANA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127803
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEZZO.png" tvg-id="mezzo.es" ,|ES| MEZZO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127804
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEZZO_LIVE_HD.png" tvg-id="mezzolivehd.es" ,|ES| MEZZO LIVE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127805
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| LA VOZ KIDS ESPAÑA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127806
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/VH1.png" tvg-id="VH1 SE" ,|ES| VH1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127807
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| MUSICA ESPAÑOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127808
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="mtv.es" ,|ES-4K| MTV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127809
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="mtv.es" ,|ES-4K| MTV ESPANA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127810
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="mezzo.es" ,|ES-4K| MEZZO
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127811
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="mezzolivehd.es" ,|ES-4K| MEZZO LIVE HD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127812
+#EXTINF:-1 group-title="ESPANOL MUSICA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="VH1 ES" ,|ES-4K| VH1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127813
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| DEPORTES ESPANOL |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127814
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" tvg-id="dazn1.es" ,|ES| DAZN 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127815
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_2_HD.png" tvg-id="dazn2.es" ,|ES| DAZN 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127816
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_3_HD.png" tvg-id="dazn3.es" ,|ES| DAZN 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127817
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_4_HD.png" tvg-id="dazn4.es" ,|ES| DAZN 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127818
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_F1_HD.png" tvg-id="daznf1.es" ,|ES| DAZN F1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127819
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151123
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151124
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151125
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151126
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 5
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151127
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 6
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151128
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 7
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151129
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 8
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151130
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 9
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151131
+#EXTINF:-1 group-title="ESPANOL DEPORTES" ,|SP| FOOTTERS 10
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/151132
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEONES.png" tvg-id="mligadecampeones.es" ,|ES| M. LCAMPEONES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127820
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" tvg-id="mligadecampeones2.es" ,|ES| M. LCAMPEON 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127821
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTESHD.png" tvg-id="mdeportes1.es" ,|ES| M. DEPORTES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127822
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELEDEPORTE.png" tvg-id="teledeporte.es" ,|ES| TELEDEPORTE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127823
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/R.MADRID_TV.png" tvg-id="realmadridtv.es" ,|ES| REAL MADRID TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127824
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BARCA_TV.png" tvg-id="barcatv.es" ,|ES| BARCA TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127825
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT1HD.png" tvg-id="eurosport1.es" ,|ES| EUROSPORT 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127826
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT2.png" tvg-id="eurosport2.es" ,|ES| EUROSPORT 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127827
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="movistarformula1.es" ,|ES| M. F1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127828
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.GOLF_HD.png" tvg-id="movistargolf.es" ,|ES| M. GOLF
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127829
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/GOL.png" tvg-id="gol.es" ,|ES| GOL TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127830
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| DEPORTES ESPANOL 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127831
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" tvg-id="dazn1.es" ,|ES-4K| DAZN 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127832
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_2_HD.png" tvg-id="dazn2.es" ,|ES-4K| DAZN 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127833
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_3_HD.png" tvg-id="dazn3.es" ,|ES-4K| DAZN 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127834
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_4_HD.png" tvg-id="dazn4.es" ,|ES-4K| DAZN 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127835
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_F1_HD.png" tvg-id="daznf1.es" ,|ES-4K| DAZN F1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127836
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEONES.png" tvg-id="mligadecampeones.es" ,|ES-4K| M. LCAMPEONES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127837
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" tvg-id="mligadecampeones2.es" ,|ES-4K| M. LCAMPEON 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127838
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTESHD.png" tvg-id="mdeportes1.es" ,|ES-4K| M. DEPORTES
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127839
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELEDEPORTE.png" tvg-id="teledeporte.es" ,|ES-4K| TELEDEPORTE
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127840
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/R.MADRID_TV.png" tvg-id="realmadridtv.es" ,|ES-4K| REAL MADRID TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127841
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BARCA_TV.png" tvg-id="barcatv.es" ,|ES-4K| BARCA TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127842
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT1HD.png" tvg-id="eurosport1.es" ,|ES-4K| EUROSPORT 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127843
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT2.png" tvg-id="eurosport2.es" ,|ES-4K| EUROSPORT 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127844
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" tvg-id="movistarformula1.es" ,|ES-4K| M. F1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127845
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.GOLF_HD.png" tvg-id="movistargolf.es" ,|ES-4K| M. GOLF
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127846
+#EXTINF:-1 group-title="ESPANOL DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/GOL.png" tvg-id="gol.es" ,|ES-4K| GOL TV
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127847
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127848
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_HD.png" tvg-id="mlaliga.es" ,|ES| M. LALIGA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127849
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" tvg-id="mlaliga1.es" ,|ES| M. LALIGA 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127850
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_2_HD.png" tvg-id="mlaliga2.es" ,|ES| M. LALIGA 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127851
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_3_HD.png" tvg-id="mlaliga3.es" ,|ES| M. LALIGA 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127852
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_4.png" tvg-id="mlaliga4.es" ,|ES| M. LALIGA 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127853
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_6.png" tvg-id="mlaliga6.es" ,|ES| M. LALIGA 6
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127854
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_7.png" tvg-id="mlaliga7.es" ,|ES| M. LALIGA 7
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127855
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_8.png" tvg-id="mlaliga8.es" ,|ES| M. LALIGA 8
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127856
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_9.png" tvg-id="mlaliga9.es" ,|ES| M. LALIGA 9
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127857
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" ,|ES| M. LALIGA 10
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127858
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES1HD.png" tvg-id="mdeportes1.es" ,|ES| M. DEPORTES 1 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127859
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES2.png" tvg-id="mdeportes2.es" ,|ES| M. DEPORTES 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127860
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES3.png" tvg-id="mdeportes3.es" ,|ES| M. DEPORTES 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127861
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES4.png" tvg-id="mdeportes4.es" ,|ES| M. DEPORTES 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127862
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES5.png" tvg-id="mdeportes5.es" ,|ES| M. DEPORTES 5
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127863
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES6.png" tvg-id="mdeportes6.es" ,|ES| M. DEPORTES 6
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127864
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES7.png" tvg-id="mdeportes7.es" ,|ES| M. DEPORTES 7
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127865
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON1.png" tvg-id="mligadecampeones1.es" ,|ES| M. LCAMPEON 1 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127866
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" tvg-id="mligadecampeones2.es" ,|ES| M. LCAMPEON 2 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127867
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON3.png" tvg-id="mligadecampeones3.es" ,|ES| M. LCAMPEON 3 
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127868
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON4.png" ,|ES| M. LCAMPEON 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127869
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON5.png" tvg-id="mligadecampeones5.es" ,|ES| M. LCAMPEON 5
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127870
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON6.png" tvg-id="mligadecampeones6.es" ,|ES| M. LCAMPEON 6
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127871
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON7.png" tvg-id="mligadecampeones7.es" ,|ES| M. LCAMPEON 7
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127872
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON8.png" tvg-id="mligadecampeones8.es" ,|ES| M. LCAMPEON 8
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127873
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" ,|ES| M. WIMBLEDONHD
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127874
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-spain.png" ,-----| DEPORTES ESPAÑOL (SOLO PARTIDO) 4K |-----
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127875
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_HD.png" tvg-id="mligadecampeones.es" ,|ES-4K| M. LALIGA
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127876
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" tvg-id="mligadecampeones1.es" ,|ES-4K| M. LALIGA 1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127877
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_2_HD.png" tvg-id="mligadecampeones2.es" ,|ES-4K| M. LALIGA 2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127878
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_3_HD.png" tvg-id="mligadecampeones3.es" ,|ES-4K| M. LALIGA 3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127879
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_4.png" tvg-id="mligadecampeones4.es" ,|ES-4K| M. LALIGA 4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127880
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_6.png" tvg-id="mligadecampeones6.es" ,|ES-4K| M. LALIGA 6
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127881
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_7.png" tvg-id="mligadecampeones7.es" ,|ES-4K| M. LALIGA 7
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127882
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_8.png" tvg-id="mligadecampeones8.es" ,|ES-4K| M. LALIGA 8
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127883
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_9.png" ,|ES-4K| M. LALIGA 9
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127884
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" ,|ES-4K| M. LALIGA 10
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127885
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES1HD.png" tvg-id="mdeportes1.es" ,|ES-4K| M. DEPORTES1
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127886
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES2.png" tvg-id="mdeportes2.es" ,|ES-4K| M. DEPORTES2
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127887
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES3.png" tvg-id="mdeportes3.es" ,|ES-4K| M. DEPORTES3
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127888
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES4.png" tvg-id="mdeportes4.es" ,|ES-4K| M. DEPORTES4
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127889
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES5.png" tvg-id="mdeportes5.es" ,|ES-4K| M. DEPORTES 5
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127890
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES6.png" tvg-id="mdeportes6.es" ,|ES-4K| M. DEPORTES 6
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127891
+#EXTINF:-1 group-title="ESPANOL DEPORTES SOLO PARTIDO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES7.png" tvg-id="mdeportes7.es" ,|ES-4K| M. DEPORTES 7
+http://www.sansat.net:25461/Stalker7/8FRMMHMMFUX3ZXG/127892
