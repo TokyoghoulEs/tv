@@ -1,0 +1,509 @@
+#EXTM3U
+#EXTINF:-1 group-title="Spain" tvg-logo="https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Spain_-_Circle-256.png" ,-= Spain =-
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/14913
+#EXTINF:-1 group-title="Spain" ,101 Tele Antequera ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92797
+#EXTINF:-1 group-title="Spain" ,101TV FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100146
+#EXTINF:-1 group-title="Spain" ,101TV Málaga ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92798
+#EXTINF:-1 group-title="Spain" tvg-id="calle13.es" ,13 TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48641
+#EXTINF:-1 group-title="Spain" tvg-id="24horas.es" ,24 Horas ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48642
+#EXTINF:-1 group-title="Spain" ,25 TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92795
+#EXTINF:-1 group-title="Spain" ,28 KANALA HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92796
+#EXTINF:-1 group-title="Spain" ,7 Murcia ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48644
+#EXTINF:-1 group-title="Spain" ,7 R. De Murcia HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100179
+#EXTINF:-1 group-title="Spain" tvg-id="atreseries.es" ,A3 Series ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48646
+#EXTINF:-1 group-title="Spain" ,Alcarria TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100193
+#EXTINF:-1 group-title="Spain" ,Alternativa TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92799
+#EXTINF:-1 group-title="Spain" tvg-id="amc.es" ,AMC ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48648
+#EXTINF:-1 group-title="Spain" tvg-id="amc.es" ,AMC FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48647
+#EXTINF:-1 group-title="Spain" tvg-id="andalucíatv.es" ,Andalucia ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48654
+#EXTINF:-1 group-title="Spain" tvg-id="antena3.es" ,Antena 3 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48656
+#EXTINF:-1 group-title="Spain" tvg-id="antena3.es" ,Antena 3 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48655
+#EXTINF:-1 group-title="Spain" ,Aragon ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48657
+#EXTINF:-1 group-title="Spain" ,AtresSeries HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100152
+#EXTINF:-1 group-title="Spain" ,ATV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92800
+#EXTINF:-1 group-title="Spain" tvg-id="axn.es" ,AXN ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48652
+#EXTINF:-1 group-title="Spain" tvg-id="axn.es" ,AXN FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48649
+#EXTINF:-1 group-title="Spain" tvg-id="axnwhite.es" ,AXN White HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48651
+#EXTINF:-1 group-title="Spain" tvg-id="axnwhite.es" ,AXN White FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48650
+#EXTINF:-1 group-title="Spain" tvg-id="babytv.es" ,Baby ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48658
+#EXTINF:-1 group-title="Spain" ,Bailen TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100167
+#EXTINF:-1 group-title="Spain" tvg-id="barcatv.es" ,Barca TV. ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48659
+#EXTINF:-1 group-title="Spain" tvg-id="bemad.es" ,Be Mad FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48660
+#EXTINF:-1 group-title="Spain" ,Betevé FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100180
+#EXTINF:-1 group-title="Spain" tvg-id="blaze.es" ,Blaze ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48674
+#EXTINF:-1 group-title="Spain" tvg-id="boing.es" ,Boing ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48675
+#EXTINF:-1 group-title="Spain" ,Bon Dia Cataluña FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92803
+#EXTINF:-1 group-title="Spain" ,C33 MADRID HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92804
+#EXTINF:-1 group-title="Spain" tvg-id="calle13.es" ,Calle 13 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48681
+#EXTINF:-1 group-title="Spain" tvg-id="calle13.es" ,Calle 13 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48680
+#EXTINF:-1 group-title="Spain" ,Canal 2000 La Solana HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100164
+#EXTINF:-1 group-title="Spain" ,Canal 45 TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92807
+#EXTINF:-1 group-title="Spain" ,Canal 45 TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100191
+#EXTINF:-1 group-title="Spain" ,Canal Capital Colombia HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100176
+#EXTINF:-1 group-title="Spain" tvg-id="canalcocina.es" ,Canal Cocina ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92808
+#EXTINF:-1 group-title="Spain" ,Canal Malaga FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100144
+#EXTINF:-1 group-title="Spain" ,CANAL SAN ROQUE ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92810
+#EXTINF:-1 group-title="Spain" ,Canal Sierra de Cádiz FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100192
+#EXTINF:-1 group-title="Spain" tvg-id="canalsur.es" ,Canal Sur FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48689
+#EXTINF:-1 group-title="Spain" tvg-id="canalsur.es" ,Canal Sur 2 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100149
+#EXTINF:-1 group-title="Spain" ,Caracol HD HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100166
+#EXTINF:-1 group-title="Spain" ,Cazavision HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100158
+#EXTINF:-1 group-title="Spain" tvg-id="cazapesca.es" ,Cazy & Pesca ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48692
+#EXTINF:-1 group-title="Spain" tvg-id="cazapesca.es" ,Cazy & Pesca FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48691
+#EXTINF:-1 group-title="Spain" tvg-id="crimeinvestigation.es" ,CI ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48677
+#EXTINF:-1 group-title="Spain" tvg-id="clantve.es" ,Clan ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48694
+#EXTINF:-1 group-title="Spain" tvg-id="clantve.es" ,Clan HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48693
+#EXTINF:-1 group-title="Spain" ,Classica ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48695
+#EXTINF:-1 group-title="Spain" ,CMM ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92812
+#EXTINF:-1 group-title="Spain" tvg-id="canalcocina.es" ,Cocina ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48697
+#EXTINF:-1 group-title="Spain" tvg-id="canalcocina.es" ,Cocina FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48696
+#EXTINF:-1 group-title="Spain" tvg-id="comedycentral.es" ,Comedy Central ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48699
+#EXTINF:-1 group-title="Spain" tvg-id="comedycentral.es" ,Comedy Central FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48698
+#EXTINF:-1 group-title="Spain" tvg-id="cosmo.es" ,Cosmopolitan FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48701
+#EXTINF:-1 group-title="Spain" tvg-id="cosmo.es" ,Cosmos [Multi-Aud] ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48702
+#EXTINF:-1 group-title="Spain" ,CostadelSol TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92813
+#EXTINF:-1 group-title="Spain" ,DAZN HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48703
+#EXTINF:-1 group-title="Spain" ,DAZN F1 HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100157
+#EXTINF:-1 group-title="Spain" tvg-id="canaldecasa.es" ,Decasa ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48705
+#EXTINF:-1 group-title="Spain" ,Dejate De Historias TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100143
+#EXTINF:-1 group-title="Spain" ,Diez TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92815
+#EXTINF:-1 group-title="Spain" tvg-id="discoverychannel.es" ,Discovery Channel ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48706
+#EXTINF:-1 group-title="Spain" tvg-id="disneychannel.es" ,Disney Channel ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48708
+#EXTINF:-1 group-title="Spain" tvg-id="disneychannel.es" ,Disney Channel FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48707
+#EXTINF:-1 group-title="Spain" tvg-id="disneyjunior.es" ,Disney Junior ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48709
+#EXTINF:-1 group-title="Spain" tvg-id="disneyxd.es" ,Disney XD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48710
+#EXTINF:-1 group-title="Spain" ,Distrito TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92816
+#EXTINF:-1 group-title="Spain" tvg-id="divinity.es" ,Divinity ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48712
+#EXTINF:-1 group-title="Spain" tvg-id="dkiss.es" ,Dkiss ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48713
+#EXTINF:-1 group-title="Spain" tvg-id="dmax.es" ,Dmax HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48714
+#EXTINF:-1 group-title="Spain" ,DreamWorks FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100156
+#EXTINF:-1 group-title="Spain" tvg-id="eltorotv.es" ,El Toro TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100140
+#EXTINF:-1 group-title="Spain" tvg-id="energy.es" ,Energy ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48717
+#EXTINF:-1 group-title="Spain" ,ETB 2 HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100185
+#EXTINF:-1 group-title="Spain" ,ETB SAT HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100182
+#EXTINF:-1 group-title="Spain" tvg-id="eurosport1.es" ,EuroSport 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48720
+#EXTINF:-1 group-title="Spain" tvg-id="eurosport1.es" ,EuroSport 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48719
+#EXTINF:-1 group-title="Spain" tvg-id="eurosport2.es" ,EuroSport 2 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48721
+#EXTINF:-1 group-title="Spain" ,Extrema TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100174
+#EXTINF:-1 group-title="Spain" ,FDF ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48725
+#EXTINF:-1 group-title="Spain" tvg-id="fox.es" ,Fox ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48730
+#EXTINF:-1 group-title="Spain" tvg-id="fox.es" ,Fox FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48727
+#EXTINF:-1 group-title="Spain" tvg-id="foxlife.es" ,Fox Life ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48729
+#EXTINF:-1 group-title="Spain" tvg-id="foxlife.es" ,Fox Life FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48728
+#EXTINF:-1 group-title="Spain" ,FOX News ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48726
+#EXTINF:-1 group-title="Spain" tvg-id="garagetv.es" ,El Garage TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100178
+#EXTINF:-1 group-title="Spain" tvg-id="gol.es" ,Gol TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48733
+#EXTINF:-1 group-title="Spain" tvg-id="historia.es" ,Historia HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48735
+#EXTINF:-1 group-title="Spain" tvg-id="historia.es" ,Historia FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48734
+#EXTINF:-1 group-title="Spain" ,Hit TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48736
+#EXTINF:-1 group-title="Spain" tvg-id="hollywood.es" ,Hollywood ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100153
+#EXTINF:-1 group-title="Spain" tvg-id="hollywood.es" ,Hollywood FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48737
+#EXTINF:-1 group-title="Spain" ,Iberalia TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100141
+#EXTINF:-1 group-title="Spain" ,Ibiza Global TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92819
+#EXTINF:-1 group-title="Spain" ,Interalmeria FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48741
+#EXTINF:-1 group-title="Spain" ,Islatel ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92820
+#EXTINF:-1 group-title="Spain" tvg-id="la1.es" ,LA 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48744
+#EXTINF:-1 group-title="Spain" tvg-id="la1.es" ,LA 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48743
+#EXTINF:-1 group-title="Spain" tvg-id="la2.es" ,LA 2 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48746
+#EXTINF:-1 group-title="Spain" tvg-id="la2.es" ,LA 2 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48745
+#EXTINF:-1 group-title="Spain" tvg-id="cuatro.es" ,La Cuatro ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48750
+#EXTINF:-1 group-title="Spain" tvg-id="cuatro.es" ,La Cuatro FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48749
+#EXTINF:-1 group-title="Spain" tvg-id="beinlaliga.es" ,LA LIGATV BAR 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48747
+#EXTINF:-1 group-title="Spain" tvg-id="lasexta.es" ,La Sexta FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48751
+#EXTINF:-1 group-title="Spain" tvg-id="lasexta.es" ,La Sexta HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48752
+#EXTINF:-1 group-title="Spain" ,Lancelot TV HD HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100181
+#EXTINF:-1 group-title="Spain" ,Lebrija TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48754
+#EXTINF:-1 group-title="Spain" ,Levante TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48755
+#EXTINF:-1 group-title="Spain" ,Levante TV FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100142
+#EXTINF:-1 group-title="Spain" tvg-id="mligadecampeones1.es" ,Liga Campeones 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48757
+#EXTINF:-1 group-title="Spain" ,Liga Campeones 1 HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48756
+#EXTINF:-1 group-title="Spain" tvg-id="mligadecampeones.es" ,Liga Campeones FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48766
+#EXTINF:-1 group-title="Spain" tvg-id="beinlaliga1.es" ,Liga TV FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48768
+#EXTINF:-1 group-title="Spain" tvg-id="laliga123tv.es" ,Liga123 TV FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48769
+#EXTINF:-1 group-title="Spain" tvg-id="laliga123tv.es" ,Liga123 SD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48773
+#EXTINF:-1 group-title="Spain" ,LOGOS TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92823
+#EXTINF:-1 group-title="Spain" ,M95 Marbella ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92824
+#EXTINF:-1 group-title="Spain" ,Marbella TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100187
+#EXTINF:-1 group-title="Spain" tvg-id="mega.es" ,Mega ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48775
+#EXTINF:-1 group-title="Spain" tvg-id="mezzolivehd.es" ,Mezzo Live FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48776
+#EXTINF:-1 group-title="Spain" ,MOLA TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92826
+#EXTINF:-1 group-title="Spain" tvg-id="#0.es" ,Movistar 0# FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48779
+#EXTINF:-1 group-title="Spain" tvg-id="movistaraccion.es" ,Movistar Accion FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48938
+#EXTINF:-1 group-title="Spain" tvg-id="movistaraccion.es" ,Movistar Accion HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48780
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler1.es" ,Movistar Alquiler 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48782
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler2.es" ,Movistar Alquiler 2 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48783
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler3.es" ,Movistar Alquiler 3 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48784
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler4.es" ,Movistar Alquiler 4 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48785
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler5.es" ,Movistar Alquiler 5 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48786
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler6.es" ,Movistar Alquiler 6 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48787
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler1.es" ,Movistar Alquiler Multivision 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48788
+#EXTINF:-1 group-title="Spain" tvg-id="alquiler1.es" ,Movistar Alquiler Presentation ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48790
+#EXTINF:-1 group-title="Spain" tvg-id="mcinedocandroll.es" ,Movistar Cinedoc & Roll FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48791
+#EXTINF:-1 group-title="Spain" tvg-id="movistarcomedia.es" ,Movistar Comedia FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48792
+#EXTINF:-1 group-title="Spain" tvg-id="dcineespanol.es" ,Movistar DCine ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48794
+#EXTINF:-1 group-title="Spain" tvg-id="movistardcine.es" ,Movistar Dcine HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48937
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes.es" ,Movistar Deporte 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48795
+#EXTINF:-1 group-title="Spain" ,Movistar Deporte 2 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48796
+#EXTINF:-1 group-title="Spain" ,Movistar Deporte 3 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48797
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes.es" ,Movistar Deporte ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48803
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes.es" ,Movistar Deportes 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48935
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes.es" ,Movistar Deportes 1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48920
+#EXTINF:-1 group-title="Spain" ,Movistar Deportes 2 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48934
+#EXTINF:-1 group-title="Spain" tvg-id="movistardeportes.es" ,Movistar Deportes FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48929
+#EXTINF:-1 group-title="Spain" tvg-id="mdisney.es" ,Movistar Disney HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48804
+#EXTINF:-1 group-title="Spain" tvg-id="mdisney.es" ,Movistar Disney ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48928
+#EXTINF:-1 group-title="Spain" tvg-id="moviestardrama.es" ,Movistar Drama ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48806
+#EXTINF:-1 group-title="Spain" tvg-id="moviestardrama.es" ,Movistar Drama HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48805
+#EXTINF:-1 group-title="Spain" tvg-id="moviestardrama.es" ,Movistar Drama FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48927
+#EXTINF:-1 group-title="Spain" ,Movistar ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48825
+#EXTINF:-1 group-title="Spain" tvg-id="movistarestrenos.es" ,Movistar Estrenos ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48926
+#EXTINF:-1 group-title="Spain" tvg-id="movistarestrenos.es" ,Movistar EStrenos HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48826
+#EXTINF:-1 group-title="Spain" tvg-id="movistarestrenos.es" ,Movistar EStrenos FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48827
+#EXTINF:-1 group-title="Spain" tvg-id="movistarformula1.es" ,Movistar F1 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48807
+#EXTINF:-1 group-title="Spain" tvg-id="movistarformula1.es" ,Movistar Formula FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48918
+#EXTINF:-1 group-title="Spain" tvg-id="movistarformula1.es" ,Movistar Formula 1 UHD 4K ES  [Only On 4K Devices]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/87091
+#EXTINF:-1 group-title="Spain" tvg-id="movistargolf.es" ,Movistar Golf ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48810
+#EXTINF:-1 group-title="Spain" tvg-id="movistargolf.es" ,Movistar Golf HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48809
+#EXTINF:-1 group-title="Spain" tvg-id="movistargolf.es" ,Movistar Golf FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48924
+#EXTINF:-1 group-title="Spain" tvg-id="mligadecampeones.es" ,Movistar Liga De Campeon 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48917
+#EXTINF:-1 group-title="Spain" tvg-id="movistarmotogp.es" ,Movistar Moto GP ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48812
+#EXTINF:-1 group-title="Spain" tvg-id="movistarmotogp.es" ,Movistar Moto GP FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48811
+#EXTINF:-1 group-title="Spain" tvg-id="movistarseries.es" ,Movistar Series ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48816
+#EXTINF:-1 group-title="Spain" tvg-id="movistarseries.es" ,Movistar Series FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48813
+#EXTINF:-1 group-title="Spain" tvg-id="movistarseriesmania.es" ,Movistar Series Mania ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48815
+#EXTINF:-1 group-title="Spain" tvg-id="movistarseriesmania.es" ,Movistar Series Mania FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48814
+#EXTINF:-1 group-title="Spain" tvg-id="toros.es" ,Movistar Toros ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48819
+#EXTINF:-1 group-title="Spain" tvg-id="toros.es" ,Movistar Toros HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48817
+#EXTINF:-1 group-title="Spain" tvg-id="vamos.es" ,Movistar Vamos ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48822
+#EXTINF:-1 group-title="Spain" tvg-id="vamos.es" ,Movistar Vamos FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48820
+#EXTINF:-1 group-title="Spain" ,Movistar Xtra FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48824
+#EXTINF:-1 group-title="Spain" tvg-id="mtv.es" ,MTV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48774
+#EXTINF:-1 group-title="Spain" ,Multi-Futbol 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48829
+#EXTINF:-1 group-title="Spain" ,Multi-futboll 1 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48907
+#EXTINF:-1 group-title="Spain" ,Multideporte ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48908
+#EXTINF:-1 group-title="Spain" ,Multideporte ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48837
+#EXTINF:-1 group-title="Spain" tvg-id="natgeo.es" ,Nat Geo FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48838
+#EXTINF:-1 group-title="Spain" tvg-id="natgeo.es" ,Nat Geo HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48841
+#EXTINF:-1 group-title="Spain" tvg-id="natgeowild.es" ,Nat Geo Wild FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48839
+#EXTINF:-1 group-title="Spain" tvg-id="natgeowild.es" ,Nat Geo Wild HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48840
+#EXTINF:-1 group-title="Spain" tvg-id="neox.es" ,Neox ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48842
+#EXTINF:-1 group-title="Spain" tvg-id="nickjr.es" ,Nick Jr ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48843
+#EXTINF:-1 group-title="Spain" tvg-id="nickelodeon.es" ,Nickelodeon ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48846
+#EXTINF:-1 group-title="Spain" tvg-id="nickelodeon.es" ,Nickelodeon FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48845
+#EXTINF:-1 group-title="Spain" ,Norte Visión Music HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100183
+#EXTINF:-1 group-title="Spain" tvg-id="nova.es" ,Nova ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48847
+#EXTINF:-1 group-title="Spain" tvg-id="odisea.es" ,Odisea ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48848
+#EXTINF:-1 group-title="Spain" tvg-id="canalpanda.es" ,Panda ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48850
+#EXTINF:-1 group-title="Spain" tvg-id="paramountchannel.es" ,Paramount ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48851
+#EXTINF:-1 group-title="Spain" tvg-id="realmadridtv.es" ,Real Madrid TV. ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48854
+#EXTINF:-1 group-title="Spain" ,RM7 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92828
+#EXTINF:-1 group-title="Spain" ,RTVC ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/84111
+#EXTINF:-1 group-title="Spain" ,Sal Televisión ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92829
+#EXTINF:-1 group-title="Spain" ,Sevilla FC TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100151
+#EXTINF:-1 group-title="Spain" ,SOLIDARIA TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92830
+#EXTINF:-1 group-title="Spain" tvg-id="somos.es" ,Somos FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/85906
+#EXTINF:-1 group-title="Spain" tvg-id="sundance.es" ,Sundance ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48858
+#EXTINF:-1 group-title="Spain" tvg-id="sundance.es" ,Sundance FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48857
+#EXTINF:-1 group-title="Spain" tvg-id="syfy.es" ,Syfy ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48861
+#EXTINF:-1 group-title="Spain" tvg-id="syfy.es" ,Syfy FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48860
+#EXTINF:-1 group-title="Spain" tvg-id="tcm.es" ,TCM ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48864
+#EXTINF:-1 group-title="Spain" tvg-id="tcm.es" ,TCM FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48863
+#EXTINF:-1 group-title="Spain" ,TDP FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100147
+#EXTINF:-1 group-title="Spain" ,TELEARANDA ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92831
+#EXTINF:-1 group-title="Spain" tvg-id="telecinco.es" ,Telecinco ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48882
+#EXTINF:-1 group-title="Spain" tvg-id="telecinco.es" ,Telecinco FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48881
+#EXTINF:-1 group-title="Spain" tvg-id="teledeporte.es" ,Teledeporte ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48884
+#EXTINF:-1 group-title="Spain" tvg-id="teledeporte.es" ,Teledeporte FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48883
+#EXTINF:-1 group-title="Spain" ,TeleGilena ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92832
+#EXTINF:-1 group-title="Spain" ,Telesur Madrid HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100186
+#EXTINF:-1 group-title="Spain" ,TeleSur Venezuela HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100184
+#EXTINF:-1 group-title="Spain" tvg-id="ten.es" ,TEN ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48865
+#EXTINF:-1 group-title="Spain" ,Tenerife 2030 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92833
+#EXTINF:-1 group-title="Spain" ,TEVE4 HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100175
+#EXTINF:-1 group-title="Spain" tvg-id="tnt.es" ,TNT ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48868
+#EXTINF:-1 group-title="Spain" tvg-id="tnt.es" ,TNT FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48867
+#EXTINF:-1 group-title="Spain" ,TRECE HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92836
+#EXTINF:-1 group-title="Spain" ,Trece HD HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100171
+#EXTINF:-1 group-title="Spain" ,Tuya La Janda TV ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92837
+#EXTINF:-1 group-title="Spain" ,TV Canaria HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100165
+#EXTINF:-1 group-title="Spain" ,TV3 ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/92838
+#EXTINF:-1 group-title="Spain" tvg-id="tv3cataluny.es" ,TV3 FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48869
+#EXTINF:-1 group-title="Spain" tvg-id="tveintamerica.es" ,TVE Internacional ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/57978
+#EXTINF:-1 group-title="Spain" ,TVG Infantil HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100155
+#EXTINF:-1 group-title="Spain" ,UD Las Palmas TV HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100172
+#EXTINF:-1 group-title="Spain" ,Venezolana De Television ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100177
+#EXTINF:-1 group-title="Spain" tvg-id="viajar.es" ,Viajar ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48892
+#EXTINF:-1 group-title="Spain" tvg-id="viajar.es" ,Viajar FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/48891
+#EXTINF:-1 group-title="Spain" ,VTelesafor HD HD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/100170
+#EXTINF:-1 group-title="Spain" tvg-id="xtrm.es" ,XTRM FHD ES
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/85905
+#EXTINF:-1 group-title="Spain" ,Footters 1 ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96021
+#EXTINF:-1 group-title="Spain" ,Footters 2 ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96022
+#EXTINF:-1 group-title="Spain" ,Footters 3 ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96023
+#EXTINF:-1 group-title="Spain" ,Footters 4 ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96024
+#EXTINF:-1 group-title="Spain" ,Footters 5 ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96025
+#EXTINF:-1 group-title="Spain" ,Footters 6 ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96026
+#EXTINF:-1 group-title="Spain" ,Evento 1 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96027
+#EXTINF:-1 group-title="Spain" ,Evento 2 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96028
+#EXTINF:-1 group-title="Spain" ,Evento 3 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96029
+#EXTINF:-1 group-title="Spain" ,Evento 4 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96030
+#EXTINF:-1 group-title="Spain" ,Evento 5 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96031
+#EXTINF:-1 group-title="Spain" ,Evento 6 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96032
+#EXTINF:-1 group-title="Spain" ,Evento 7 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96033
+#EXTINF:-1 group-title="Spain" ,Evento 8 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96034
+#EXTINF:-1 group-title="Spain" ,Evento 9 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96035
+#EXTINF:-1 group-title="Spain" ,Evento 10 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96036
+#EXTINF:-1 group-title="Spain" ,Evento 11 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96037
+#EXTINF:-1 group-title="Spain" ,Evento 12 HD ES [Live During Events Only]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/96038
