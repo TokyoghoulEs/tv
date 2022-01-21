@@ -1,14 +1,2 @@
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 HD
-http://103.194.169.171:8282/ES_LA_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 SD
-http://863580065731272419.niceyes.xyz:80/Manolin/Manolin/272419?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="Undefined",La 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1 FHD
-http://naudano.online:2082/P21017291/jKAKmaAWF9S9/178033?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1 FullHD
-http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/48665?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1 HD
-http://naudano.online:2082/P21017291/jKAKmaAWF9S9/178032?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1 SD
-http://naudano.online:2082/P21017291/jKAKmaAWF9S9/178031?checkedby:iptvcat.com
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
