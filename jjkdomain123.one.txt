@@ -1,0 +1,1083 @@
+#EXTM3U
+#EXTINF:-1 group-title="Spain" ,ES: M. Series 2 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/1026607
+#EXTINF:-1 group-title="Spain" ,ES: M. Series 2 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/1026606
+#EXTINF:-1 group-title="Spain" ,ES: M. Series 2 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/1026605
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Series 2 SD
+http://jjkdomain123.one:80/Charlie/Charlie/1026604
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos 2 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/1026603
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos 2 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/1026602
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos 2 SD
+http://jjkdomain123.one:80/Charlie/Charlie/1026601
+#EXTINF:-1 group-title="Spain" ,ES: #0 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657631
+#EXTINF:-1 group-title="Spain" ,ES: #0 FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657448
+#EXTINF:-1 group-title="Spain" ,ES: #0 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657630
+#EXTINF:-1 group-title="Spain" ,ES: #0 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657629
+#EXTINF:-1 group-title="Spain" ,ES: #0 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657628
+#EXTINF:-1 group-title="Spain" ,ES: #0 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657627
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos Bar
+http://jjkdomain123.one:80/Charlie/Charlie/657871
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657876
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657447
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657875
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657874
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657873
+#EXTINF:-1 group-title="Spain" ,ES: #Vamos SD
+http://jjkdomain123.one:80/Charlie/Charlie/657872
+#EXTINF:-1 group-title="Spain" ,ES: +24
+http://jjkdomain123.one:80/Charlie/Charlie/657747
+#EXTINF:-1 group-title="Spain" tvg-id="TV24.ch" ,ES: 24H
+http://jjkdomain123.one:80/Charlie/Charlie/657748
+#EXTINF:-1 group-title="Spain" tvg-id="324.es" ,ES: 3/24 CAT
+http://jjkdomain123.one:80/Charlie/Charlie/657521
+#EXTINF:-1 group-title="Spain" ,ES: 33 CAT
+http://jjkdomain123.one:80/Charlie/Charlie/657520
+#EXTINF:-1 group-title="Spain" ,ES: 7 TeleValencia
+http://jjkdomain123.one:80/Charlie/Charlie/657733
+#EXTINF:-1 group-title="Spain" ,ES: 7 TV Murcia
+http://jjkdomain123.one:80/Charlie/Charlie/657741
+#EXTINF:-1 group-title="Spain" ,ES: 7 TV Murcia HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657742
+#EXTINF:-1 group-title="Spain" ,ES: 8TV Cádiz
+http://jjkdomain123.one:80/Charlie/Charlie/657711
+#EXTINF:-1 group-title="Spain" ,ES: A3series HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657757
+#EXTINF:-1 group-title="Spain" ,ES: Alcarria TV
+http://jjkdomain123.one:80/Charlie/Charlie/657710
+#EXTINF:-1 group-title="Spain" ,ES: AMC FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657618
+#EXTINF:-1 group-title="Spain" ,ES: AMC HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657617
+#EXTINF:-1 group-title="Spain" ,ES: AMC HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657616
+#EXTINF:-1 group-title="Spain" tvg-id="AMC.es" ,ES: AMC SD
+http://jjkdomain123.one:80/Charlie/Charlie/657615
+#EXTINF:-1 group-title="Spain" tvg-id="AntenaLatina.do" ,ES: Antena 3 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657800
+#EXTINF:-1 group-title="Spain" tvg-id="Antena3.es" ,ES: Antena 3 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657799
+#EXTINF:-1 group-title="Spain" tvg-id="Antena3.es" ,ES: Antena 3 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657798
+#EXTINF:-1 group-title="Spain" tvg-id="Antena3.es" ,ES: Antena 3 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657797
+#EXTINF:-1 group-title="Spain" tvg-id="GarageTV.es" ,ES: Aragon TV
+http://jjkdomain123.one:80/Charlie/Charlie/657495
+#EXTINF:-1 group-title="Spain" tvg-id="GarageTV.es" ,ES: Aragón TV Deportes
+http://jjkdomain123.one:80/Charlie/Charlie/657738
+#EXTINF:-1 group-title="Spain" ,ES: AXN FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657606
+#EXTINF:-1 group-title="Spain" ,ES: AXN HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657605
+#EXTINF:-1 group-title="Spain" ,ES: AXN HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657604
+#EXTINF:-1 group-title="Spain" tvg-id="AXN.es" ,ES: AXN SD
+http://jjkdomain123.one:80/Charlie/Charlie/657603
+#EXTINF:-1 group-title="Spain" ,ES: AXN White FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657602
+#EXTINF:-1 group-title="Spain" ,ES: AXN White HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657601
+#EXTINF:-1 group-title="Spain" ,ES: AXN White HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657600
+#EXTINF:-1 group-title="Spain" tvg-id="AXNWhite.es" ,ES: AXN White SD
+http://jjkdomain123.one:80/Charlie/Charlie/657599
+#EXTINF:-1 group-title="Spain" tvg-id="BabyTV.es" ,ES: Baby TV
+http://jjkdomain123.one:80/Charlie/Charlie/657530
+#EXTINF:-1 group-title="Spain" tvg-id="BarcaTV.es" ,ES: Barca TV
+http://jjkdomain123.one:80/Charlie/Charlie/657907
+#EXTINF:-1 group-title="Spain" tvg-id="BarcaTV.es" ,ES: Barca TV HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657908
+#EXTINF:-1 group-title="Spain" tvg-id="BeMad.es" ,ES: BeMad TV
+http://jjkdomain123.one:80/Charlie/Charlie/657766
+#EXTINF:-1 group-title="Spain" tvg-id="BeMad.es" ,ES: BeMad TV HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657768
+#EXTINF:-1 group-title="Spain" tvg-id="BeMad.es" ,ES: BeMad TV HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657767
+#EXTINF:-1 group-title="Spain" tvg-id="BET.ca" ,ES: Betevé CAT
+http://jjkdomain123.one:80/Charlie/Charlie/657522
+#EXTINF:-1 group-title="Spain" ,ES: Betis TV
+http://jjkdomain123.one:80/Charlie/Charlie/657905
+#EXTINF:-1 group-title="Spain" tvg-id="Blaze.es" ,ES: Blaze
+http://jjkdomain123.one:80/Charlie/Charlie/657556
+#EXTINF:-1 group-title="Spain" tvg-id="Blaze.es" ,ES: Blaze FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657557
+#EXTINF:-1 group-title="Spain" tvg-id="Boing.es" ,ES: Boing HD
+http://jjkdomain123.one:80/Charlie/Charlie/657758
+#EXTINF:-1 group-title="Spain" tvg-id="Boing.es" ,ES: BOM Cine
+http://jjkdomain123.one:80/Charlie/Charlie/657648
+#EXTINF:-1 group-title="Spain" tvg-id="BoliviaTv.bo" ,ES: Bon Dia TV
+http://jjkdomain123.one:80/Charlie/Charlie/657706
+#EXTINF:-1 group-title="Spain" tvg-id="Canale5.it" ,ES: Cadena Elite
+http://jjkdomain123.one:80/Charlie/Charlie/657485
+#EXTINF:-1 group-title="Spain" tvg-id="Calle13.es" ,ES: Calle 13
+http://jjkdomain123.one:80/Charlie/Charlie/657623
+#EXTINF:-1 group-title="Spain" ,ES: Calle 13 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657626
+#EXTINF:-1 group-title="Spain" tvg-id="Calle13.es" ,ES: Calle 13 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657625
+#EXTINF:-1 group-title="Spain" tvg-id="Calle13.es" ,ES: Calle 13 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657624
+#EXTINF:-1 group-title="Spain" tvg-id="CanalCocina.es" ,ES: Canal Cocina
+http://jjkdomain123.one:80/Charlie/Charlie/657550
+#EXTINF:-1 group-title="Spain" tvg-id="CanalCocina.es" ,ES: Canal Cocina 4K
+http://jjkdomain123.one:80/Charlie/Charlie/657553
+#EXTINF:-1 group-title="Spain" tvg-id="CanalCocina.es" ,ES: Canal Cocina HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657552
+#EXTINF:-1 group-title="Spain" tvg-id="CanalCocina.es" ,ES: Canal Cocina HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657551
+#EXTINF:-1 group-title="Spain" ,ES: Canal Costa TV
+http://jjkdomain123.one:80/Charlie/Charlie/657743
+#EXTINF:-1 group-title="Spain" ,ES: Canal Dark HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657653
+#EXTINF:-1 group-title="Spain" tvg-id="CanalDelSol.do" ,ES: Canal Diocesano Toledo
+http://jjkdomain123.one:80/Charlie/Charlie/657709
+#EXTINF:-1 group-title="Spain" tvg-id="CanalM.ca" ,ES: Canal Málaga
+http://jjkdomain123.one:80/Charlie/Charlie/657732
+#EXTINF:-1 group-title="Spain" ,ES: Canal Orange 4K
+http://jjkdomain123.one:80/Charlie/Charlie/657436
+#EXTINF:-1 group-title="Spain" ,ES: Canal Orange HD
+http://jjkdomain123.one:80/Charlie/Charlie/657645
+#EXTINF:-1 group-title="Spain" ,ES: Canal Orange HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657646
+#EXTINF:-1 group-title="Spain" tvg-id="CanalPanda.es" ,ES: Canal Orange SD
+http://jjkdomain123.one:80/Charlie/Charlie/657644
+#EXTINF:-1 group-title="Spain" tvg-id="CanalPanda.es" ,ES: Canal Panda
+http://jjkdomain123.one:80/Charlie/Charlie/657531
+#EXTINF:-1 group-title="Spain" tvg-id="Panda.pt" ,ES: Canal Parlamento
+http://jjkdomain123.one:80/Charlie/Charlie/657739
+#EXTINF:-1 group-title="Spain" ,ES: Canal Sur 2 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657515
+#EXTINF:-1 group-title="Spain" tvg-id="CanalAndalucia.es" ,ES: Canal Sur Andalucía
+http://jjkdomain123.one:80/Charlie/Charlie/657516
+#EXTINF:-1 group-title="Spain" tvg-id="CanalAndalucia.es" ,ES: Canal Sur Andalucía HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657517
+#EXTINF:-1 group-title="Spain" tvg-id="CanalCocina.es" ,ES: Canal Sur Cocina
+http://jjkdomain123.one:80/Charlie/Charlie/657514
+#EXTINF:-1 group-title="Spain" ,ES: Canal Sur Eventos 1
+http://jjkdomain123.one:80/Charlie/Charlie/657510
+#EXTINF:-1 group-title="Spain" ,ES: Canal Sur Eventos 2
+http://jjkdomain123.one:80/Charlie/Charlie/657509
+#EXTINF:-1 group-title="Spain" tvg-id="CanalUno.co" ,ES: Canal Sur Flamenco
+http://jjkdomain123.one:80/Charlie/Charlie/657512
+#EXTINF:-1 group-title="Spain" ,ES: Canal Sur HD
+http://jjkdomain123.one:80/Charlie/Charlie/657518
+#EXTINF:-1 group-title="Spain" ,ES: Canal Sur La Banda TV
+http://jjkdomain123.one:80/Charlie/Charlie/657511
+#EXTINF:-1 group-title="Spain" tvg-id="CanalPlusSeries.mu" ,ES: Canal Sur Turismo
+http://jjkdomain123.one:80/Charlie/Charlie/657513
+#EXTINF:-1 group-title="Spain" tvg-id="CancaoNova.br" ,ES: Cancionero TV
+http://jjkdomain123.one:80/Charlie/Charlie/657708
+#EXTINF:-1 group-title="Spain" ,ES: Castilla La Mancha Media
+http://jjkdomain123.one:80/Charlie/Charlie/657494
+#EXTINF:-1 group-title="Spain" tvg-id="CazaPesca.es" ,ES: Caza y Pesca FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657479
+#EXTINF:-1 group-title="Spain" ,ES: Caza y Pesca FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657478
+#EXTINF:-1 group-title="Spain" tvg-id="CazaPesca.es" ,ES: Caza y Pesca HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657477
+#EXTINF:-1 group-title="Spain" tvg-id="CazaPesca.es" ,ES: Caza y Pesca HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657476
+#EXTINF:-1 group-title="Spain" tvg-id="CazaPesca.es" ,ES: Caza y Pesca SD
+http://jjkdomain123.one:80/Charlie/Charlie/657475
+#EXTINF:-1 group-title="Spain" ,ES: Cazavisión HD
+http://jjkdomain123.one:80/Charlie/Charlie/657559
+#EXTINF:-1 group-title="Spain" ,ES: CCMA Exclusiu 1
+http://jjkdomain123.one:80/Charlie/Charlie/657703
+#EXTINF:-1 group-title="Spain" ,ES: CCMA Exclusiu 2
+http://jjkdomain123.one:80/Charlie/Charlie/657702
+#EXTINF:-1 group-title="Spain" tvg-id="ClanTVE.es" ,ES: Clan
+http://jjkdomain123.one:80/Charlie/Charlie/657770
+#EXTINF:-1 group-title="Spain" ,ES: Clan HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657771
+#EXTINF:-1 group-title="Spain" ,ES: Classica
+http://jjkdomain123.one:80/Charlie/Charlie/657481
+#EXTINF:-1 group-title="Spain" tvg-id="ComedyCentral.hu" ,ES: Comedy Central FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657590
+#EXTINF:-1 group-title="Spain" tvg-id="ComedyCentral.pl" ,ES: Comedy Central HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657589
+#EXTINF:-1 group-title="Spain" tvg-id="ComedyCentral.pl" ,ES: Comedy Central HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657588
+#EXTINF:-1 group-title="Spain" tvg-id="ComedyCentral.es" ,ES: Comedy Central SD
+http://jjkdomain123.one:80/Charlie/Charlie/657587
+#EXTINF:-1 group-title="Spain" ,ES: Condavisión HD
+http://jjkdomain123.one:80/Charlie/Charlie/657740
+#EXTINF:-1 group-title="Spain" ,ES: Cosmo TV FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657622
+#EXTINF:-1 group-title="Spain" tvg-id="Cosmo.es" ,ES: Cosmo TV HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657621
+#EXTINF:-1 group-title="Spain" tvg-id="Cosmo.es" ,ES: Cosmo TV HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657620
+#EXTINF:-1 group-title="Spain" tvg-id="Cosmo.es" ,ES: Cosmo TV SD
+http://jjkdomain123.one:80/Charlie/Charlie/657619
+#EXTINF:-1 group-title="Spain" ,ES: Crime & Investigation
+http://jjkdomain123.one:80/Charlie/Charlie/657554
+#EXTINF:-1 group-title="Spain" tvg-id="CrimeInvestigation.ph" ,ES: Crime & Investigation HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657555
+#EXTINF:-1 group-title="Spain" ,ES: Cuatro FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657796
+#EXTINF:-1 group-title="Spain" tvg-id="Cuatro.es" ,ES: Cuatro HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657795
+#EXTINF:-1 group-title="Spain" tvg-id="Cuatro.es" ,ES: Cuatro HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657794
+#EXTINF:-1 group-title="Spain" tvg-id="Cuatro.es" ,ES: Cuatro SD
+http://jjkdomain123.one:80/Charlie/Charlie/657793
+#EXTINF:-1 group-title="Spain" tvg-id="Dark.es" ,ES: Dark Red HD
+http://jjkdomain123.one:80/Charlie/Charlie/657652
+#EXTINF:-1 group-title="Spain" tvg-id="Dark.es" ,ES: Dark Red SD
+http://jjkdomain123.one:80/Charlie/Charlie/657651
+#EXTINF:-1 group-title="Spain" ,ES: Dazn HD
+http://jjkdomain123.one:80/Charlie/Charlie/657849
+#EXTINF:-1 group-title="Spain" ,ES: Decasa
+http://jjkdomain123.one:80/Charlie/Charlie/657548
+#EXTINF:-1 group-title="Spain" ,ES: Decasa HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657549
+#EXTINF:-1 group-title="Spain" ,ES: Discovery Channel HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657574
+#EXTINF:-1 group-title="Spain" ,ES: Discovery Channel HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657573
+#EXTINF:-1 group-title="Spain" tvg-id="DiscoveryChannel.es" ,ES: Discovery Channel SD
+http://jjkdomain123.one:80/Charlie/Charlie/657572
+#EXTINF:-1 group-title="Spain" ,ES: Disney Channel FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657539
+#EXTINF:-1 group-title="Spain" ,ES: Disney Channel HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657538
+#EXTINF:-1 group-title="Spain" ,ES: Disney Channel HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657537
+#EXTINF:-1 group-title="Spain" tvg-id="DisneyChannel.es" ,ES: Disney Channel SD
+http://jjkdomain123.one:80/Charlie/Charlie/657536
+#EXTINF:-1 group-title="Spain" tvg-id="DisneyJunior.es" ,ES: Disney Junior
+http://jjkdomain123.one:80/Charlie/Charlie/657540
+#EXTINF:-1 group-title="Spain" tvg-id="DisneyXD.es" ,ES: Disney XD
+http://jjkdomain123.one:80/Charlie/Charlie/657535
+#EXTINF:-1 group-title="Spain" tvg-id="DisneyChannel.us" ,ES: Disney+
+http://jjkdomain123.one:80/Charlie/Charlie/657671
+#EXTINF:-1 group-title="Spain" tvg-id="DisneyChannel.us" ,ES: Disney+ HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657673
+#EXTINF:-1 group-title="Spain" tvg-id="DisneyChannel.us" ,ES: Disney+ HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657672
+#EXTINF:-1 group-title="Spain" tvg-id="Divinity.es" ,ES: Divinity
+http://jjkdomain123.one:80/Charlie/Charlie/657774
+#EXTINF:-1 group-title="Spain" tvg-id="DKISS.es" ,ES: Dkiss
+http://jjkdomain123.one:80/Charlie/Charlie/657547
+#EXTINF:-1 group-title="Spain" tvg-id="Dmax.es" ,ES: Dmax
+http://jjkdomain123.one:80/Charlie/Charlie/657749
+#EXTINF:-1 group-title="Spain" tvg-id="Dmax.es" ,ES: Dmax HD
+http://jjkdomain123.one:80/Charlie/Charlie/657750
+#EXTINF:-1 group-title="Spain" tvg-id="DreamWorks.qa" ,ES: DreamWorks HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657534
+#EXTINF:-1 group-title="Spain" tvg-id="DreamWorks.qa" ,ES: DreamWorks HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657533
+#EXTINF:-1 group-title="Spain" tvg-id="DreamWorks.qa" ,ES: DreamWorks SD
+http://jjkdomain123.one:80/Charlie/Charlie/657532
+#EXTINF:-1 group-title="Spain" ,ES: DW en Español
+http://jjkdomain123.one:80/Charlie/Charlie/657504
+#EXTINF:-1 group-title="Spain" tvg-id="ElGarageTV.ar" ,ES: El Garaje TV
+http://jjkdomain123.one:80/Charlie/Charlie/657546
+#EXTINF:-1 group-title="Spain" tvg-id="Energy.es" ,ES: Energy
+http://jjkdomain123.one:80/Charlie/Charlie/657775
+#EXTINF:-1 group-title="Spain" tvg-id="Esport3.es" ,ES: Esport 3 CAT
+http://jjkdomain123.one:80/Charlie/Charlie/657904
+#EXTINF:-1 group-title="Spain" tvg-id="ETB1.es" ,ES: ETB 1 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657501
+#EXTINF:-1 group-title="Spain" tvg-id="ETB2.es" ,ES: ETB 2 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657500
+#EXTINF:-1 group-title="Spain" ,ES: ETB Sat
+http://jjkdomain123.one:80/Charlie/Charlie/657499
+#EXTINF:-1 group-title="Spain" ,ES: Euronews HD
+http://jjkdomain123.one:80/Charlie/Charlie/657505
+#EXTINF:-1 group-title="Spain" ,ES: Eurosport 1 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657857
+#EXTINF:-1 group-title="Spain" ,ES: Eurosport 1 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657858
+#EXTINF:-1 group-title="Spain" tvg-id="Eurosport1.pt" ,ES: Eurosport 1 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657856
+#EXTINF:-1 group-title="Spain" tvg-id="Eurosport1.pt" ,ES: Eurosport 1 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657855
+#EXTINF:-1 group-title="Spain" tvg-id="Eurosport1.es" ,ES: Eurosport 1 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657854
+#EXTINF:-1 group-title="Spain" ,ES: Eurosport 2 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657853
+#EXTINF:-1 group-title="Spain" ,ES: Eurosport 2 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657852
+#EXTINF:-1 group-title="Spain" tvg-id="Eurosport2.es" ,ES: Eurosport 2 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657851
+#EXTINF:-1 group-title="Spain" ,ES: Evento 1 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657847
+#EXTINF:-1 group-title="Spain" ,ES: Evento 1 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657846
+#EXTINF:-1 group-title="Spain" ,ES: Evento 1 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657845
+#EXTINF:-1 group-title="Spain" ,ES: Evento 10 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657820
+#EXTINF:-1 group-title="Spain" ,ES: Evento 11 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657819
+#EXTINF:-1 group-title="Spain" ,ES: Evento 2 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657844
+#EXTINF:-1 group-title="Spain" ,ES: Evento 2 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657843
+#EXTINF:-1 group-title="Spain" ,ES: Evento 2 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657842
+#EXTINF:-1 group-title="Spain" ,ES: Evento 3 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657841
+#EXTINF:-1 group-title="Spain" ,ES: Evento 3 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657840
+#EXTINF:-1 group-title="Spain" ,ES: Evento 3 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657839
+#EXTINF:-1 group-title="Spain" ,ES: Evento 4 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657838
+#EXTINF:-1 group-title="Spain" ,ES: Evento 4 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657837
+#EXTINF:-1 group-title="Spain" ,ES: Evento 4 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657836
+#EXTINF:-1 group-title="Spain" ,ES: Evento 5 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657835
+#EXTINF:-1 group-title="Spain" ,ES: Evento 5 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657834
+#EXTINF:-1 group-title="Spain" ,ES: Evento 5 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657833
+#EXTINF:-1 group-title="Spain" ,ES: Evento 6 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657832
+#EXTINF:-1 group-title="Spain" ,ES: Evento 6 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657831
+#EXTINF:-1 group-title="Spain" ,ES: Evento 6 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657830
+#EXTINF:-1 group-title="Spain" ,ES: Evento 7 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657829
+#EXTINF:-1 group-title="Spain" ,ES: Evento 7 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657828
+#EXTINF:-1 group-title="Spain" ,ES: Evento 7 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657827
+#EXTINF:-1 group-title="Spain" ,ES: Evento 8 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657826
+#EXTINF:-1 group-title="Spain" ,ES: Evento 8 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657825
+#EXTINF:-1 group-title="Spain" ,ES: Evento 8 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657824
+#EXTINF:-1 group-title="Spain" ,ES: Evento 9 FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657823
+#EXTINF:-1 group-title="Spain" ,ES: Evento 9 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657822
+#EXTINF:-1 group-title="Spain" ,ES: Evento 9 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657821
+#EXTINF:-1 group-title="Spain" ,ES: Extremadura TV
+http://jjkdomain123.one:80/Charlie/Charlie/657496
+#EXTINF:-1 group-title="Spain" ,ES: FDF HD
+http://jjkdomain123.one:80/Charlie/Charlie/657756
+#EXTINF:-1 group-title="Spain" ,ES: Fox FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657614
+#EXTINF:-1 group-title="Spain" ,ES: Fox HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657613
+#EXTINF:-1 group-title="Spain" ,ES: Fox HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657612
+#EXTINF:-1 group-title="Spain" ,ES: Fox Life FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657610
+#EXTINF:-1 group-title="Spain" tvg-id="FoxLife.pt" ,ES: Fox Life HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657609
+#EXTINF:-1 group-title="Spain" tvg-id="FoxLife.pt" ,ES: Fox Life HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657608
+#EXTINF:-1 group-title="Spain" tvg-id="FoxLife.es" ,ES: Fox Life SD
+http://jjkdomain123.one:80/Charlie/Charlie/657607
+#EXTINF:-1 group-title="Spain" tvg-id="Fox.es" ,ES: Fox SD
+http://jjkdomain123.one:80/Charlie/Charlie/657611
+#EXTINF:-1 group-title="Spain" tvg-id="FutbolReplay.es" ,ES: Futbol Replay
+http://jjkdomain123.one:80/Charlie/Charlie/657848
+#EXTINF:-1 group-title="Spain" tvg-id="TVGalicia.es" ,ES: Galicia TV
+http://jjkdomain123.one:80/Charlie/Charlie/657497
+#EXTINF:-1 group-title="Spain" ,ES: Gol HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657765
+#EXTINF:-1 group-title="Spain" tvg-id="Gol.es" ,ES: Gol SD
+http://jjkdomain123.one:80/Charlie/Charlie/657764
+#EXTINF:-1 group-title="Spain" tvg-id="MuhammadiyahTV.id" ,ES: Hamaika TV
+http://jjkdomain123.one:80/Charlie/Charlie/657726
+#EXTINF:-1 group-title="Spain" tvg-id="ThisTV.us" ,ES: Hispan TV
+http://jjkdomain123.one:80/Charlie/Charlie/657502
+#EXTINF:-1 group-title="Spain" tvg-id="Historia.es" ,ES: Historia HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657567
+#EXTINF:-1 group-title="Spain" tvg-id="Historia.es" ,ES: Historia HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657566
+#EXTINF:-1 group-title="Spain" tvg-id="Historia.es" ,ES: Historia SD
+http://jjkdomain123.one:80/Charlie/Charlie/657565
+#EXTINF:-1 group-title="Spain" tvg-id="HitTV.kz" ,ES: HIT TV
+http://jjkdomain123.one:80/Charlie/Charlie/657484
+#EXTINF:-1 group-title="Spain" tvg-id="Hollywood.es" ,ES: Hollywood FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657660
+#EXTINF:-1 group-title="Spain" tvg-id="Hollywood.es" ,ES: Hollywood FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657438
+#EXTINF:-1 group-title="Spain" ,ES: Hollywood FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657659
+#EXTINF:-1 group-title="Spain" tvg-id="Hollywood.es" ,ES: Hollywood HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657658
+#EXTINF:-1 group-title="Spain" tvg-id="Hollywood.es" ,ES: Hollywood HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657657
+#EXTINF:-1 group-title="Spain" tvg-id="Hollywood.es" ,ES: Hollywood SD
+http://jjkdomain123.one:80/Charlie/Charlie/657656
+#EXTINF:-1 group-title="Spain" ,ES: Huesca TV
+http://jjkdomain123.one:80/Charlie/Charlie/657707
+#EXTINF:-1 group-title="Spain" tvg-id="IberaliaTV.es" ,ES: Iberalia
+http://jjkdomain123.one:80/Charlie/Charlie/657468
+#EXTINF:-1 group-title="Spain" tvg-id="IberaliaTV.es" ,ES: Iberalia HD
+http://jjkdomain123.one:80/Charlie/Charlie/657469
+#EXTINF:-1 group-title="Spain" tvg-id="UniMas.us" ,ES: Imás TV HD
+http://jjkdomain123.one:80/Charlie/Charlie/657705
+#EXTINF:-1 group-title="Spain" ,ES: InterAlmería HD
+http://jjkdomain123.one:80/Charlie/Charlie/657712
+#EXTINF:-1 group-title="Spain" ,ES: intereconomia
+http://jjkdomain123.one:80/Charlie/Charlie/657751
+#EXTINF:-1 group-title="Spain" ,ES: LA 1 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657805
+#EXTINF:-1 group-title="Spain" tvg-id="LA1.es" ,ES: LA 1 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657804
+#EXTINF:-1 group-title="Spain" ,ES: LA 1  FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657807
+#EXTINF:-1 group-title="Spain" ,ES: LA 1  HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657806
+#EXTINF:-1 group-title="Spain" tvg-id="LA2.es" ,ES: LA 2
+http://jjkdomain123.one:80/Charlie/Charlie/657801
+#EXTINF:-1 group-title="Spain" ,ES: LA 2 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657803
+#EXTINF:-1 group-title="Spain" ,ES: LA 2 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657802
+#EXTINF:-1 group-title="Spain" ,ES: La 7 León
+http://jjkdomain123.one:80/Charlie/Charlie/657700
+#EXTINF:-1 group-title="Spain" ,ES: La 8 Bierzo
+http://jjkdomain123.one:80/Charlie/Charlie/657697
+#EXTINF:-1 group-title="Spain" ,ES: La 8 Burgos
+http://jjkdomain123.one:80/Charlie/Charlie/657696
+#EXTINF:-1 group-title="Spain" ,ES: La 8 Mediterráneo HD
+http://jjkdomain123.one:80/Charlie/Charlie/657492
+#EXTINF:-1 group-title="Spain" ,ES: La 8 Valladolid
+http://jjkdomain123.one:80/Charlie/Charlie/657698
+#EXTINF:-1 group-title="Spain" tvg-id="LaOtra.es" ,ES: La 8 Zamora
+http://jjkdomain123.one:80/Charlie/Charlie/657699
+#EXTINF:-1 group-title="Spain" ,ES: La 8 Ávila
+http://jjkdomain123.one:80/Charlie/Charlie/657695
+#EXTINF:-1 group-title="Spain" tvg-id="LaOtra.es" ,ES: La Otra
+http://jjkdomain123.one:80/Charlie/Charlie/657491
+#EXTINF:-1 group-title="Spain" ,ES: La Sexta FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657788
+#EXTINF:-1 group-title="Spain" tvg-id="LaSexta.es" ,ES: La Sexta HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657787
+#EXTINF:-1 group-title="Spain" tvg-id="LaSexta.es" ,ES: La Sexta HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657786
+#EXTINF:-1 group-title="Spain" tvg-id="LaSexta.es" ,ES: La Sexta SD
+http://jjkdomain123.one:80/Charlie/Charlie/657785
+#EXTINF:-1 group-title="Spain" ,ES: La Voz 24h
+http://jjkdomain123.one:80/Charlie/Charlie/657736
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 1
+http://jjkdomain123.one:80/Charlie/Charlie/657818
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 10
+http://jjkdomain123.one:80/Charlie/Charlie/657809
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 2
+http://jjkdomain123.one:80/Charlie/Charlie/657817
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 3
+http://jjkdomain123.one:80/Charlie/Charlie/657816
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 4
+http://jjkdomain123.one:80/Charlie/Charlie/657815
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 5
+http://jjkdomain123.one:80/Charlie/Charlie/657814
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 6
+http://jjkdomain123.one:80/Charlie/Charlie/657813
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 7
+http://jjkdomain123.one:80/Charlie/Charlie/657812
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 8
+http://jjkdomain123.one:80/Charlie/Charlie/657811
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga Sports 9
+http://jjkdomain123.one:80/Charlie/Charlie/657810
+#EXTINF:-1 group-title="Spain" ,ES: LaLiga TV Bar FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657915
+#EXTINF:-1 group-title="Spain" ,ES: LaLiga TV Bar FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657914
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga TV Bar HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657913
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga TV Bar HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657912
+#EXTINF:-1 group-title="Spain" tvg-id="LaLigaTV.es" ,ES: LaLiga TV Bar SD
+http://jjkdomain123.one:80/Charlie/Charlie/657911
+#EXTINF:-1 group-title="Spain" tvg-id="PlanetTV.si" ,ES: Lancelot TV
+http://jjkdomain123.one:80/Charlie/Charlie/657493
+#EXTINF:-1 group-title="Spain" ,ES: Levante TV
+http://jjkdomain123.one:80/Charlie/Charlie/657498
+#EXTINF:-1 group-title="Spain" ,ES: Libertad Digital
+http://jjkdomain123.one:80/Charlie/Charlie/657745
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 1 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657958
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 1 FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657453
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 1 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657957
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 1 HD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657956
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 1 SD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657955
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 2 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657954
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 2 HD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657953
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 2 SD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657952
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 3 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657951
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 4 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657950
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 4K
+http://jjkdomain123.one:80/Charlie/Charlie/657434
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 5 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657949
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 6 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657948
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 7 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657947
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones 8 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657946
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657965
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657454
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657964
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657963
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones HD (1080P) B1
+http://jjkdomain123.one:80/Charlie/Charlie/657962
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones HD (1080P) B2
+http://jjkdomain123.one:80/Charlie/Charlie/657961
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657960
+#EXTINF:-1 group-title="Spain" ,ES: M Liga de Campeones SD
+http://jjkdomain123.one:80/Charlie/Charlie/657959
+#EXTINF:-1 group-title="Spain" ,ES: M. Accion FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657693
+#EXTINF:-1 group-title="Spain" ,ES: M. Accion FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657445
+#EXTINF:-1 group-title="Spain" ,ES: M. Accion FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657692
+#EXTINF:-1 group-title="Spain" ,ES: M. Accion HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657691
+#EXTINF:-1 group-title="Spain" ,ES: M. Accion HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657690
+#EXTINF:-1 group-title="Spain" ,ES: M. Accion SD
+http://jjkdomain123.one:80/Charlie/Charlie/657689
+#EXTINF:-1 group-title="Spain" ,ES: M. Cine N
+http://jjkdomain123.one:80/Charlie/Charlie/657665
+#EXTINF:-1 group-title="Spain" ,ES: M. CineDoc&Roll
+http://jjkdomain123.one:80/Charlie/Charlie/657666
+#EXTINF:-1 group-title="Spain" ,ES: M. CineDoc&Roll FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657670
+#EXTINF:-1 group-title="Spain" ,ES: M. CineDoc&Roll FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657444
+#EXTINF:-1 group-title="Spain" ,ES: M. CineDoc&Roll FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657669
+#EXTINF:-1 group-title="Spain" ,ES: M. CineDoc&Roll HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657668
+#EXTINF:-1 group-title="Spain" ,ES: M. CineDoc&Roll HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657667
+#EXTINF:-1 group-title="Spain" ,ES: M. Comedia FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657688
+#EXTINF:-1 group-title="Spain" ,ES: M. Comedia FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657443
+#EXTINF:-1 group-title="Spain" ,ES: M. Comedia FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657687
+#EXTINF:-1 group-title="Spain" ,ES: M. Comedia HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657686
+#EXTINF:-1 group-title="Spain" ,ES: M. Comedia HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657685
+#EXTINF:-1 group-title="Spain" ,ES: M. Comedia SD
+http://jjkdomain123.one:80/Charlie/Charlie/657684
+#EXTINF:-1 group-title="Spain" ,ES: M. Crimen SD
+http://jjkdomain123.one:80/Charlie/Charlie/657632
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 1 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657902
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 1 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657901
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 1 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657900
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 1 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657899
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 2 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657898
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 2 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657897
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 2 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657896
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 2 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657895
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 3 FHD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657893
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 3 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657894
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 3 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657892
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 3 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657891
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 4 FHD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657889
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 4 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657890
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 4 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657888
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn 4 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657887
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 4K
+http://jjkdomain123.one:80/Charlie/Charlie/657433
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657886
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657452
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657885
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657884
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657883
+#EXTINF:-1 group-title="Spain" ,ES: M. Dazn F1 SD
+http://jjkdomain123.one:80/Charlie/Charlie/657882
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes 1 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657863
+#EXTINF:-1 group-title="Spain" ,ES: M. Deportes 1 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657865
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes 1 HD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657864
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes 2 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657862
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes 3 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657861
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes 4 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657860
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes 5 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657859
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657870
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657446
+#EXTINF:-1 group-title="Spain" ,ES: M. Deportes FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657869
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657868
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657867
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Deportes SD
+http://jjkdomain123.one:80/Charlie/Charlie/657866
+#EXTINF:-1 group-title="Spain" ,ES: M. Drama FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657678
+#EXTINF:-1 group-title="Spain" ,ES: M. Drama FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657442
+#EXTINF:-1 group-title="Spain" ,ES: M. Drama FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657677
+#EXTINF:-1 group-title="Spain" ,ES: M. Drama HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657676
+#EXTINF:-1 group-title="Spain" ,ES: M. Drama HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657675
+#EXTINF:-1 group-title="Spain" ,ES: M. Drama SD
+http://jjkdomain123.one:80/Charlie/Charlie/657674
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657683
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657441
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657682
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657681
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657680
+#EXTINF:-1 group-title="Spain" ,ES: M. Estrenos SD
+http://jjkdomain123.one:80/Charlie/Charlie/657679
+#EXTINF:-1 group-title="Spain" ,ES: M. Golf
+http://jjkdomain123.one:80/Charlie/Charlie/657877
+#EXTINF:-1 group-title="Spain" ,ES: M. Golf FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657881
+#EXTINF:-1 group-title="Spain" ,ES: M. Golf FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657451
+#EXTINF:-1 group-title="Spain" ,ES: M. Golf FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657880
+#EXTINF:-1 group-title="Spain" ,ES: M. Golf HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657879
+#EXTINF:-1 group-title="Spain" ,ES: M. Golf HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657878
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 1 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657937
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga1.es" ,ES: M. LaLiga 1 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657936
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga1.es" ,ES: M. LaLiga 1 HD (720P) (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657935
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga1.es" ,ES: M. LaLiga 1 SD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657934
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga2.es" ,ES: M. LaLiga 2 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657930
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 2 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657933
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga2.es" ,ES: M. LaLiga 2 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657932
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga2.es" ,ES: M. LaLiga 2 HD (720P) (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657931
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga3.es" ,ES: M. LaLiga 3 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657926
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 3 FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657929
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga3.es" ,ES: M. LaLiga 3 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657928
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga3.es" ,ES: M. LaLiga 3 HD (720P) (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657927
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 4 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657923
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga 4 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657925
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga 4 HD (720P) (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657924
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 5 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657920
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga 5 FHD (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657922
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga 5 HD (720P) (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657921
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 6 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657919
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 7 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657918
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 8 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657917
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga 9 (Solo Eventos)
+http://jjkdomain123.one:80/Charlie/Charlie/657916
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga2.es" ,ES: M. LaLiga FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657945
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657455
+#EXTINF:-1 group-title="Spain" ,ES: M. LaLiga FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657944
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657943
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga1.es" ,ES: M. LaLiga HD (1080P) B1
+http://jjkdomain123.one:80/Charlie/Charlie/657942
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga2.es" ,ES: M. LaLiga HD (1080P) B2
+http://jjkdomain123.one:80/Charlie/Charlie/657941
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657940
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga1.es" ,ES: M. LaLiga HD (720P) B1
+http://jjkdomain123.one:80/Charlie/Charlie/657939
+#EXTINF:-1 group-title="Spain" tvg-id="MLaLiga.es" ,ES: M. LaLiga SD
+http://jjkdomain123.one:80/Charlie/Charlie/657938
+#EXTINF:-1 group-title="Spain" ,ES: M. Series FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657640
+#EXTINF:-1 group-title="Spain" ,ES: M. Series HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657639
+#EXTINF:-1 group-title="Spain" ,ES: M. Series HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657638
+#EXTINF:-1 group-title="Spain" tvg-id="MDeportes1.es" ,ES: M. Series SD
+http://jjkdomain123.one:80/Charlie/Charlie/657637
+#EXTINF:-1 group-title="Spain" ,ES: M. Seriesmania FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657636
+#EXTINF:-1 group-title="Spain" ,ES: M. Seriesmania HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657635
+#EXTINF:-1 group-title="Spain" ,ES: M. Seriesmania HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657634
+#EXTINF:-1 group-title="Spain" ,ES: M. Seriesmania SD
+http://jjkdomain123.one:80/Charlie/Charlie/657633
+#EXTINF:-1 group-title="Spain" tvg-id="Mega.es" ,ES: Mega HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657784
+#EXTINF:-1 group-title="Spain" tvg-id="Mega.es" ,ES: Mega HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657783
+#EXTINF:-1 group-title="Spain" tvg-id="Mega.es" ,ES: Mega SD
+http://jjkdomain123.one:80/Charlie/Charlie/657782
+#EXTINF:-1 group-title="Spain" tvg-id="Mezzo.es" ,ES: Mezzo
+http://jjkdomain123.one:80/Charlie/Charlie/657482
+#EXTINF:-1 group-title="Spain" ,ES: Mezzo Live HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657483
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 1
+http://jjkdomain123.one:80/Charlie/Charlie/657467
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 10
+http://jjkdomain123.one:80/Charlie/Charlie/657458
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 11
+http://jjkdomain123.one:80/Charlie/Charlie/657457
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 12
+http://jjkdomain123.one:80/Charlie/Charlie/657456
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 2
+http://jjkdomain123.one:80/Charlie/Charlie/657466
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 3
+http://jjkdomain123.one:80/Charlie/Charlie/657465
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 4
+http://jjkdomain123.one:80/Charlie/Charlie/657464
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 5
+http://jjkdomain123.one:80/Charlie/Charlie/657463
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 6
+http://jjkdomain123.one:80/Charlie/Charlie/657462
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 7
+http://jjkdomain123.one:80/Charlie/Charlie/657461
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 8
+http://jjkdomain123.one:80/Charlie/Charlie/657460
+#EXTINF:-1 group-title="Spain" ,ES: Movistar Alquiler 9
+http://jjkdomain123.one:80/Charlie/Charlie/657459
+#EXTINF:-1 group-title="Spain" tvg-id="MovistarPlus.pe" ,ES: Movistar+ LaLiga 4K
+http://jjkdomain123.one:80/Charlie/Charlie/657435
+#EXTINF:-1 group-title="Spain" tvg-id="MovistarPlus.pe" ,ES: Movistar+ Portada
+http://jjkdomain123.one:80/Charlie/Charlie/657966
+#EXTINF:-1 group-title="Spain" ,ES: mtmad 24h
+http://jjkdomain123.one:80/Charlie/Charlie/657737
+#EXTINF:-1 group-title="Spain" tvg-id="MTV.es" ,ES: MTV Espana
+http://jjkdomain123.one:80/Charlie/Charlie/657586
+#EXTINF:-1 group-title="Spain" ,ES: Nat Geo Wild FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657579
+#EXTINF:-1 group-title="Spain" tvg-id="NatGeoWild.de" ,ES: Nat Geo Wild FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657440
+#EXTINF:-1 group-title="Spain" ,ES: Nat Geo Wild FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657578
+#EXTINF:-1 group-title="Spain" tvg-id="NatGeoWild.pl" ,ES: Nat Geo Wild HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657577
+#EXTINF:-1 group-title="Spain" tvg-id="NatGeoWild.pl" ,ES: Nat Geo Wild HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657576
+#EXTINF:-1 group-title="Spain" tvg-id="NatGeoWild.es" ,ES: Nat Geo Wild SD
+http://jjkdomain123.one:80/Charlie/Charlie/657575
+#EXTINF:-1 group-title="Spain" ,ES: National Geoghraphic FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657584
+#EXTINF:-1 group-title="Spain" ,ES: National Geoghraphic FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657439
+#EXTINF:-1 group-title="Spain" ,ES: National Geoghraphic FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657583
+#EXTINF:-1 group-title="Spain" ,ES: National Geoghraphic HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657582
+#EXTINF:-1 group-title="Spain" ,ES: National Geoghraphic HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657581
+#EXTINF:-1 group-title="Spain" ,ES: National Geoghraphic SD
+http://jjkdomain123.one:80/Charlie/Charlie/657580
+#EXTINF:-1 group-title="Spain" tvg-id="Neox.es" ,ES: Neox
+http://jjkdomain123.one:80/Charlie/Charlie/657776
+#EXTINF:-1 group-title="Spain" tvg-id="Neox.es" ,ES: Neox HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657778
+#EXTINF:-1 group-title="Spain" tvg-id="Neox.es" ,ES: Neox HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657777
+#EXTINF:-1 group-title="Spain" tvg-id="NickJr.es" ,ES: Nick JR
+http://jjkdomain123.one:80/Charlie/Charlie/657541
+#EXTINF:-1 group-title="Spain" tvg-id="Nickelodeon.es" ,ES: Nickelodeon
+http://jjkdomain123.one:80/Charlie/Charlie/657542
+#EXTINF:-1 group-title="Spain" ,ES: Nickelodeon FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657544
+#EXTINF:-1 group-title="Spain" ,ES: Nickelodeon HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657543
+#EXTINF:-1 group-title="Spain" ,ES: NORTEvisión
+http://jjkdomain123.one:80/Charlie/Charlie/657490
+#EXTINF:-1 group-title="Spain" tvg-id="Nova.es" ,ES: Nova
+http://jjkdomain123.one:80/Charlie/Charlie/657779
+#EXTINF:-1 group-title="Spain" tvg-id="Nova.es" ,ES: Nova (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657781
+#EXTINF:-1 group-title="Spain" tvg-id="Nova.es" ,ES: Nova (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657780
+#EXTINF:-1 group-title="Spain" tvg-id="Odisea.es" ,ES: Odisea 4K
+http://jjkdomain123.one:80/Charlie/Charlie/657571
+#EXTINF:-1 group-title="Spain" ,ES: Odisea HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657570
+#EXTINF:-1 group-title="Spain" ,ES: Odisea HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657569
+#EXTINF:-1 group-title="Spain" tvg-id="Odisea.es" ,ES: Odisea SD
+http://jjkdomain123.one:80/Charlie/Charlie/657568
+#EXTINF:-1 group-title="Spain" ,ES: Onda Algeciras TV
+http://jjkdomain123.one:80/Charlie/Charlie/657729
+#EXTINF:-1 group-title="Spain" ,ES: Onda Cádiz
+http://jjkdomain123.one:80/Charlie/Charlie/657728
+#EXTINF:-1 group-title="Spain" ,ES: Onda Valencia
+http://jjkdomain123.one:80/Charlie/Charlie/657727
+#EXTINF:-1 group-title="Spain" tvg-id="ParamountChannel.es" ,ES: Paramount Channel
+http://jjkdomain123.one:80/Charlie/Charlie/657759
+#EXTINF:-1 group-title="Spain" ,ES: Pequeradio TV
+http://jjkdomain123.one:80/Charlie/Charlie/657528
+#EXTINF:-1 group-title="Spain" ,ES: PTV Córdoba
+http://jjkdomain123.one:80/Charlie/Charlie/657713
+#EXTINF:-1 group-title="Spain" ,ES: PTV Málaga
+http://jjkdomain123.one:80/Charlie/Charlie/657731
+#EXTINF:-1 group-title="Spain" tvg-id="RealMadridTV.es" ,ES: Real Madrid HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657910
+#EXTINF:-1 group-title="Spain" tvg-id="RealMadridTV.es" ,ES: Real Madrid SD
+http://jjkdomain123.one:80/Charlie/Charlie/657909
+#EXTINF:-1 group-title="Spain" tvg-id="Redetv.br" ,ES: Red TV
+http://jjkdomain123.one:80/Charlie/Charlie/657734
+#EXTINF:-1 group-title="Spain" tvg-id="RTEspanol.ru" ,ES: RT HD en Español
+http://jjkdomain123.one:80/Charlie/Charlie/657503
+#EXTINF:-1 group-title="Spain" ,ES: Selekt HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657643
+#EXTINF:-1 group-title="Spain" ,ES: Selekt HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657642
+#EXTINF:-1 group-title="Spain" tvg-id="UseeSports.id" ,ES: Selekt SD
+http://jjkdomain123.one:80/Charlie/Charlie/657641
+#EXTINF:-1 group-title="Spain" ,ES: Sevilla FC
+http://jjkdomain123.one:80/Charlie/Charlie/657906
+#EXTINF:-1 group-title="Spain" tvg-id="SolMusica.es" ,ES: Sol Music
+http://jjkdomain123.one:80/Charlie/Charlie/657488
+#EXTINF:-1 group-title="Spain" tvg-id="Somos.es" ,ES: Somos
+http://jjkdomain123.one:80/Charlie/Charlie/657754
+#EXTINF:-1 group-title="Spain" tvg-id="Somos.es" ,ES: Somos HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657755
+#EXTINF:-1 group-title="Spain" tvg-id="StarTVE.mx" ,ES: Star TVE
+http://jjkdomain123.one:80/Charlie/Charlie/657772
+#EXTINF:-1 group-title="Spain" ,ES: Star TVE HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657773
+#EXTINF:-1 group-title="Spain" tvg-id="SundanceTV.es" ,ES: Sundance TV
+http://jjkdomain123.one:80/Charlie/Charlie/657654
+#EXTINF:-1 group-title="Spain" tvg-id="SundanceTV.pt" ,ES: Sundance TV HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657655
+#EXTINF:-1 group-title="Spain" ,ES: Super3
+http://jjkdomain123.one:80/Charlie/Charlie/657529
+#EXTINF:-1 group-title="Spain" ,ES: SyFy FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657594
+#EXTINF:-1 group-title="Spain" tvg-id="Syfy.pt" ,ES: SyFy HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657593
+#EXTINF:-1 group-title="Spain" tvg-id="Syfy.pt" ,ES: SYFY HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657592
+#EXTINF:-1 group-title="Spain" tvg-id="SyFy.es" ,ES: SyFy SD
+http://jjkdomain123.one:80/Charlie/Charlie/657591
+#EXTINF:-1 group-title="Spain" ,ES: TCM FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657664
+#EXTINF:-1 group-title="Spain" ,ES: TCM HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657663
+#EXTINF:-1 group-title="Spain" ,ES: TCM HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657662
+#EXTINF:-1 group-title="Spain" tvg-id="TCM.es" ,ES: TCM SD
+http://jjkdomain123.one:80/Charlie/Charlie/657661
+#EXTINF:-1 group-title="Spain" tvg-id="TeleIslas.co" ,ES: TeleBilbao
+http://jjkdomain123.one:80/Charlie/Charlie/657725
+#EXTINF:-1 group-title="Spain" ,ES: Telecinco FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657792
+#EXTINF:-1 group-title="Spain" tvg-id="Telecinco.es" ,ES: Telecinco HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657791
+#EXTINF:-1 group-title="Spain" tvg-id="Telecinco.es" ,ES: Telecinco HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657790
+#EXTINF:-1 group-title="Spain" tvg-id="Telecinco.es" ,ES: Telecinco SD
+http://jjkdomain123.one:80/Charlie/Charlie/657789
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es" ,ES: Teledeporte FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657763
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es" ,ES: Teledeporte FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657450
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es" ,ES: Teledeporte HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657762
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es" ,ES: Teledeporte HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657761
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es" ,ES: Teledeporte SD
+http://jjkdomain123.one:80/Charlie/Charlie/657760
+#EXTINF:-1 group-title="Spain" tvg-id="TeleMadrid.es" ,ES: TeleMadrid
+http://jjkdomain123.one:80/Charlie/Charlie/657506
+#EXTINF:-1 group-title="Spain" tvg-id="TeleMadrid.es" ,ES: TeleMadrid HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657508
+#EXTINF:-1 group-title="Spain" tvg-id="TeleMadrid.es" ,ES: TeleMadrid HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657507
+#EXTINF:-1 group-title="Spain" ,ES: Teleonuba TV
+http://jjkdomain123.one:80/Charlie/Charlie/657704
+#EXTINF:-1 group-title="Spain" tvg-id="Telesur.es" ,ES: Telesur HD
+http://jjkdomain123.one:80/Charlie/Charlie/657746
+#EXTINF:-1 group-title="Spain" tvg-id="Televida.do" ,ES: Televisa HD
+http://jjkdomain123.one:80/Charlie/Charlie/657752
+#EXTINF:-1 group-title="Spain" tvg-id="Ten.es" ,ES: TEN
+http://jjkdomain123.one:80/Charlie/Charlie/657753
+#EXTINF:-1 group-title="Spain" tvg-id="RTEOne.ie" ,ES: Tenerife TV HD
+http://jjkdomain123.one:80/Charlie/Charlie/657714
+#EXTINF:-1 group-title="Spain" ,ES: teve.cat HD
+http://jjkdomain123.one:80/Charlie/Charlie/657519
+#EXTINF:-1 group-title="Spain" ,ES: TNT FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657598
+#EXTINF:-1 group-title="Spain" tvg-id="TNT.pl" ,ES: TNT HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657597
+#EXTINF:-1 group-title="Spain" tvg-id="TNT.pl" ,ES: TNT HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657596
+#EXTINF:-1 group-title="Spain" tvg-id="TNT.es" ,ES: TNT SD
+http://jjkdomain123.one:80/Charlie/Charlie/657595
+#EXTINF:-1 group-title="Spain" tvg-id="Toros.es" ,ES: Toros
+http://jjkdomain123.one:80/Charlie/Charlie/657470
+#EXTINF:-1 group-title="Spain" ,ES: Toros FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657474
+#EXTINF:-1 group-title="Spain" tvg-id="Toros.es" ,ES: Toros FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657437
+#EXTINF:-1 group-title="Spain" ,ES: Toros FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657473
+#EXTINF:-1 group-title="Spain" tvg-id="Toros.es" ,ES: Toros HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657472
+#EXTINF:-1 group-title="Spain" tvg-id="Toros.es" ,ES: Toros HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657471
+#EXTINF:-1 group-title="Spain" tvg-id="13TV.es" ,ES: Trece
+http://jjkdomain123.one:80/Charlie/Charlie/657744
+#EXTINF:-1 group-title="Spain" ,ES: TV Benavente HD
+http://jjkdomain123.one:80/Charlie/Charlie/657730
+#EXTINF:-1 group-title="Spain" ,ES: TV3
+http://jjkdomain123.one:80/Charlie/Charlie/657524
+#EXTINF:-1 group-title="Spain" ,ES: TV3 HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657526
+#EXTINF:-1 group-title="Spain" ,ES: TV3 HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657525
+#EXTINF:-1 group-title="Spain" ,ES: TV3. CAT
+http://jjkdomain123.one:80/Charlie/Charlie/657523
+#EXTINF:-1 group-title="Spain" ,ES: TVE Internacional
+http://jjkdomain123.one:80/Charlie/Charlie/657769
+#EXTINF:-1 group-title="Spain" tvg-id="TVG2.us" ,ES: TVG 2 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657723
+#EXTINF:-1 group-title="Spain" tvg-id="TVGalicia.es" ,ES: TVG América HD
+http://jjkdomain123.one:80/Charlie/Charlie/657718
+#EXTINF:-1 group-title="Spain" tvg-id="TvCulturas.bo" ,ES: TVG Cultura HD
+http://jjkdomain123.one:80/Charlie/Charlie/657720
+#EXTINF:-1 group-title="Spain" tvg-id="TVNorge.no" ,ES: TVG Eventos 1 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657717
+#EXTINF:-1 group-title="Spain" tvg-id="TVNorge.no" ,ES: TVG Eventos 2 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657716
+#EXTINF:-1 group-title="Spain" tvg-id="TVNorge.no" ,ES: TVG Eventos 3 HD
+http://jjkdomain123.one:80/Charlie/Charlie/657715
+#EXTINF:-1 group-title="Spain" ,ES: TVG HD
+http://jjkdomain123.one:80/Charlie/Charlie/657724
+#EXTINF:-1 group-title="Spain" tvg-id="TVFinland.fi" ,ES: TVG Infantil HD
+http://jjkdomain123.one:80/Charlie/Charlie/657722
+#EXTINF:-1 group-title="Spain" ,ES: TVG Momentos G HD
+http://jjkdomain123.one:80/Charlie/Charlie/657719
+#EXTINF:-1 group-title="Spain" ,ES: TVG Musigal HD
+http://jjkdomain123.one:80/Charlie/Charlie/657721
+#EXTINF:-1 group-title="Spain" ,ES: U-Beat FHD
+http://jjkdomain123.one:80/Charlie/Charlie/657850
+#EXTINF:-1 group-title="Spain" ,ES: VH1
+http://jjkdomain123.one:80/Charlie/Charlie/657487
+#EXTINF:-1 group-title="Spain" tvg-id="VH1Classic.za" ,ES: VH1 Classic
+http://jjkdomain123.one:80/Charlie/Charlie/657486
+#EXTINF:-1 group-title="Spain" ,ES: Viajar FHD (H.265)
+http://jjkdomain123.one:80/Charlie/Charlie/657564
+#EXTINF:-1 group-title="Spain" tvg-id="Viajar.es" ,ES: Viajar FHD (HEVC)
+http://jjkdomain123.one:80/Charlie/Charlie/657449
+#EXTINF:-1 group-title="Spain" ,ES: Viajar FHD (Multi-Audio)
+http://jjkdomain123.one:80/Charlie/Charlie/657563
+#EXTINF:-1 group-title="Spain" tvg-id="Viajar.es" ,ES: Viajar HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657562
+#EXTINF:-1 group-title="Spain" tvg-id="Viajar.es" ,ES: Viajar HD (720P)
+http://jjkdomain123.one:80/Charlie/Charlie/657561
+#EXTINF:-1 group-title="Spain" tvg-id="Viajar.es" ,ES: Viajar SD
+http://jjkdomain123.one:80/Charlie/Charlie/657560
+#EXTINF:-1 group-title="Spain" ,ES: Visión 6
+http://jjkdomain123.one:80/Charlie/Charlie/657701
+#EXTINF:-1 group-title="Spain" tvg-id="Xtrm.es" ,ES: XTRM
+http://jjkdomain123.one:80/Charlie/Charlie/657649
+#EXTINF:-1 group-title="Spain" tvg-id="Xtrm.es" ,ES: XTRM HD (1080P)
+http://jjkdomain123.one:80/Charlie/Charlie/657650
+#EXTINF:-1 group-title="Spain" ,ES: À Punt HD
+http://jjkdomain123.one:80/Charlie/Charlie/657735
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Autonómicas ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657527
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Canales a la carta ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657480
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Documentales ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657585
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Estilo de Vida ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657558
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Infantil ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657545
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Movistar+ Cine ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657694
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Movistar+ Deportes ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657903
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Movistar+ Series ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657647
+#EXTINF:-1 group-title="Spain" ,•●★--- ES Música ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657489
+#EXTINF:-1 group-title="Spain" ,•●★--- ES TDT ----★●•
+http://jjkdomain123.one:80/Charlie/Charlie/657808
