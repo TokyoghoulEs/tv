@@ -1,0 +1,415 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 01 - FRI 3PM EST ESPANYOL VS REAL BETIS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101636
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 02 - SAT 8AM EST LEVANTE VS CADIZ
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101637
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 03 - SAT 10:15AM EST VILLARREAL VS MALLORCA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101638
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 04 - SAT 12:30PM EST SEVILLA VS CELTA DE VIGO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101639
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 05 - SAT 3PM EST ATLETICO MADRID VS VALENCIA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101640
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 06 - SUN 8AM EST GRANADA VS OSASUNA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101641
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 07 - SUN 10:15AM EST REAL MADRID VS ELCHE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101642
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 08 - SUN 12:30PM EST RAYO VALLECANO VS ATHLETIC CLUB
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101643
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 09 - SUN 12:30PM EST REAL SOCIEDAD VS GETAFE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101644
+#EXTINF:-1 group-title="SPANISH LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/7adb2e6ed7051f5ec44293fd42e6c85b.png" ,ES : LA LIGA 10 - SUN 3PM EST DEPORTIVO ALAVES VS BARCELONA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101645
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/907eba32d950bfab68227fd7ea22999b.png" ,ES : 24 HORAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88757
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : A&E
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88669
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : A3SERIES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88775
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : AMC
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88671
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ANIMAL PLANET
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88672
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ANTENA 3
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88673
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : AXN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88675
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : AZ CORAZON
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88676
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : AZ MUNDO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88677
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : BABY TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88678
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/59240330332adfccfbe033ba96e84f20.png" ,ES : BARCA TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101405
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : BOOMERANG
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88682
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CABLE NOTICIAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88684
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CALLE 13
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88680
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CANAL CARACOL CO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88690
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CANAL DE LAS ESTRELLAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88732
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CANAL RCN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88808
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CANAL UNO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88689
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CARACOL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88685
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CARTOON NETWORK
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88692
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CGTN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88697
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CINE CANAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88693
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CINE LATINO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88694
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CINE SONY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88695
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CINEMAX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88696
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CITY TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88698
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CNN EN ESPANOL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88701
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CNN INTERNACIONAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88702
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : COMEDY CENTRAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88703
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : COSMO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88686
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : COSMOVISION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88705
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : CUATRO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88699
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DE PELÍCULA CLASSICO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88708
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DE PELÍCULA PLUS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88709
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DIGITAL QUINCE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88710
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DIRECTTV SPORT
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88707
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DIRECTTV SPORT 1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88706
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DIRECTTV SPORT 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88704
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY CHANNEL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88712
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY CIVILIZATION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88713
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY FAMALIA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88700
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY HOME AND HEALTH
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88714
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY KIDS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88715
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY SCIENCE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88716
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY THEATER
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88717
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY TURBO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88718
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISCOVERY WORLD
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88719
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISNEY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88720
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISNEY JUNIOR
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88721
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISNEY XD
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88722
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : DISTRITO COMEDIA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88724
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : E! ENTERTAINMENT
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88725
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : EL GOURMET
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88764
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ENERGY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88670
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ESPN 3
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88729
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ESPN DEPORTES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88723
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ESTRELLAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88828
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FILM AND ARTS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88735
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FORO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88726
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88751
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX LIFE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88752
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM ACTION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88737
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM CINEMA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88748
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM CLASSICS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88749
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM COMEDY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88750
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM FAMILY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88738
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM MOVIES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88740
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX PREMIUM SERIES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88736
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX SPORTS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88755
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX SPORTS 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88753
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : FOX SPORTS 3
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88754
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GALAVISION TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88756
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GARAGE TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88762
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GLITZ
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88760
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GOL TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88758
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GOLDEN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88761
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GOLDEN PLUS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88759
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : GOLF CHANNEL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88763
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HBO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88768
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HBO 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88766
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HBO FAMILY ESTE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88767
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HBO PLUS ESTE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88769
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HBO SIGNATURE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88770
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HISTORY 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88765
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HISTORY CHANNEL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88772
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HOLA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88773
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : HOLLYWOOD
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88811
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ID
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88776
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : INDIEPLEX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88777
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : LAS ESTRELLAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88771
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : LIFETIME
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88780
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MAS CHIC
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88781
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MAX UP
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88784
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MEGA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88687
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MOREMAX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88782
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MOVIEMAX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88778
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MOVIEPLEX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88788
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MTV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88785
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MTV HITS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88786
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : MTV LIVE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88787
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NAT GEO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88791
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NAT GEO KIDS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88792
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NAT GEO WILD
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88794
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NEOX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88674
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NEXT TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88795
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NICK 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88798
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NICK JR
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88800
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NICKELODEON
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88796
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NICKTOONS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88797
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NOS PAIS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88802
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : NTN 24
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88801
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : PARAMOUNT CHANNEL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88804
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : PASIONES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88805
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : RCN TELE NOVELAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88809
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/038c0afd28b6f966fbccb815e0a9783a.png" ,ES : REAL MADRID TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88842
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : RTE 7
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88803
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : SHOWTIME
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88806
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : SHOWTIME BEYOND
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88807
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : SONY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88812
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : SPACE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88813
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88810
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ BLACK
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88820
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ CINEMA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88821
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ COMEDY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88823
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ EDGE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88826
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88835
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE ACTION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88839
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE BLACK
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88837
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE CLASSIC
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88840
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE FAMILY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88843
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE SUSPENSE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88845
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ ENCORE WESTERN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88679
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ FAMILY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88741
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STARZ KIDS AND FAMILY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88827
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : STUDIO UNIVERSAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88814
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : SUNDANCE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88815
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : SYFY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88816
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TBS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88818
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TCM
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88819
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TELE CAFE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88822
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TELE HIT
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88824
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TELEMUNDO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88825
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TL NOVELAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88831
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TLC
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88829
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TNT
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88832
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TNT SERIES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88833
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TOONCAST
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88834
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TRUTV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88836
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TUDN ZONA FUTBOL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88728
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : TVE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88838
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : UNIMAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88742
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : UNIVERSAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88841
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : UNIVISION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88734
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : UNIVISION DEPORTES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88733
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : VH1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88844
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : WAPA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88730
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : WARNER CHANNEL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88846
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : WIN SPORTS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88847
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" ,ES : ZOOM
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88848
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : ALCARRIA TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101663
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : ANIME ZONE TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101664
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : CANAL 10 CANCÚN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101665
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : CANAL 26
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101666
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : CANAL MUNDO+
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101667
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : CONECTA TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101668
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : CUBAVISION INTERNACIONAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101669
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : DW ESPAÑOL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101670
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : EL GARAGE TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101671
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : FOX LIFE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88739
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : FOX PREMIUM ACTION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88746
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : FOX SPORTS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88743
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : FOX SPORTS 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88744
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : FOX SPORTS 3
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88745
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : FRANCE 24 ESPAÑOL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101672
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : GENESIS TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101673
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : HIPÓDROMO DE LAS AMÉRICAS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101674
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : HISPANTV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101675
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : KANADE TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101676
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : MEXIQUENSE TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101677
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : MONTE MARIA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101678
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : MOOVIMEX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101679
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : MVM NOTICIAS (OAXACA)
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101680
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : NAT GEO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88793
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : NAT GEO KIDS
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88789
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://cdn.countryflags.com/thumbs/mexico/flag-round-250.png" ,MX : NAT GEO WILD
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/88790
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : NUEVO TIEMPO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101681
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : POP TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101682
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : QUIERO TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101683
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : RTQ QUERETARO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101684
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : TELE SISTEMA CANAL 9
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101685
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : TELEFÓRMULA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101686
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : TELEMAX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101687
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : TRANSMEDIA TELEVISIÓN MORELIA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101688
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : TVMÁS (XHGV-TDT)
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101689
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : TVP
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101690
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : UCL TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101691
+#EXTINF:-1 group-title="SPANISH/MEXICAN TV" tvg-logo="http://p2086.securepoint.io:2086/images/8dbb07a18d46f63d8b3c8994d5ccc351.png" ,MX : UNO TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101692
