@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" ,ES:BLAZE
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/40
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" ,ES:BABY TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/47
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i1.wp.com/www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg?fit=300%2C236&ssl=1" ,ES:#0 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/844
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" ,ES:24 Horas HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/845
+#EXTINF:-1 group-title="ESP" tvg-logo="https://fotografias-nova.atresmedia.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" ,ES:A3 Series HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/848
+#EXTINF:-1 group-title="ESP" ,ES:MOVISTAR LALIGA HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/858
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i0.pngocean.com/files/820/427/778/bloomberg-television-television-channel-dish-network-custom-plan.jpg" ,ES:BLOOMBERG
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/860
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" ,ES:CANAL GOLF FHD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/864
+#EXTINF:-1 group-title="ESP" tvg-logo="https://odisea.es/wp-content/uploads/2019/06/OdiseaElCanal.png" ,ES:CANAL ODISEA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/866
+#EXTINF:-1 group-title="ESP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Canal_Panda_2015_Stacked.png/revision/latest/scale-to-width-down/340?cb=20150708105237" ,ES:CANAL PANDA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/867
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/10/canal-sur.png" ,ES:CANAL SUR
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/868
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7e/CI_Crime_Investigation_Network_Logo.png" ,ES:CRIME AND INVESTIGATION
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/871
+#EXTINF:-1 group-title="ESP" ,ES:DISCOVERY CHANNELHD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/872
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.formulatv.com/images/noticias/56100/56180/1_13bed52859.jpg" ,ES:DMAX
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/873
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" ,ES:FOX NEWS
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/877
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,ES:GALICIA TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/879
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.andorratelecom.ad/documents/2181201/2181207/208-laliga-tv-bar.png/f2f0f6d3-572e-e40d-51f7-c2ca51870ca9?t=1568868204313" ,ES:Movistar LaLiga
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/884
+#EXTINF:-1 group-title="ESP" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_cinedoc_roll.png" ,ES:MOVISTAR CINEDOC&ROLL HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/886
+#EXTINF:-1 group-title="ESP" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png" ,ES:MOVISTAR DEPORTES 2 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/887
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.vertelevision.tv/wp-content/uploads/2017/07/MComedia.png" ,ES:MOVISTAR COMEDIA HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/888
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png" ,ES:MOVISTAR SERIE HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/891
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/21-m-seriesmania.png" ,ES:MOVISTAR SERIE MANIA HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/892
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cofan.es/images/content/500x331/web_ac57gl25062.jpg" ,ES:TAQUILLA 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/897
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cofan.es/images/content/500x331/web_ac57gl25062.jpg" ,ES:TAQUILLA 2 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/898
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cofan.es/images/content/500x331/web_ac57gl25062.jpg" ,ES:TAQUILLA 3 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/899
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cofan.es/images/content/500x331/web_ac57gl25062.jpg" ,ES:TAQUILLA 4 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/900
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cofan.es/images/content/500x331/web_ac57gl25062.jpg" ,ES:TAQUILLA 5 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/901
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cofan.es/images/content/500x331/web_ac57gl25062.jpg" ,ES:TAQUILLA 6 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/902
+#EXTINF:-1 group-title="ESP" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" ,ES:TOROS HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/908
+#EXTINF:-1 group-title="ESP" tvg-logo="https://media.tvalacarta.info/canales/256x256/trecetves.png" ,ES:TRECE TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/909
+#EXTINF:-1 group-title="ESP" tvg-logo="https://seeklogo.com/images/T/tve_24h-logo-D736419F2A-seeklogo.com.png" ,ES:TVE 24H
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/31656
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png" ,ES:Teledeporte HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48926
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" ,ES:MADRID TV HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48927
+#EXTINF:-1 group-title="ESP" tvg-logo="https://sport-tv-guide.live/images/stations/a366.png" ,ES:Movistar Fórmula 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48934
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" ,ES:MOVISTARr GOLF FHD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48939
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" ,ES:Movistar Deportes HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48941
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.iberalia.tv/images/iberaliago_2019.png" ,ES:IBERALIA TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48951
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:27000/images/1c16f7bfe52f143192d116dbb6642e90.png" ,ES:GOL TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48954
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png" ,ES:Eurosport 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48956
+#EXTINF:-1 group-title="ESP" tvg-logo="https://e7.pngegg.com/pngimages/616/780/png-clipart-eurosport-2-television-channel-logo-mediaset-premium-television-text-thumbnail.png" ,ES:Eurosport 2 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48958
+#EXTINF:-1 group-title="ESP" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/liga-de-campeones.png?w=760" ,ES:Movistar Liga de Campeones HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48984
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.venteaorange.net/pub_files/pasted%20image%200(69).png" ,ES:MEZZO LIVE HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48995
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" tvg-id="mega.es" ,ES:Mega HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/48996
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" ,ES:FOX LIFE HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49003
+#EXTINF:-1 group-title="ESP" tvg-logo="https://2.bp.blogspot.com/-ZIgmUxP1cMs/TVlo3jDYCTI/AAAAAAAACi0/BFlOJH-XHtY/s1600/fox_hd.png" ,ES:FOX HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49005
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/26b8c9ff1bb985322a240437344b7caa.png" ,ES:FDF HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49006
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.kissfm.es/wp-content/uploads/2016/04/DKISS-WEB-650x361.png" ,ES:DKISS
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49011
+#EXTINF:-1 group-title="ESP" tvg-logo="https://album.mediaset.es/eimg/2017/11/02/GzPsWbmLErUC5Jmh2TyJe2.jpg?w=480" ,ES:Divinity HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49012
+#EXTINF:-1 group-title="ESP" tvg-logo="https://e7.pngegg.com/pngimages/218/458/png-clipart-disney-channel-television-channel-television-show-disneynow-disney-channel-ears.png" ,ES:DISNEY CHANEL HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49016
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" ,ES:DISNEY XD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49017
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" ,ES:Disney Jr
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49018
+#EXTINF:-1 group-title="ESP" tvg-logo="https://media.tvalacarta.info/canales/256x256/decasa.png" ,ES:Canal Casa
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49020
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cosmohd.png" ,ES:Cosmo HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49022
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png" ,ES:Comedy Central HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49025
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.conecta.es/media/zoo/images/canal-cocina-dos_85b3b9aab7042917344d721319fa5fd1.jpg" ,ES:CANAL COCINA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49028
+#EXTINF:-1 group-title="ESP" tvg-logo="https://2.bp.blogspot.com/-SEjw8u5xQJU/UMtdINH04xI/AAAAAAAAWuM/Rye1flr7q6E/s1600/Clan_TVE_logo.png" ,ES:CLAN TVE
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49031
+#EXTINF:-1 group-title="ESP" tvg-logo="https://1.bp.blogspot.com/-R8x-OSq2Nyk/V1Pkz4JtdMI/AAAAAAAAgLg/O_s5idn4pgosopv9IoFYddt1Ra74ytCigCLcB/w1200-h630-p-k-no-nu/cazaypescahd.jpg" ,ES:Caza y Pesca HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49033
+#EXTINF:-1 group-title="ESP" tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ.jpg" ,ES:CALLE 13 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49038
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" ,ES:BLAZE
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49040
+#EXTINF:-1 group-title="ESP" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_logo_500_-1_758c.png" ,ES:Be Mad HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49041
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/132f12e9eead189f58ba24494975114a.jpg" ,ES:BARCA TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49043
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/AXN_White_Logo.png/640px-AXN_White_Logo.png" ,ES:AXN WHITE HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49047
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i.pinimg.com/originals/bf/68/a2/bf68a2076d147d5d40c0114046183f1b.png" ,ES:AXN HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49049
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Arag%C3%B3nTVHD.png" ,ES:ARAGON TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49050
+#EXTINF:-1 group-title="ESP" tvg-logo="https://4.bp.blogspot.com/-eg875HxwtT0/WQjO9dj34gI/AAAAAAAAFqU/cO6hLf_w1XoxaZN6LDoN4A1QvPQ7ZMU2ACLcB/s1600/amc_us_hd.png" ,ES:AMC HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49054
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.formulatv.com/images/noticias/45700/45792/8_e03b523cdd.jpg" ,ES:Nova HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49060
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" ,ES:Boing HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49061
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" ,ES:HOLLYWOOD HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49062
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" ,ES:XTRM
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49063
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" ,ES:VIAJAR HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49064
+#EXTINF:-1 group-title="ESP" tvg-logo="https://1.bp.blogspot.com/-pZm7QfpUhzU/Vf2N_vRArOI/AAAAAAAAAJk/3aIsAhz-09U/s1600/TNT_HD.png" ,ES:TNT HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49068
+#EXTINF:-1 group-title="ESP" tvg-logo="https://brandemia.org/sites/default/files/logotipo_tm.jpg" ,ES:TELEMADRID HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49071
+#EXTINF:-1 group-title="ESP" tvg-logo="https://pbs.twimg.com/profile_images/1122610868762632192/r5e3agpM.png" ,ES:TCM HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49073
+#EXTINF:-1 group-title="ESP" tvg-logo="https://2.bp.blogspot.com/-OAGl1vhVm3w/VMldcsrituI/AAAAAAAAAGU/s_SqscNyUfs/w1200-h630-p-k-no-nu/Syfy.png" ,ES:SYFY HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49075
+#EXTINF:-1 group-title="ESP" tvg-logo="https://vfes-images.ott.kaltura.com/c45d9b1548d843c59d27c1a3961bee03_288X162.png" ,ES:SUNDANCE HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49077
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/ParamountNetwork.png" ,ES:PARAMOUNT NETWORK
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49080
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Canal_Panda_first_logo.png/440px-Canal_Panda_first_logo.png" ,ES:PANDA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49081
+#EXTINF:-1 group-title="ESP" tvg-logo="https://1.bp.blogspot.com/-YLnBYkrFOvo/TWQJieHJYFI/AAAAAAAAATc/3UdNtBKnE9M/s1600/Odisea%2Blogo%2B2011.jpg" ,ES:ODESEA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49082
+#EXTINF:-1 group-title="ESP" tvg-logo="https://3.bp.blogspot.com/-CQ9OQO9EPCY/VL17cQ7iyqI/AAAAAAAAHSk/e1Ggsh7V1ok/s1600/nickelodeon-hd.png" ,ES:NICKELODEON HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49084
+#EXTINF:-1 group-title="ESP" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" ,ES:NICK JUNIOR
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49085
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Nat_Geo_Wild_logo-1216x437-705062815.png" ,ES:NAT GEO WILD HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49089
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:27000/images/0560f04053c76752c8f412698025953a.png" ,ES:NAT GEO HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49090
+#EXTINF:-1 group-title="ESP" tvg-logo="https://juventudcalahorra.files.wordpress.com/2011/02/mtv6.jpg" ,ES:MTV ESPAÑA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49091
+#EXTINF:-1 group-title="ESP" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/logoMovistarEstrenos.png" ,ES:MoviStar ESTRENOS HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49103
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" ,ES:MOVISTAR CINE N
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49107
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.pngjoy.com/pngm/472/8135158_logo-movistar-logo-de-canal-movistar-disney-transparent.png" ,ES:MOVISTAR Disney HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49116
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.pngfind.com/pngs/m/342-3426240_logo-movistar-accion-hd-png-download.png" ,ES:MOVISTAR ACCION HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49117
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.cableunion.es/assets/base/img/tv/generalistas/08.jpg" ,ES:La Sexta HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49121
+#EXTINF:-1 group-title="ESP" tvg-logo="https://3.bp.blogspot.com/-LKNVnzeViws/T5may9eLNlI/AAAAAAAAAfg/J4IFbpwAg5Q/s1600/cuatro_hd_logo.png" ,ES:Cuatro HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49127
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" ,ES:Antena 3 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49129
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:27000/images/5a87354bd010051229d13539bd5d2cbb.jpg" ,ES:TVE LA 2 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49132
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" ,ES:TVE LA 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/49135
+#EXTINF:-1 group-title="ESP" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Vamos.png" ,ES:#VAMOS HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70133
+#EXTINF:-1 group-title="ESP" tvg-logo="https://pluspng.com/img-png/comedy-png-hd-comedy-central-hd-png-800.png" ,ES:COMEDY CENTRAL HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70134
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i0.pngocean.com/files/917/857/255/eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-thumb.jpg" ,ES:EUROSPORT 1 HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70137
+#EXTINF:-1 group-title="ESP" tvg-logo="https://pluspng.com/img-png/fox-hd-png-fox-hd-png-800.png" ,ES:FOX HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70138
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" ,ES:FOX LIFE HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70139
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HWD_HD_logo.svg/1280px-HWD_HD_logo.svg.png" ,ES:HOLLYWOODHD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70141
+#EXTINF:-1 group-title="ESP" tvg-logo="https://vfes-images.ott.kaltura.com/d32cbfcab12442bfaf05f9b5fbcfd45c_302X170.png" ,ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70143
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes-1024x768.png" ,ES:MOVISTAR DEPORTESHD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70149
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" ,ES:MOVISTAR DRAMA HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70150
+#EXTINF:-1 group-title="ESP" tvg-logo="https://tv.orange.es/UpImages/2420/x_logo_landing_f9234bf610d902ba77dbd308b.png" ,ES:MOVISTAR SERIES MANIA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70156
+#EXTINF:-1 group-title="ESP" tvg-logo="http://adictosalatele.com/wp-content/uploads/2019/09/movistarcomedia.png" ,ES:MOVISTAR COMEDIA HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70157
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg?fit=300%2C236&ssl=1" ,ES:MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70160
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg?fit=300%2C236&ssl=1" ,ES:MOVISTAR LIGA CAMPEONES HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70162
+#EXTINF:-1 group-title="ESP" tvg-logo="http://www.adslzone.tv/app/uploads/2010/06/a94e971504843ae1b4933cd8518fd673.jpg" ,ES:MEZZO LIVE HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70163
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.elpublicista.es/image.php?file=fichero_6476_20110930.jpg&ancho=776&alto=248,71794871795&corto=1" ,ES:NATIONAL GEO WILD HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70164
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" ,ES:SYFY HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70165
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.mallorcadiario.com/fotos/1/uploads/2013/07/tcm-hd.jpg" ,ES:TCM HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70166
+#EXTINF:-1 group-title="ESP" tvg-logo="https://static.wixstatic.com/media/8703a7_ef4ec74934c7432fb9919a6cd7412c2d.jpg/v1/fill/w_425,h_240,al_c,q_80,usm_0.66_1.00_0.01/8703a7_ef4ec74934c7432fb9919a6cd7412c2d.webp" ,ES:TNT HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70195
+#EXTINF:-1 group-title="ESP" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/canal-viajar-tv-m2823853.JPG" ,ES: VIAJAR HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70196
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg" ,ES:#VAMOS HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70198
+#EXTINF:-1 group-title="ESP" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-series.jpg" ,ES:MOVISTAR SERIES HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70200
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.media-tics.com/fotos/8/i24.jpg" ,ES:I24 NEWS
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70202
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i.ytimg.com/vi/oaGRGtOZGnM/hqdefault.jpg" ,ES:DISNEY CHANNEL HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70204
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/movistaraccion.png" ,ES:ACCION HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70205
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cazaworld.com/public/images/cache/users/339/806x604/4/rro6xvzmnugpyuwvrtppjx6cz.jpg" ,ES:IBERALIA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70206
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" ,ES:HISTORIA
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70207
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.mundodeportivo.com/r/GODO/MD/p6/MasQueDeporte/Imagenes/2019/02/25/Recortada/img_ironda_20190225-114239_imagenes_md_otras_fuentes_movistar-futbol-k1XH-U46681106962ecD-980x554@MundoDeportivo-Web.jpg" ,ES:MOVISTAR FOTBOL FHD 4K
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70209
+#EXTINF:-1 group-title="ESP" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,ES:EUROSPORT 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70210
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg" ,ES:MOVISTAR ESTRENOS
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70211
+#EXTINF:-1 group-title="ESP" tvg-logo="https://sport-tv-guide.live/images/stations/a366.png" ,ES:MOVISTAR FORMULA 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70212
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/59b514174bffe4ae402b3d63aad79fe0.jpg" ,ES:BEIN LALIGA 1HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70229
+#EXTINF:-1 group-title="ESP" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/images.jpg" ,ES:BEIN SPORTS LA LIGA HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70230
+#EXTINF:-1 group-title="ESP" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/images.jpg" ,ES:BEIN SPORTS FHD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70231
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i.pinimg.com/originals/80/3f/e0/803fe0e8182d6b8e97e0c10045a9eaef.jpg" ,ES:MOVISTAR DEPORTE 2 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70232
+#EXTINF:-1 group-title="ESP" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" ,ES:MOVISTAR DEPORTE 3 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70233
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.adslzone.net/app/uploads/2019/06/movistar-laliga.jpg" ,ES:LA LIGA 2 TV HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70234
+#EXTINF:-1 group-title="ESP" tvg-logo="http://epg-ott.telecable.es/canales/big/103.png" ,ES:LA LIGA TV HD BAR
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70237
+#EXTINF:-1 group-title="ESP" tvg-logo="https://2.bp.blogspot.com/-VeRuF5a8cLY/W8DjlQ8m0uI/AAAAAAAAJDY/Z7x3yjEzfv8RqCdAkc3P6lz8ClJ-GFeCwCLcBGAs/s1600/600x600---DRAMA.jpg" ,ES:MOVISTAR DRAMA HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70238
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" ,ES:MOVISTAR DEPORTES HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70239
+#EXTINF:-1 group-title="ESP" tvg-logo="https://archive.is/X5o4t/79cbab258bbb22e2163177f38516023262b5590c.png" ,ES:MOVISTAR ACCION HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70240
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/movistar-seriesmania.jpg" ,ES:SERIES MANIA FHD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70241
+#EXTINF:-1 group-title="ESP" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/movistarcomedia.png" ,ES:COMEDIA.
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70242
+#EXTINF:-1 group-title="ESP" tvg-logo="https://es.kingofsat.net/jpg/dcineespanol.jpg" ,ES: CINE ESPANOL
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70244
+#EXTINF:-1 group-title="ESP" tvg-logo="https://pbs.twimg.com/profile_images/738309186845429760/4HA03dX1.jpg" ,ES:AXN WHITE.
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70245
+#EXTINF:-1 group-title="ESP" tvg-logo="http://zonaj.net/imgupload/10-shows-de-nickelodeon-que-usted-tal-vez-ya-no-recuerda_34tm0n.jpg" ,ES:NICKELODEON 
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70246
+#EXTINF:-1 group-title="ESP" tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg" ,ES:CALLE 13 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70247
+#EXTINF:-1 group-title="ESP" tvg-logo="http://blog.galaxy-innovations.es/wp-content/uploads/2011/11/cosmo-hd.jpg" ,ES:COSMO HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70248
+#EXTINF:-1 group-title="ESP" tvg-logo="https://e7.pngegg.com/pngimages/579/937/png-clipart-cosmopolitan-tv-cosmopolitan-television-television-channel-pink-s-cosmopolitan-television-text.png" ,ES:COSMO.
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70249
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logo-canal-fox.jpg" ,ES:Fox
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70250
+#EXTINF:-1 group-title="ESP" tvg-logo="https://s03.s3c.es/imag/_v0/640x300/2/5/b/fox-life.jpg" ,ES:Fox Life HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70251
+#EXTINF:-1 group-title="ESP" tvg-logo="https://i.blogs.es/d18e49/logocanalodisea/450_1000.jpg" ,ES:Odisea HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70252
+#EXTINF:-1 group-title="ESP" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg" ,ES:Neox HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70253
+#EXTINF:-1 group-title="ESP" tvg-logo="https://album.mediaset.es/eimg/2017/01/25/pxhLi1qvJqy807aJrm9nZ.jpg" ,ES:Energy HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70254
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.conecta.es/images/noticias/AMC/canal-cocina.png" ,ES:Cocina TV
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70255
+#EXTINF:-1 group-title="ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" ,ES:TVE
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70256
+#EXTINF:-1 group-title="ESP" tvg-logo="https://album.mediaset.es/eimg/2017/11/27/qKvb088AK3QmkHS6VNAxT2.jpg?w=480" ,ES:Telecinco HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70258
+#EXTINF:-1 group-title="ESP" tvg-logo="https://3.bp.blogspot.com/-LKNVnzeViws/T5may9eLNlI/AAAAAAAAAfg/J4IFbpwAg5Q/s1600/cuatro_hd_logo.png" tvg-id="woohoo.br" ,ES:Cuatro HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70259
+#EXTINF:-1 group-title="ESP" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-ant3.jpg" tvg-id="antena3.es" ,ES:Antena 3 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70260
+#EXTINF:-1 group-title="ESP" tvg-logo="https://st-listas.20minutos.es/images/2009-11/164028/1826801_640px.jpg?1258547222" ,ES:La 2 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70261
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.lg.com/es/mp-resources/images/posventa/microsites/television/canal-la-1-hd-desaparece-sintonizar/la-1-HD-desaparece-mayo-2015-sintonizar_1429.jpg" ,ES:La 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70262
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.lg.com/es/mp-resources/images/posventa/microsites/television/canal-la-1-hd-desaparece-sintonizar/la-1-HD-desaparece-mayo-2015-sintonizar_1429.jpg" ,ES:LA 1 HD HEVC
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/70263
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/89e64cc90f6340f48d80ff670ae8d37d.jpg" ,[PRIVATE] ES:Movistar LaLiga HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74878
+#EXTINF:-1 group-title="ESP" tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" ,ES:Movistar LaLiga HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74879
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/89e64cc90f6340f48d80ff670ae8d37d.jpg" ,ES:Movistar LaLiga
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74880
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" ,[PRIVATE] ES:Movistar Liga de Campeones HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74881
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/9915c85ca678b136bfe5b5ef0a01e02c.png" ,[PRIVATE] ES:Movistar Fórmula 1 HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74882
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" ,ES:Movistar Liga de Campeones
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74883
+#EXTINF:-1 group-title="ESP" tvg-logo="http://shashe.dianshiwang.vip:37000/images/7bc29276bbbfa1842a92925d9a3ff28f.png" ,[PRIVATE] ES:Movistar Deportes HD
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/74884
+#EXTINF:-1 group-title="ESP" ,ES:Movistar Deportes 1
+http://shashe.dianshiwang.vip:27000/rogeliovnz/2019/75877
