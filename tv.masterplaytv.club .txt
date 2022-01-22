@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 group-title="EU-ESPAÑA" ,•●★-- Deportes de España --★●•
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117111
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-5EmzcSS7PlU/XyNd0x5Z51I/AAAAAAAAAkk/FeZ90hsjg5027h5k3OxHAfeCO9uxKgoBQCLcBGAsYHQ/w200-h200/44%2Bvamos.png" tvg-id="Vamos.es" ,ESP - #Vamos (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117130
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-5EmzcSS7PlU/XyNd0x5Z51I/AAAAAAAAAkk/FeZ90hsjg5027h5k3OxHAfeCO9uxKgoBQCLcBGAsYHQ/w200-h200/44%2Bvamos.png" tvg-id="Vamos.es" ,ESP - #Vamos (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117129
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-JMXTZVK7dKU/XxZrnJ-ZpRI/AAAAAAAAAg0/YRBvIze4v44jbwzafgL4wRD_6pu_kHN8gCLcBGAsYHQ/w200-h200/27%2BBarca%2BTV.png" tvg-id="BarcaTV.es" ,ESP - Barça TV (O)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117132
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-dYZvdxHr5Wc/XztLHEbXehI/AAAAAAAABGo/VcpmIAyCsHsrzKhCgQ85NW6ahT-6LRnQwCLcBGAsYHQ/w200-h200/93%2BEurosport%2B1.png" tvg-id="Eurosport1.es" ,ESP - Eurosport 1 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117141
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-dYZvdxHr5Wc/XztLHEbXehI/AAAAAAAABGo/VcpmIAyCsHsrzKhCgQ85NW6ahT-6LRnQwCLcBGAsYHQ/w200-h200/93%2BEurosport%2B1.png" tvg-id="Eurosport1.es" ,ESP - Eurosport 1 (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117140
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GKpgi7V2FcQ/XztLs0jb5FI/AAAAAAAABGw/UQwFjj74P0Yi4S7YHMXEXYcMn30on4XlgCLcBGAsYHQ/w200-h200/94%2BEurosport%2B2.png" tvg-id="Eurosport2.es" ,ESP - Eurosport 2 (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117142
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-id="Gol.es" ,ESP - Gol (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117678
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-tSPbyDdCT3o/XyNd0HRzcpI/AAAAAAAAAkc/NgqjhVOATWA3IESirAVpDx0W9s9C75xvwCLcBGAsYHQ/w200-h200/43%2Bgol%2Btv%2Bes.png" tvg-id="Gol.es" ,ESP - GOL (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117131
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-cwoUnuWyNZU/XxPVlYPz9tI/AAAAAAAAAfA/cRS0npkh5LI6aMtYSqf5ZR6lMELesKSFACLcBGAsYHQ/w200-h200/La%2BLiga%2BBar.png" tvg-id="LaLigaTV.es" ,ESP - LaLiga TV Bar (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117126
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-cwoUnuWyNZU/XxPVlYPz9tI/AAAAAAAAAfA/cRS0npkh5LI6aMtYSqf5ZR6lMELesKSFACLcBGAsYHQ/w200-h200/La%2BLiga%2BBar.png" tvg-id="LaLigaTV.es" ,ESP - LaLiga TV Bar (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117125
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-VO3-Uriyy1s/XyNiY_OiyHI/AAAAAAAAAn4/mXyRjD3FXy8uJ9rQYRWd2KEV87LBhEHMQCLcBGAsYHQ/w200-h200/88%2BMdeportes.png" tvg-id="MovistarDeportes.es" ,ESP - M. Deportes (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117139
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-VO3-Uriyy1s/XyNiY_OiyHI/AAAAAAAAAn4/mXyRjD3FXy8uJ9rQYRWd2KEV87LBhEHMQCLcBGAsYHQ/w200-h200/88%2BMdeportes.png" tvg-id="MovistarDeportes.es" ,ESP - M. Deportes (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117138
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-id="MovistarFormula1.es" ,ESP - M. F1 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117679
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-QF3Agxs6PL8/XyNd0B1sfwI/AAAAAAAAAkY/SYmYLXb9GEwpyJmc8uH5jVsl4HZdOSHrQCLcBGAsYHQ/w200-h200/42%2Bmf1.png" tvg-id="MovistarFormula1.es" ,ESP - M. F1 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117134
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" tvg-id="MovistarGolf.es" ,ESP - M. Golf (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117137
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" tvg-id="MLaLiga.es" ,ESP - M. LaLiga (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117124
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" tvg-id="MLaLiga.es" ,ESP - M. LaLiga (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117123
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" tvg-id="MLaLiga1.es" ,ESP - M. LaLiga 1 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117146
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" tvg-id="MLaLiga1.es" ,ESP - M. LaLiga 1 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117145
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-BpdDoi6333g/XztJbgqczdI/AAAAAAAABGI/PU-MILA4H2YsZT2K3TGhjgshK1Dx1qdrwCLcBGAsYHQ/w200-h200/91%2BMovistar%2Bla%2Bliga%2B2.png" tvg-id="MLaLiga2.es" ,ESP - M. LaLiga 2 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117147
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" tvg-id="MLaLiga3.es" ,ESP - M. LaLiga 3 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117148
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" tvg-id="LigaDeCampeones.es" ,ESP - M. Liga de Campeones (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117128
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" tvg-id="LigaDeCampeones.es" ,ESP - M. Liga de Campeones (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117127
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" tvg-id="LigaDeCampeones2.es" ,ESP - M. Liga de Campeones 1 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117149
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" tvg-id="LigaDeCampeones2.es" ,ESP - M. Liga de Campeones 2 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117150
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Multideportes (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117112
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Real Madrid TV (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117144
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Real Madrid TV (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117143
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-NBCjVoN58Ow/XyNd0GwU1wI/AAAAAAAAAkg/gIh08cSLc6QDUvoNkzRrBAQvl0q6nQ_MQCLcBGAsYHQ/w200-h200/41%2BTELEDEPORTES.png" tvg-id="Teledeporte.es" ,ESP - Teledeporte (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117135
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" tvg-id="Toros.es" ,ESP - Toros TV (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117207
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" tvg-id="Toros.es" ,ESP - Toros TV (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117206
+#EXTINF:-1 group-title="EU-ESPAÑA" ,•●★-- TDT ESPAÑA--★● 
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117283
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-id="24Horas.es" ,ESP - 24 Horas (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117676
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/6be7cbfc3e262821b3c3cf041f24de5c.png" ,ESP - 24h
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117168
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Afvn3kCU-EU/XxZrlB-6q4I/AAAAAAAAAgg/PH9UFG7JVv8N0ng2Tl_tguLePuxbsKsAgCLcBGAsYHQ/w200-h200/22%2BAntena%2B3.png" tvg-id="Antena3.es" ,ESP - Antena 3 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117158
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Afvn3kCU-EU/XxZrlB-6q4I/AAAAAAAAAgg/PH9UFG7JVv8N0ng2Tl_tguLePuxbsKsAgCLcBGAsYHQ/w200-h200/22%2BAntena%2B3.png" tvg-id="Antena3.es" ,ESP - Antena 3 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117159
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_SG5c5jiKmI/XyNeHmgz0wI/AAAAAAAAAnE/JCc9IsDbuUQidocx-o4AxZHdAoCIHRXsQCLcBGAsYHQ/w200-h200/84%2BAntena3int.png" tvg-id="Antena3.es" ,ESP - Antena 3 Internacional (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117160
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-bm5lL9OBOEc/XxPVkmSAKzI/AAAAAAAAAew/puTWp_TAvYAQk_UwS4d7lPNUktB90PCpgCLcBGAsYHQ/w200-h200/Be%2BMad.png" tvg-id="BeMad.es" ,ESP - BeMad (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117173
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-bm5lL9OBOEc/XxPVkmSAKzI/AAAAAAAAAew/puTWp_TAvYAQk_UwS4d7lPNUktB90PCpgCLcBGAsYHQ/w200-h200/Be%2BMad.png" tvg-id="BeMad.es" ,ESP - BeMad (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117174
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-BVyI26Rovdc/XxZroMVb_pI/AAAAAAAAAg8/LFy0s4LQLFYx6hzJq0nPZGclHRoKkisAACLcBGAsYHQ/w200-h200/29%2BBlaze.png" tvg-id="Blaze.es" ,ESP - Blaze (O)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117179
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-mrfnJ67Yz4U/XyNd_v8a9GI/AAAAAAAAAmE/jW-3HjaSjF0ReAuf5yzaWExOzB_0hCU5ACLcBGAsYHQ/w200-h200/68%2BCalle13.png" tvg-id="Calle13.es" ,ESP - Calle 13 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117218
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-mrfnJ67Yz4U/XyNd_v8a9GI/AAAAAAAAAmE/jW-3HjaSjF0ReAuf5yzaWExOzB_0hCU5ACLcBGAsYHQ/w200-h200/68%2BCalle13.png" tvg-id="Calle13.es" ,ESP - Calle 13 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117219
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-pHAnRFOPyhs/XxZrs5xWVaI/AAAAAAAAAhg/FU1ja1kP82Qfe4xOjQZIA-YdcyybwBeSACLcBGAsYHQ/w200-h200/38%2BClan%2BTV.png" tvg-id="ClanTVE.es" ,ESP - Clan TVE (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117266
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" tvg-id="Cosmo.es" ,ESP - COSMO (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117202
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" ,ESP - COSMO (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117203
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-y7d9FdYmTyI/XyNeHIuUayI/AAAAAAAAAnA/5ikoAsDNjxAbem4oLAvRUjp_ZKIgiIXlwCLcBGAsYHQ/w200-h200/83%2BCuatrohd.png" tvg-id="Cuatro.es" ,ESP - Cuatro (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117161
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-y7d9FdYmTyI/XyNeHIuUayI/AAAAAAAAAnA/5ikoAsDNjxAbem4oLAvRUjp_ZKIgiIXlwCLcBGAsYHQ/w200-h200/83%2BCuatrohd.png" tvg-id="Cuatro.es" ,ESP - Cuatro (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117162
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-r-ICzMZJ0m4/XyNd_IP-pKI/AAAAAAAAAmA/POOZGMgB0yULrYlU0E6T2im9EH_R9gzfwCLcBGAsYHQ/w200-h200/67%2Bdark.png" tvg-id="Dark.es" ,ESP - DARK (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117221
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-r-ICzMZJ0m4/XyNd_IP-pKI/AAAAAAAAAmA/POOZGMgB0yULrYlU0E6T2im9EH_R9gzfwCLcBGAsYHQ/w200-h200/67%2Bdark.png" tvg-id="Dark.es" ,ESP - DARK (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117220
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/fc00d9aae9bd8af94a1d288fbffcbefc.png" ,ESP - Divinity (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117177
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Dkiss (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117175
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - DMAX (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117176
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/40cb0e93363408e0087033cc724aa9d2.png" tvg-id="Energy.es" ,ESP - Energy (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117178
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Hispan TV (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117169
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-IBc7kGK2gnU/XyNeI2OSwUI/AAAAAAAAAnM/M5wcx96FHlUXNziClUMnXpm82fpPEhr1gCLcBGAsYHQ/w200-h200/86%2Bla1.png" tvg-id="LA1.es" ,ESP - La 1 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117153
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-IBc7kGK2gnU/XyNeI2OSwUI/AAAAAAAAAnM/M5wcx96FHlUXNziClUMnXpm82fpPEhr1gCLcBGAsYHQ/w200-h200/86%2Bla1.png" tvg-id="LA1.es" ,ESP - La 1 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117154
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-YAvVFV8FKSg/XyNeJO2WPnI/AAAAAAAAAnQ/XQJvBROqR2g27PA7JkoSOhJDHE8Of_eOgCLcBGAsYHQ/w200-h200/87%2Bla2.png" tvg-id="LA2.es" ,ESP - La 2 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117155
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-YAvVFV8FKSg/XyNeJO2WPnI/AAAAAAAAAnQ/XQJvBROqR2g27PA7JkoSOhJDHE8Of_eOgCLcBGAsYHQ/w200-h200/87%2Bla2.png" tvg-id="LA2.es" ,ESP - La 2 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117156
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-W6Tq2Qy7DkA/XyNeGM80cfI/AAAAAAAAAm4/IYVlaoek-Osk3yphc6WNm5e0lmEjPWonQCLcBGAsYHQ/w200-h200/81%2Blasexta.png" tvg-id="LaSexta.es" ,ESP - La Sexta (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117165
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-W6Tq2Qy7DkA/XyNeGM80cfI/AAAAAAAAAm4/IYVlaoek-Osk3yphc6WNm5e0lmEjPWonQCLcBGAsYHQ/w200-h200/81%2Blasexta.png" tvg-id="LaSexta.es" ,ESP - La Sexta (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117166
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Dg7dcjk4OfI/XyNeFOdAkEI/AAAAAAAAAmw/Xxy5GJwzFlYTO8TWxbLKV-D-cE4yyj9twCLcBGAsYHQ/w200-h200/79%2BMega.png" tvg-id="Mega.es" ,ESP - MEGA (R)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117171
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Dg7dcjk4OfI/XyNeFOdAkEI/AAAAAAAAAmw/Xxy5GJwzFlYTO8TWxbLKV-D-cE4yyj9twCLcBGAsYHQ/w200-h200/79%2BMega.png" tvg-id="Mega.es" ,ESP - MEGA (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117172
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Mezzo (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117280
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-aVYfq5IuozU/XyNeDFGgrOI/AAAAAAAAAmg/A95URu7kt9ItaYgc7cJ_653Z8v6Hd2ohgCLcBGAsYHQ/w200-h200/75%2BNeox.png" tvg-id="Neox.es" ,ESP - Neox (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117183
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-uJ0pKawI95k/XyNeEtdPNDI/AAAAAAAAAms/Oahh03rsjDs2JpY7QrVPfC91KaK0seBBgCLcBGAsYHQ/w200-h200/78%2BNova.png" tvg-id="Nova.es" ,ESP - Nova (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117180
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/c7e1a13ded82ddb8c09500522b443ffd.png" ,ESP - Odisea (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117181
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-m-OAcJ9zw5s/XyNeFjF78MI/AAAAAAAAAm0/uioGB4nvCNYQa76adYdV4vLMIoims0HbQCLcBGAsYHQ/w200-h200/80%2BStar.png" tvg-id="TVEIntAsia.es" ,ESP - Star TVE (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117167
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-77VtI5bwhEU/XyNeGsVP_LI/AAAAAAAAAm8/nAYabkpi5UUFukvmHWoTO4rUL_wAmb9gACLcBGAsYHQ/w200-h200/82%2Btelesinco.png" tvg-id="Telecinco.es" ,ESP - Telecinco (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117736
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-77VtI5bwhEU/XyNeGsVP_LI/AAAAAAAAAm8/nAYabkpi5UUFukvmHWoTO4rUL_wAmb9gACLcBGAsYHQ/w200-h200/82%2Btelesinco.png" tvg-id="Telecinco.es" ,ESP - Telecinco (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117164
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-77VtI5bwhEU/XyNeGsVP_LI/AAAAAAAAAm8/nAYabkpi5UUFukvmHWoTO4rUL_wAmb9gACLcBGAsYHQ/w200-h200/82%2Btelesinco.png" tvg-id="Telecinco.es" ,ESP - Telecinco (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117163
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Na7wY2kavzE/XyNd2VxX0oI/AAAAAAAAAk8/mUtupW4cIBcG6QD7y6-F-OPtiNsUf5N8QCLcBGAsYHQ/w200-h200/50%2Btelemadrid.png" tvg-id="TeleMadrid.es" ,ESP - Telemadrid (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117261
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Ten (TV)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117184
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-pKs_F0tjwUw/XztMfpaAWLI/AAAAAAAABHE/_8sjXpxnPq8YKMZaaa3U3pbE6GQtXSkhgCLcBGAsYHQ/w200-h200/95%2BTve%2Bin.png" tvg-id="TVEIntAmerica.es" ,ESP - TVE Internacional (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117152
+#EXTINF:-1 group-title="EU-ESPAÑA" ,•●★-- Cine TV --★●
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117209
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-4d8WW8rGqvQ/XyNeAJY5WXI/AAAAAAAAAmI/-vAdda8pyDEQF_feIVlKK8mcypUbZ3W5QCLcBGAsYHQ/w200-h200/69%2Bnumeral0.png" tvg-id="Cero.es" ,ESP - #0 (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117211
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-4d8WW8rGqvQ/XyNeAJY5WXI/AAAAAAAAAmI/-vAdda8pyDEQF_feIVlKK8mcypUbZ3W5QCLcBGAsYHQ/w200-h200/69%2Bnumeral0.png" tvg-id="Cero.es" ,ESP - #0 (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117210
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-01Iu08DxodI/XxZrj1enWOI/AAAAAAAAAgQ/VnAGbJRScig1lpGRu6sS9IvpCwzgNgB5QCLcBGAsYHQ/w200-h200/17%2Ba3%2Bseries.png" tvg-id="Atreseries.es" ,ESP - A3Series (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117229
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - A3Series Internacional (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117230
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png" tvg-id="AMC.es" ,ESP - AMC (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117212
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png" tvg-id="AMC.es" ,ESP - AMC (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117213
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Antena Series (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117157
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_yN6S9GwyRI/XxZrmFipxHI/AAAAAAAAAgs/UHjw8RHgXngR7aibf3eePWKK6sS6U2AWgCLcBGAsYHQ/w200-h200/25%2BAXN.png" tvg-id="AXN.mx" ,ESP - AXN (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117214
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_yN6S9GwyRI/XxZrmFipxHI/AAAAAAAAAgs/UHjw8RHgXngR7aibf3eePWKK6sS6U2AWgCLcBGAsYHQ/w200-h200/25%2BAXN.png" tvg-id="AXN.es" ,ESP - AXN (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117215
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-DQIttGLeoK8/XxZrmA8GcmI/AAAAAAAAAgo/ZTRAxK0DnS0UoqCUdQuwAxPWI4Wwl8cbACLcBGAsYHQ/w200-h200/24%2BAXN%2BWhite.png" tvg-id="AXNWhite.es" ,ESP - AXN White (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117216
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-DQIttGLeoK8/XxZrmA8GcmI/AAAAAAAAAgo/ZTRAxK0DnS0UoqCUdQuwAxPWI4Wwl8cbACLcBGAsYHQ/w200-h200/24%2BAXN%2BWhite.png" tvg-id="AXNWhite.es" ,ESP - AXN White (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117217
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Bom Cine (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117258
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-rJu5vDBvqMU/XxPVkqAiSRI/AAAAAAAAAe4/g1rbjDxqZf0YkQtbxAOF9TbzGXMu3HdaACLcBGAsYHQ/w200-h200/Coemdy%2BCentral%2BEspa%25C3%25B1a.png" tvg-id="ComedyCentral.es" ,ESP - Comedy Central (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117196
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-rJu5vDBvqMU/XxPVkqAiSRI/AAAAAAAAAe4/g1rbjDxqZf0YkQtbxAOF9TbzGXMu3HdaACLcBGAsYHQ/w200-h200/Coemdy%2BCentral%2BEspa%25C3%25B1a.png" tvg-id="ComedyCentral.es" ,ESP - Comedy Central (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117197
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png" tvg-id="Fox.es" ,ESP - FOX (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117222
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png" tvg-id="Fox.es" ,ESP - FOX (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117223
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-UxKCf82xjO4/XyNd-FPVXlI/AAAAAAAAAl4/zQIvb_b_26g6onPSMRiPcqEXMlpxRQ45QCLcBGAsYHQ/w200-h200/65%2Bfoxlife.png" tvg-id="FoxLife.es" ,ESP - FOX Life (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117224
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-UxKCf82xjO4/XyNd-FPVXlI/AAAAAAAAAl4/zQIvb_b_26g6onPSMRiPcqEXMlpxRQ45QCLcBGAsYHQ/w200-h200/65%2Bfoxlife.png" tvg-id="FoxLife.es" ,ESP - FOX Life (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117225
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-RI7d4aTPLL0/XyNd9ET0X6I/AAAAAAAAAlw/d_pVYWoJMmU4H3lC1i4OV2m05B_62qBuQCLcBGAsYHQ/w200-h200/63%2Bhollywood.png" tvg-id="Hollywood.es" ,ESP - Hollywood (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117231
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png" tvg-id="MovistarAccion.es" ,ESP - M. Accion (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117232
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png" tvg-id="MovistarAccion.es" ,ESP - M. Accion (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117233
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-QXTGVw7rOlg/XxPWBEJC8II/AAAAAAAAAfs/_CIYdPMhiLYWzoVFAJshKZ-48tpFKg6eACLcBGAsYHQ/w200-h200/Movistar%2BCine.png" tvg-id="MovistarCineEspanol.es" ,ESP - M. Cine Español (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117337
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-ybP00kA-w1E/XyNd8vW9NxI/AAAAAAAAAls/y3EIGFpPb7U3wH9Tcfs2ceZTy48j6IAjgCLcBGAsYHQ/w200-h200/62%2Bmcinedoc.png" tvg-id="MovistarCineDocRoll.es" ,ESP - M. CineDoc&Roll (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117236
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-NGi8JELz8io/XyNd8HxDZ6I/AAAAAAAAAlo/YNE1z6ziRfkroyWhzTX1dt9t1mOQ75_YQCLcBGAsYHQ/w200-h200/61%2Bmcomedia.png" tvg-id="MovistarComedia.es" ,ESP - M. Comedia (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117237
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-NGi8JELz8io/XyNd8HxDZ6I/AAAAAAAAAlo/YNE1z6ziRfkroyWhzTX1dt9t1mOQ75_YQCLcBGAsYHQ/w200-h200/61%2Bmcomedia.png" tvg-id="MovistarComedia.es" ,ESP - M. Comedia (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117238
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-ccMHbsxirUw/XyNd5seISCI/AAAAAAAAAlU/7lSQM1QCfEcSJ5PN8OKytd3Yly8FaHdZACLcBGAsYHQ/w200-h200/56%2Bmdisney.png" tvg-id="MovistarDisney.es" ,ESP - M. Disney+ (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117275
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-McbuHekd6kY/XxPVl0f3smI/AAAAAAAAAfE/H-_OlkLQVm8cdjHTSJNHE2qw7agBYaLcACLcBGAsYHQ/w200-h200/Movistar%2BDrama.png" tvg-id="MovistarDrama.es" ,ESP - M. Drama (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117239
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-McbuHekd6kY/XxPVl0f3smI/AAAAAAAAAfE/H-_OlkLQVm8cdjHTSJNHE2qw7agBYaLcACLcBGAsYHQ/w200-h200/Movistar%2BDrama.png" tvg-id="MovistarDrama.es" ,ESP - M. Drama (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117240
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - M. Dreamworks (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117277
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-UJoX1V6P1ZY/XyNd5BLsQzI/AAAAAAAAAlQ/gHDOvidrDZ0k33B9C3hc05M3Yyj576uSgCLcBGAsYHQ/w200-h200/55%2Bmestrenos.png" tvg-id="MovistarEstrenos.es" ,ESP - M. Estrenos (R)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117241
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-UJoX1V6P1ZY/XyNd5BLsQzI/AAAAAAAAAlQ/gHDOvidrDZ0k33B9C3hc05M3Yyj576uSgCLcBGAsYHQ/w200-h200/55%2Bmestrenos.png" tvg-id="MovistarEstrenos.es" ,ESP - M. Estrenos (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117242
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-eJJOuHbWAhE/XyNd1dsl3QI/AAAAAAAAAkw/00ucgwum0AAUxa7mRuGLWhm-XlvD588fwCLcBGAsYHQ/w200-h200/47%2Bm%2Bseries.png" tvg-id="MovistarSeries.es" ,ESP - M. Series (R)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117243
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-eJJOuHbWAhE/XyNd1dsl3QI/AAAAAAAAAkw/00ucgwum0AAUxa7mRuGLWhm-XlvD588fwCLcBGAsYHQ/w200-h200/47%2Bm%2Bseries.png" tvg-id="MovistarSeries.es" ,ESP - M. Series (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117244
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-cILFZFxgiQk/XyNd4PbXW4I/AAAAAAAAAlI/OVZyP299MUoBqkqX2iISgoTcH3cs2SVxACLcBGAsYHQ/w200-h200/53%2Bmseriesmania.png" tvg-id="CcanalPlusSeriesmania.es" ,ESP - M. Seriesmania (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117245
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-cILFZFxgiQk/XyNd4PbXW4I/AAAAAAAAAlI/OVZyP299MUoBqkqX2iISgoTcH3cs2SVxACLcBGAsYHQ/w200-h200/53%2Bmseriesmania.png" tvg-id="CcanalPlusSeriesmania.es" ,ESP - M. Seriesmania (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117246
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-id="SyFy.es" ,ESP - SyFy (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117248
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-P4r9dBof998/XztH5TZ43TI/AAAAAAAABF8/U6Y7ukK96sIXqql25xY7GUEVJqe9O1qCQCLcBGAsYHQ/w200-h200/90%2BPARAMOUNT.png" tvg-id="ParamountChannel.es" ,ESP - Paramount Channel (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117259
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-qlmTRuhKSko/XyNd9lLLmgI/AAAAAAAAAl0/CbDW51ZO3-k5Eo0gJiipQM-C1-XDc4D7wCLcBGAsYHQ/w200-h200/64%2Bsomos.png" tvg-id="Somos.es" ,ESP - SOMOS (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117228
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-8rgq4MBm_HM/XyNd3UKB6II/AAAAAAAAAlE/0xXVPAKDLMU7Ss6o3MJ_XpUpU4oPp8MzwCLcBGAsYHQ/w200-h200/52%2Btcm.png" tvg-id="TCM.es" ,ESP - TCM (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117250
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-8rgq4MBm_HM/XyNd3UKB6II/AAAAAAAAAlE/0xXVPAKDLMU7Ss6o3MJ_XpUpU4oPp8MzwCLcBGAsYHQ/w200-h200/52%2Btcm.png" tvg-id="TCM.es" ,ESP - TCM (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117249
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-F7J6ERzq0lQ/XyNd22mUdEI/AAAAAAAAAlA/owF3_cSNt2062nca7S9IEzM5wBM5W0mEwCLcBGAsYHQ/w200-h200/51%2Btnt.png" tvg-id="TNT.es" ,ESP - TNT (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117252
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-F7J6ERzq0lQ/XyNd22mUdEI/AAAAAAAAAlA/owF3_cSNt2062nca7S9IEzM5wBM5W0mEwCLcBGAsYHQ/w200-h200/51%2Btnt.png" tvg-id="TNT.es" ,ESP - TNT (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117251
+#EXTINF:-1 group-title="EU-ESPAÑA" ,•●★-- Infantil --★●
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117263
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-RqFxhfTv8bQ/XxZrm1v9DoI/AAAAAAAAAgw/GGN74RCmf14EAPhFlzygmIzM6J7mD9mZACLcBGAsYHQ/w200-h200/26%2BBaby%2BTV.png" tvg-id="BabyTV.es" ,ESP - Baby TV (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117274
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-5VrlDahw3Lo/XxZrqTRI3PI/AAAAAAAAAhM/uHQwt1eoF0cRhMLfbecA8DTgUla_pjXCgCLcBGAsYHQ/w200-h200/33%2BCanal%2BCocina.png" tvg-id="CanalCocina.es" ,ESP - Canal Cocina (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117200
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-ysbVeW4x-hc/XyNd1wsNe0I/AAAAAAAAAk4/H2mXj3f89foyE8SklzFyGDP_ivUqn3f6ACLcBGAsYHQ/w200-h200/49%2Bdisney.png" tvg-id="DisneyChannel.es" ,ESP - Disney Channel (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117267
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-ysbVeW4x-hc/XyNd1wsNe0I/AAAAAAAAAk4/H2mXj3f89foyE8SklzFyGDP_ivUqn3f6ACLcBGAsYHQ/w200-h200/49%2Bdisney.png" tvg-id="DisneyChannel.es" ,ESP - Disney Channel (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117268
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-zbyAXhT8UAw/XyNd7jU9NvI/AAAAAAAAAlk/bpYpGFOzfDsqotNwoDq_kUxi9VYoYda6ACLcBGAsYHQ/w200-h200/60%2Bdisneyjr.png" tvg-id="DisneyJunior.es" ,ESP - Disney Junior (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117269
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-F5p1A-N_ymc/XyNd7Di7gpI/AAAAAAAAAlg/Mffhy4HSyMAOiZDsBy8sHPtU9qg1b27qQCLcBGAsYHQ/w200-h200/59%2Bnickjr.png" tvg-id="NickJr.es" ,ESP - Nick Jr (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117270
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-qLfd8hEiquI/XxPVmZ8WWII/AAAAAAAAAfI/czIAzyI7mHwn9IU3GRdU8jWYoTucgttAQCLcBGAsYHQ/w200-h200/Nickelodeon%2BEspa%25C3%25B1a.png" tvg-id="Nickelodeon.es" ,ESP - Nickelodeon (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117272
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-qLfd8hEiquI/XxPVmZ8WWII/AAAAAAAAAfI/czIAzyI7mHwn9IU3GRdU8jWYoTucgttAQCLcBGAsYHQ/w200-h200/Nickelodeon%2BEspa%25C3%25B1a.png" tvg-id="Nickelodeon.es" ,ESP - Nickelodeon (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117271
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-7kYnhp4tKus/XxZrojifdxI/AAAAAAAAAhA/PpluVO-fb1Mpz_zlWcVx4G5xaLvNEC-0wCLcBGAsYHQ/w200-h200/30%2BBoing.png" tvg-id="Boing.es" ,ESP - Boing (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117264
+#EXTINF:-1 group-title="EU-ESPAÑA" ,•●★-- Documentales--★●
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117284
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-5VrlDahw3Lo/XxZrqTRI3PI/AAAAAAAAAhM/uHQwt1eoF0cRhMLfbecA8DTgUla_pjXCgCLcBGAsYHQ/w200-h200/33%2BCanal%2BCocina.png" tvg-id="CanalCocina.es" ,ESP - Canal Cocina (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117201
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-7YbZTwYYZQI/XxZrra7TtzI/AAAAAAAAAhU/wyvLdLYk2NwnP5k33Nfo-O_l3hd5maJWgCLcBGAsYHQ/w200-h200/35%2BCanal%2BPanda.png" tvg-id="CanalPanda.es" ,ESP - Canal Panda (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117273
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-ku53-GBV8vs/XxZrsTyjl8I/AAAAAAAAAhc/PR9nixIl1xMZZb7j8jsytd7PTEVUe0TNQCLcBGAsYHQ/w200-h200/37%2BCaza%2BY%2BPezca.png" tvg-id="CazaPesca.es" ,ESP - Caza y Pesca (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117226
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-ku53-GBV8vs/XxZrsTyjl8I/AAAAAAAAAhc/PR9nixIl1xMZZb7j8jsytd7PTEVUe0TNQCLcBGAsYHQ/w200-h200/37%2BCaza%2BY%2BPezca.png" tvg-id="CazaPesca.es" ,ESP - Caza y Pesca (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117227
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-IzHQ8ypK76g/XyNeEPO_oMI/AAAAAAAAAmo/7qvAfjTXodcLaoEf4BtqrA2BodCGUcCAgCLcBGAsYHQ/w200-h200/77%2BCrimenInvetigac.png" tvg-id="CrimenInvestigacion.es" ,ESP - Crimen Investigacion
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117185
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-gNru16SK8CU/XyNeBEuaPoI/AAAAAAAAAmQ/8l6wFqvOMDQakrAbAHKcXO0t3JvPFXDSwCLcBGAsYHQ/w200-h200/71%2Bdecasa.png" tvg-id="CanalDecasa.es" ,ESP - Decasa (O)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117198
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-gNru16SK8CU/XyNeBEuaPoI/AAAAAAAAAmQ/8l6wFqvOMDQakrAbAHKcXO0t3JvPFXDSwCLcBGAsYHQ/w200-h200/71%2Bdecasa.png" tvg-id="CanalDecasa.es" ,ESP - Decasa (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117199
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-19FYQrLswqY/XyNeDs-4pII/AAAAAAAAAmk/ubcnngFHtzgLmeWyfokLONBm0S_lDqwqACLcBGAsYHQ/w200-h200/76%2BDiscovery.png" tvg-id="DiscoveryChannel.es" ,ESP - Discovery Channel (O)(SD)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117188
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-19FYQrLswqY/XyNeDs-4pII/AAAAAAAAAmk/ubcnngFHtzgLmeWyfokLONBm0S_lDqwqACLcBGAsYHQ/w200-h200/76%2BDiscovery.png" tvg-id="DiscoveryChannel.es" ,ESP - Discovery Channel (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117189
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-KGgmQI5ecXE/XyNeCobepzI/AAAAAAAAAmc/xSeTxkjlrUQewpSfCjNJIWqykMimCpbowCLcBGAsYHQ/w200-h200/74%2BHistoria.png" tvg-id="Historia.es" ,ESP - Historia (O)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117190
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-KGgmQI5ecXE/XyNeCobepzI/AAAAAAAAAmc/xSeTxkjlrUQewpSfCjNJIWqykMimCpbowCLcBGAsYHQ/w200-h200/74%2BHistoria.png" tvg-id="Historia.es" ,ESP - Historia (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117191
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-3qy0mpdQPiw/XyNeBvWlJcI/AAAAAAAAAmU/mtpycXd2KEMZY0O4ZGdoKAvj-QwkbkIywCLcBGAsYHQ/w200-h200/72%2Bnationalch.png" tvg-id="NationalGeographic.es" ,ESP - National Geographic (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117195
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-3qy0mpdQPiw/XyNeBvWlJcI/AAAAAAAAAmU/mtpycXd2KEMZY0O4ZGdoKAvj-QwkbkIywCLcBGAsYHQ/w200-h200/72%2Bnationalch.png" tvg-id="NationalGeographic.es" ,ESP - National Geographic (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117194
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-iAoHtoG_ESQ/XyNeCE5MvJI/AAAAAAAAAmY/Bj1Qa1zryXwnRRhccaCbsT6LsIcZkLQFwCLcBGAsYHQ/w200-h200/73%2Bnatwild.png" tvg-id="NatGeoWild.es" ,ESP - Nat Geo Wild (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117193
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-iAoHtoG_ESQ/XyNeCE5MvJI/AAAAAAAAAmY/Bj1Qa1zryXwnRRhccaCbsT6LsIcZkLQFwCLcBGAsYHQ/w200-h200/73%2Bnatwild.png" tvg-id="NatGeoWild.es" ,ESP - Nat Geo Wild (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117192
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - Sundance TV (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117262
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-tekHxU4E9g4/XyNeAsanY8I/AAAAAAAAAmM/9wnmGrsza7ozcAu7QeJw7jc3LFQN0_c-gCLcBGAsYHQ/w200-h200/70%2Bviajar.png" tvg-id="Viajar.es" ,ESP - Viajar (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117205
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-tekHxU4E9g4/XyNeAsanY8I/AAAAAAAAAmM/9wnmGrsza7ozcAu7QeJw7jc3LFQN0_c-gCLcBGAsYHQ/w200-h200/70%2Bviajar.png" tvg-id="Viajar.es" ,ESP - Viajar (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117204
+#EXTINF:-1 group-title="EU-ESPAÑA" ,•●★-- Musicales --★●
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117278
+#EXTINF:-1 group-title="EU-ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/7dff1d0cc8d6860736984de360d87472.png" ,ESP - MTV España (TV)(720)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117279
+#EXTINF:-1 group-title="EU-ESPAÑA" ,ESP - XTRM (TV)(1080)
+http://tv.masterplaytv.club:25461/usuariocanales75/LywwzxmBfh/117253
