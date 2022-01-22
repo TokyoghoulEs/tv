@@ -1,0 +1,499 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Canada/tln_ca.png" tvg-id="TLN.ca" ,LA: TLN CANADA ES
+http://qqtv.nl:8080/norma/12345/397114
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Canada/tln_ca.png" tvg-id="01TV.fr" ,LA: TLN TLNOVELAS ES
+http://qqtv.nl:8080/norma/12345/397113
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvgusIxB0A-bHVFTOiA1EOF9HermIBNj-GX-0cHqDhG0ulblVY" tvg-id="USANetwork.us" ,----------USA LA----------
+http://qqtv.nl:8080/norma/12345/54825
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Canada/tv-5-quebec-canada-fr-ca.png" tvg-id="TV5MondeAsie.in" ,LA: TV5 MONDE LATINO
+http://qqtv.nl:8080/norma/12345/20089
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="TelemundoWKAQ.us" ,LA: TELEMUNDO EAST
+http://qqtv.nl:8080/norma/12345/20427
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="Teledeporte.es" ,LA: TELEMUNDO WEST HD
+http://qqtv.nl:8080/norma/12345/52876
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_africa.png" tvg-id="WORO.us" ,LA: TELEMUNDO PUERTO RICO
+http://qqtv.nl:8080/norma/12345/52986
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="Telemundo.mx" ,LA: TELEMUNDO MIAMI HD
+http://qqtv.nl:8080/norma/12345/385649
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="Telemundo.mx" ,LA: TELEMUNDO LAS VEGAS
+http://qqtv.nl:8080/norma/12345/20254
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="Telemundo.mx" ,LA: TELEMUNDO PHOENIX HD
+http://qqtv.nl:8080/norma/12345/20305
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="Telemundo.mx" ,LA: TELEMUNDO NEW YORK HD
+http://qqtv.nl:8080/norma/12345/51867
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_internacional.png" tvg-id="Telemundo.mx" ,LA: TELEMUNDO INTERNATIONAL HD
+http://qqtv.nl:8080/norma/12345/52225
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_us.png" tvg-id="TDN.mx" ,LA: UNIVISION TUDN HD
+http://qqtv.nl:8080/norma/12345/20115
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_us.png" tvg-id="UnivisionWLII.us" ,LA: UNIVISION PUERTO RICO
+http://qqtv.nl:8080/norma/12345/20166
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_us.png" tvg-id="Univision.us" ,LA: UNIVISION WEST HD
+http://qqtv.nl:8080/norma/12345/51869
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_us.png" tvg-id="UnivisionTelenovelas.us" ,LA: UNIVISION EAST HD
+http://qqtv.nl:8080/norma/12345/51870
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_us.png" tvg-id="UnivisionTelenovelas.us" ,LA: UNIVISION TELENOVELAS
+http://qqtv.nl:8080/norma/12345/52224
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_ca.png" tvg-id="UnivisionCanada.ca" ,LA: UNIVISION CANADA
+http://qqtv.nl:8080/norma/12345/21026
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/mega_cosmos_us.png" tvg-id="OmegaTV.cy" ,LA: MEGA TV Miami 
+http://qqtv.nl:8080/norma/12345/384877
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/universal_channel_global.png" tvg-id="NBCUniverso.us" ,LA: NBC UNIVERSO HD
+http://qqtv.nl:8080/norma/12345/384878
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/unimas_este.png" tvg-id="01TV.fr" ,LA: UNIMAS NEW YORK HD
+http://qqtv.nl:8080/norma/12345/51873
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/galavision_east.png" tvg-id="Mega.cl" ,LA: GALAVISION
+http://qqtv.nl:8080/norma/12345/51872
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_latino_este.png" tvg-id="HBO.us" ,LA: HBO WEST HD
+http://qqtv.nl:8080/norma/12345/20351
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_signature_west.png" tvg-id="10TV.in" ,LA: HBO SIGNATURE HD
+http://qqtv.nl:8080/norma/12345/20352
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png" tvg-id="HBOPlus.mx" ,LA: HBO PLUS HD
+http://qqtv.nl:8080/norma/12345/20354
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_family_west.png" tvg-id="HBOFamily.us" ,LA: HBO FAMILY HD
+http://qqtv.nl:8080/norma/12345/20355
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_latino_este.png" tvg-id="HBO.mx" ,LA: HBO EAST HD
+http://qqtv.nl:8080/norma/12345/20356
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-chile-us-cl.png" tvg-id="10TV.in" ,LA: HBO CHILE
+http://qqtv.nl:8080/norma/12345/20083
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo2_lam.png" tvg-id="HBO2.mx" ,LA: HBO 2
+http://qqtv.nl:8080/norma/12345/20288
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/h2-latinoamerica-us.png" tvg-id="10TV.in" ,LA: H2
+http://qqtv.nl:8080/norma/12345/20258
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fx_us.png" tvg-id="FX.mx" ,LA: FX
+http://qqtv.nl:8080/norma/12345/20264
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_premium_series_us.png" tvg-id="FOX.uk" ,LA: FOX SERIES
+http://qqtv.nl:8080/norma/12345/20276
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_movies_action.png" tvg-id="FoxMovies.mx" ,LA: FOX MOVIES
+http://qqtv.nl:8080/norma/12345/20281
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox-life-us.png" tvg-id="FoxLife.es" ,LA: FOX LIFE ES
+http://qqtv.nl:8080/norma/12345/20270
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_premium_family_este_us.png" tvg-id="FoxFamily.mx" ,LA: FOX FAMILY
+http://qqtv.nl:8080/norma/12345/20259
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_comedy_pt.png" tvg-id="FoxComedy.mx" ,LA: FOX COMEDY
+http://qqtv.nl:8080/norma/12345/20230
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_premium_classics_us.png" tvg-id="10TV.in" ,LA: FOX CLASSIC
+http://qqtv.nl:8080/norma/12345/20271
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i.pinimg.com/originals/f9/55/da/f955da50f5e90461617bc7b79ae39592.png" tvg-id="FoxCinema.mx" ,LA: FOX CINEMA
+http://qqtv.nl:8080/norma/12345/20277
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_movies_action_plus1.png" tvg-id="FoxAction.mx" ,LA: FOX ACTION
+http://qqtv.nl:8080/norma/12345/20282
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_global.png" tvg-id="Fox.mx" ,LA: FOX
+http://qqtv.nl:8080/norma/12345/20266
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/150px-2016_Discovery_Kids_logo.svg.png" tvg-id="DiscoveryKids.co" ,LA: DISCOVERY KIDS
+http://qqtv.nl:8080/norma/12345/20149
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/175px-Discovery_Turbo.png" tvg-id="DiscoveryTurbo.uk" ,LA: DISCOVERY TURBO
+http://qqtv.nl:8080/norma/12345/20275
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i.imgur.com/VZH1x36.png" tvg-id="DiscoveryTheater.mx" ,LA: DISCOVERY THEATER
+http://qqtv.nl:8080/norma/12345/20104
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-science-france-us-fr.png" tvg-id="DiscoveryScience.uk" ,LA: DISCOVERY SCIENCE
+http://qqtv.nl:8080/norma/12345/20078
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-history-plus1-us-uk.png" tvg-id="DiscoveryHomeHealth.mx" ,LA: DISCOVERY H&H
+http://qqtv.nl:8080/norma/12345/20280
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" tvg-id="DiscoveryCivilization.br" ,LA: DISCOVERY CIVILIZATION
+http://qqtv.nl:8080/norma/12345/20278
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" tvg-id="DiscoveryChannel.mx" ,LA: DISCOVERY CHANNEL
+http://qqtv.nl:8080/norma/12345/20226
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/warner_channel_in.png" tvg-id="Warner.th" ,LA: WARNER
+http://qqtv.nl:8080/norma/12345/20232
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/vh1_classic_europe.png" tvg-id="VH1Classic.za" ,LA: VH1 CLASSICS
+http://qqtv.nl:8080/norma/12345/20155
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/vh1.png" tvg-id="VH1.mx" ,LA: VH1 HD
+http://qqtv.nl:8080/norma/12345/20424
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cine_latino_estados_unidos.png" tvg-id="TelecineAction.br" ,LA: CINE LATINO
+http://qqtv.nl:8080/norma/12345/20156
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/universal_channel_global.png" tvg-id="Soundtrackchannel.hu" ,LA: UNIVERSAL CHANNEL
+http://qqtv.nl:8080/norma/12345/20242
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/tru_tv_lam.png" tvg-id="truTV.mx" ,LA: TRU TV MX
+http://qqtv.nl:8080/norma/12345/20239
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/tbs_east.png" tvg-id="10TV.in" ,LA: TBS HD
+http://qqtv.nl:8080/norma/12345/20001
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" tvg-id="TNTSeries.mx" ,LA: TNT SERIES
+http://qqtv.nl:8080/norma/12345/20245
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/tnt_us.png" tvg-id="TNT.mx" ,LA: TNT HD
+http://qqtv.nl:8080/norma/12345/20237
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/tlc_br.png" tvg-id="Atlas.me" ,LA: TLC MEX
+http://qqtv.nl:8080/norma/12345/20244
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/tcm_global.png" tvg-id="TCM.mx" ,LA: TCM
+http://qqtv.nl:8080/norma/12345/20252
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TBS.png" tvg-id="TBS.mx" ,LA: TBS VERY FUNNY
+http://qqtv.nl:8080/norma/12345/20251
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/syfy_us_global.png" tvg-id="Syfy.mx" ,LA: SYFY
+http://qqtv.nl:8080/norma/12345/20250
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Canada/space.png" tvg-id="Space.mx" ,LA: SPACE
+http://qqtv.nl:8080/norma/12345/20240
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sony_channel_in.png" tvg-id="SonyEntertainmentTV.mx" ,LA: SONY
+http://qqtv.nl:8080/norma/12345/20248
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/RCN_la.png" tvg-id="RCNNovelas.co" ,LA: RCN NOVELAS US
+http://qqtv.nl:8080/norma/12345/20301
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/paramount-network-us.png" tvg-id="ParamountChannel.mx" ,LA: PARAMOUNT CHANNEL HD
+http://qqtv.nl:8080/norma/12345/20238
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cnn_espanol.png" tvg-id="CNNIntl.in" ,LA: CNN INT
+http://qqtv.nl:8080/norma/12345/20256
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cnn_espanol.png" tvg-id="CNNEspanol.us" ,LA: CNN ESPANOL
+http://qqtv.nl:8080/norma/12345/20294
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nat_geo_wild_lam_hd.png" tvg-id="10TV.in" ,LA: NAT GEO WILD
+http://qqtv.nl:8080/norma/12345/20246
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/92px-Natgeo_Kids_logo.svg.png" tvg-id="NatGeoKids.mx" ,LA: NAT GEO KIDS
+http://qqtv.nl:8080/norma/12345/20152
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nat_geo_mundo_us.png" tvg-id="NatGeo.mx" ,LA: NAT GEO
+http://qqtv.nl:8080/norma/12345/20247
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nat_geo_us_kids.png" tvg-id="NatGeoKids.mx" ,LA: NAT GEO KIDS HD
+http://qqtv.nl:8080/norma/12345/20431
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/max_mx.png" tvg-id="maxUP.br" ,LA: MAX PRIME HD
+http://qqtv.nl:8080/norma/12345/20283
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/max_mx.png" tvg-id="maxUP.br" ,LA: MAX UP HD
+http://qqtv.nl:8080/norma/12345/20216
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/investigation_discovery_xtra.png" tvg-id="InvestigationDiscovery.mx" ,LA: ID
+http://qqtv.nl:8080/norma/12345/20243
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/spiritual-anointing.png" ,LA: INTI  HD CLCL 
+http://qqtv.nl:8080/norma/12345/20217
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1016px-Deutsche_Welle_symbol_2012.svg.png" ,LA: DW1
+http://qqtv.nl:8080/norma/12345/20316
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/history_en_espanol_us.png" tvg-id="HistoryChannel.ro" ,LA: HISTORY CH
+http://qqtv.nl:8080/norma/12345/20236
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://images.mi.tv/channels/mx_film-arts_m.png" tvg-id="FilmAndArts.mx" ,LA: FILM & ARTS
+http://qqtv.nl:8080/norma/12345/20098
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i.pinimg.com/originals/c2/02/be/c202befc07ebbb772d20fba501c2f9ca.png" tvg-id="UltraFilm.us" ,LA: CINE MARVEL HD
+http://qqtv.nl:8080/norma/12345/20308
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/espn_us_plus.png" tvg-id="ESPNDeportes.us" ,LA: ESPN PLUS
+http://qqtv.nl:8080/norma/12345/20062
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" tvg-id="ESPN3.mx" ,LA: ESPN 3
+http://qqtv.nl:8080/norma/12345/20267
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/espn_deportes.png" tvg-id="Espn2.mx" ,LA: ESPN 2
+http://qqtv.nl:8080/norma/12345/20268
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/espn_deportes.png" tvg-id="ESPNLatin.mx" ,LA: ESPN
+http://qqtv.nl:8080/norma/12345/20269
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" tvg-id="EEntertainment.mx" ,LA: E! ENTERTAIMENTS
+http://qqtv.nl:8080/norma/12345/20272
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/nick_toons_us.png" tvg-id="NickToons.mx" ,LA: NICKTOONS - MEX
+http://qqtv.nl:8080/norma/12345/20025
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nick_jr_us.png" tvg-id="NickJr.mx" ,LA: NICK JR
+http://qqtv.nl:8080/norma/12345/20307
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nickelodeon-uk-plus1-us-uk.png" tvg-id="SonicNickelodeon.in" ,LA: NICKELODEON
+http://qqtv.nl:8080/norma/12345/20306
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/nicktoons-clivebesle.png" tvg-id="nickMTV.de" ,LA: NICK 2 HD MX
+http://qqtv.nl:8080/norma/12345/20416
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/Canada/disney_xd_us.png" tvg-id="DisneyXD.mx" ,LA: DISNEY XD
+http://qqtv.nl:8080/norma/12345/20233
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/Canada/disney_junior_us.png" tvg-id="DisneyJunior.se" ,LA: DISNEY JR SPAIN
+http://qqtv.nl:8080/norma/12345/20274
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://38.143.137.20/logo/prestige/Canada/disney_channel_global.png" tvg-id="DisneyChannel.mx" ,LA: DISNEY CHANNEL
+http://qqtv.nl:8080/norma/12345/20224
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" tvg-id="BabyTV.uk" ,LA: BABY TV
+http://qqtv.nl:8080/norma/12345/20110
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/comedy-central-deutschland-us-de.png" tvg-id="ComedyCentral.mx" ,LA: COMEDY CENTRAL
+http://qqtv.nl:8080/norma/12345/20167
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cinemax_br.png" tvg-id="Cinemax.mx" ,LA: CINE MAX
+http://qqtv.nl:8080/norma/12345/20293
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cinecanal-us.png" tvg-id="Cinecanal.mx" ,LA: CINE CANAL
+http://qqtv.nl:8080/norma/12345/20297
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/futv_la.png" tvg-id="4funTV.pl" ,LA: FUTV HD
+http://qqtv.nl:8080/norma/12345/20023
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cartoon-network-uk-plus1-us-uk.png" tvg-id="CartoonNetwork.mx" ,LA: CARTOON NETWORK
+http://qqtv.nl:8080/norma/12345/20292
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/box_nation_uk.png" tvg-id="BoxNation.uk" ,LA: BOX NATION
+http://qqtv.nl:8080/norma/12345/20028
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/boomerang_global.png" tvg-id="Boomerang.mx" ,LA: BOOMERANG
+http://qqtv.nl:8080/norma/12345/20299
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png" tvg-id="BBCWorld.ca" ,LA: BBC WORLD NEWS
+http://qqtv.nl:8080/norma/12345/20063
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/axn_global.png" tvg-id="Max.no" ,LA: AXN
+http://qqtv.nl:8080/norma/12345/20298
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/animal-planet-uk-plus1-us-uk.png" tvg-id="AnimalPlanet.mx" ,LA: ANIMAL PLANET
+http://qqtv.nl:8080/norma/12345/20296
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/amc-us.png" tvg-id="GamePlus.ca" ,LA: AMC
+http://qqtv.nl:8080/norma/12345/20303
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/ae_us.png" tvg-id="AlAan.ae" ,LA: A&E
+http://qqtv.nl:8080/norma/12345/20302
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/trutv.png" tvg-id="truTV.mx" ,LA: TRU TV COL
+http://qqtv.nl:8080/norma/12345/20425
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/tlc.png" tvg-id="TLC.mx" ,LA: TLC
+http://qqtv.nl:8080/norma/12345/20426
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/studiouniversal.png" tvg-id="StudioUniversal.ar" ,LA: STUDIO UNIVERSAL.
+http://qqtv.nl:8080/norma/12345/20429
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://media.glassdoor.com/sqll/7229/rcn-squarelogo.png" tvg-id="RcnNuestra.co" ,LA: RCN NUESTRATELE
+http://qqtv.nl:8080/norma/12345/20430
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/mtv.png" tvg-id="Cmtv.pt" ,LA: MTV HD
+http://qqtv.nl:8080/norma/12345/20417
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/lifetime.png" tvg-id="Lifetime.mx" ,LA: LIFETIME HD
+http://qqtv.nl:8080/norma/12345/20403
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/htv_la.png" ,LA: HTV
+http://qqtv.nl:8080/norma/12345/20435
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://epg4you.com/logos/bloomberg.png" tvg-id="BloombergTV.mx" ,LA: BLOOMBERG HD
+http://qqtv.nl:8080/norma/12345/20421
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_indieplex.png" tvg-id="Miniplex.in" ,LA: INDIEPLEX HD
+http://qqtv.nl:8080/norma/12345/20350
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="Telemundo.mx" ,LA: TELEMUNDO - ARG
+http://qqtv.nl:8080/norma/12345/31936
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" ,LA: EUROPA CHANNEL
+http://qqtv.nl:8080/norma/12345/20075
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/antena3.png" tvg-id="Antena3.es" ,LA: ANTENA 3
+http://qqtv.nl:8080/norma/12345/20047
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/el_sembrador_la.png" tvg-id="Telesistema.do" ,LA: EL SEMBRADOR
+http://qqtv.nl:8080/norma/12345/19998
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/ultra_familia_us.png" tvg-id="TelecineAction.br" ,LA: CINE ACCION HD
+http://qqtv.nl:8080/norma/12345/20077
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Uruguay/teledoce-uy.png" tvg-id="AntenneCentre.be" ,LA: TELECENTRO
+http://qqtv.nl:8080/norma/12345/20061
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Argentina/music_top_ar.png" tvg-id="MasChic.co" ,LA: MASCHIC HD
+http://qqtv.nl:8080/norma/12345/20434
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vector.me/files/images/7/6/768779/canal_4.png" tvg-id="Unicanal.py" ,LA: CANAL 4 HD
+http://qqtv.nl:8080/norma/12345/20414
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/cinemax_west.png" tvg-id="TelecineAction.br" ,LA: CINE MAX ACTION HD
+http://qqtv.nl:8080/norma/12345/20359
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/more_max_west.png" tvg-id="MoreMax.us" ,LA: MOREMAX HD
+http://qqtv.nl:8080/norma/12345/20349
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/movie_max_us.png" tvg-id="MovieMax.us" ,LA: FX MOVIES HD
+http://qqtv.nl:8080/norma/12345/20348
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_movieplex.png" tvg-id="MOVIEplex.us" ,LA: MOVIEPLEX HD
+http://qqtv.nl:8080/norma/12345/20347
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/outer_max_us.png" tvg-id="OuterMax.us" ,LA: OUTERMAX HD
+http://qqtv.nl:8080/norma/12345/20346
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_east.png" tvg-id="ShowtimeWomen.us" ,LA: SHOWTIME BEYOND HD
+http://qqtv.nl:8080/norma/12345/20344
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_east.png" tvg-id="Showtime.us" ,LA: SHOWTIME EAST HD
+http://qqtv.nl:8080/norma/12345/20343
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_east.png" tvg-id="Showtime.us" ,LA: SHOWTIME HD
+http://qqtv.nl:8080/norma/12345/20342
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/showtime_east.png" tvg-id="Showtime.us" ,LA: SHOWTIME WEST HD
+http://qqtv.nl:8080/norma/12345/20340
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzInBlack.us" ,LA: STARZ BLACK HD
+http://qqtv.nl:8080/norma/12345/20339
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzCinema.us" ,LA: STARZ CINEMA HD
+http://qqtv.nl:8080/norma/12345/20338
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="MovistarComedia.es" ,LA: STARZ COMEDY HD
+http://qqtv.nl:8080/norma/12345/20337
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzWest.us" ,LA: STARZ EAST HD
+http://qqtv.nl:8080/norma/12345/20335
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzWest.us" ,LA: STARZ EDGE HD
+http://qqtv.nl:8080/norma/12345/20334
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzEncoreWesterns.us" ,LA: STARZ ENCORE ACTION
+http://qqtv.nl:8080/norma/12345/20333
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzEncoreBlack.us" ,LA: STARZ ENCORE BLACK HD
+http://qqtv.nl:8080/norma/12345/20332
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzEncoreWesterns.us" ,LA: STARZ ENCORE CLASSIC HD
+http://qqtv.nl:8080/norma/12345/20331
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="AstroArena.my" ,LA: STARZ ENCORE FAMILY HD
+http://qqtv.nl:8080/norma/12345/20330
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzEncoreWesterns.us" ,LA: STARZ ENCORE HD
+http://qqtv.nl:8080/norma/12345/20329
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzEncoreWesterns.us" ,LA: STARZ ENCORE SUSPENSE HD
+http://qqtv.nl:8080/norma/12345/20327
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzEncoreWesterns.us" ,LA: STARZ ENCORE WESTERN HD
+http://qqtv.nl:8080/norma/12345/20326
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="AstroArena.my" ,LA: STARZ FAMILY HD
+http://qqtv.nl:8080/norma/12345/20325
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzWest.us" ,LA: STARZ HD
+http://qqtv.nl:8080/norma/12345/20324
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzKidsFamily.us" ,LA: STARZ KIDS & FAMILY HD
+http://qqtv.nl:8080/norma/12345/20323
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/STARZ.png" tvg-id="StarzWest.us" ,LA: STARZ WEST HD
+http://qqtv.nl:8080/norma/12345/20322
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hAZUVSvd4DS9QtIeqibOjd591CrjHU6_NuQLYBG4pXX9HE5M" ,------Mexico------
+http://qqtv.nl:8080/norma/12345/54824
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://qqtv.nl:8123/html/channel-logo/TvMas.jpg" ,MEX: TelefÃ³rmula
+http://qqtv.nl:8080/norma/12345/20313
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HqK_2Vt8DqCry6yfXwXzTe8Q29gJHXCVBjenf6ROgOiSs6y1" ,MEX: TELEHIT PLUS
+http://qqtv.nl:8080/norma/12345/20090
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3GYCb_yxzTgIgkPdZ2Em_ZENbFfkrzh1M3UA=s900-mo-c-c0xffffffff-rj-k-no" ,MEX: TV MAS VERACRUZ
+http://qqtv.nl:8080/norma/12345/20091
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://www.firstonetv.net/images/logos/mx/TVMAS.png" tvg-id="Mexicanal.us" ,MEX: CANAL ONCE
+http://qqtv.nl:8080/norma/12345/20054
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Telenovela_Channel_logo.jpg" tvg-id="TeleNovelas.mx" ,MEX: TELENOVELAS
+http://qqtv.nl:8080/norma/12345/20169
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TFMLA-logo.png" tvg-id="TeleFormula.mx" ,MEX: TELERITMO
+http://qqtv.nl:8080/norma/12345/20093
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/5c/Canal_5_Mexico_logo_2014.svg.png/revision/latest?cb=20141210063108&path-prefix=es" tvg-id="Mexicanal.us" ,MEX: CANAL 26 
+http://qqtv.nl:8080/norma/12345/20107
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/568.png" tvg-id="Mexicanal.us" ,MEX: CANAL 8
+http://qqtv.nl:8080/norma/12345/20108
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/52mx.jpg/revision/latest?cb=20161128033012" ,MEX: AYM Sport
+http://qqtv.nl:8080/norma/12345/20113
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Antiguo_logo_de_Canal_Once_%28ONCE_TV_MEXICO%29.png" tvg-id="VMeTelevision.us" ,MEX: TELEVISA
+http://qqtv.nl:8080/norma/12345/20052
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://3.bp.blogspot.com/-_j7PsPxibds/WhTlcVgu7nI/AAAAAAAABjs/nyE0ERH2ApoFHf9pgI71oP1W52vw7vaYwCLcBGAs/s320/1509998145e298d3ef137a433162b5300d52582c12.jpg" ,MEX: AZTECA MUNDO
+http://qqtv.nl:8080/norma/12345/19999
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://www.tequilaplus.com/assets/images/logos/aztecaplus_1.png" tvg-id="Azteca.us" ,MEX: AXN
+http://qqtv.nl:8080/norma/12345/20111
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" tvg-id="WorldofBusinessIdeas.mx" ,MEX: WOBI HD
+http://qqtv.nl:8080/norma/12345/20428
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://www.p1jetcross.com/uploads/images/large/z-Jetcross22716Sponsor1.gif" ,MEX: GARAGE TV
+http://qqtv.nl:8080/norma/12345/20183
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIHvvTF_JyRTDgRk9VvzrbkK9d2eXwzXD1L7992Kv7V34cJLA" ,MEX: HOLA TV
+http://qqtv.nl:8080/norma/12345/20071
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i.vimeocdn.com/portrait/6265170_300x300" tvg-id="WorldofBusinessIdeas.mx" ,MEX: ADN40 HD
+http://qqtv.nl:8080/norma/12345/20196
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD_old/VARIEDADES/209%20-%20azcorazon.png" tvg-id="AzCorazon.mx" ,MEX: AZTECA CORAZON
+http://qqtv.nl:8080/norma/12345/20049
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358595/medium/100/1473533372a735701586a612a03d0325f0a116f965.jpg" tvg-id="AztecaCinema.mx" ,MEX: AZTECA CINEMA
+http://qqtv.nl:8080/norma/12345/20026
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_Azteca_7.png/210px-Logo_Azteca_7.png" tvg-id="Azteca7.mx" ,MEX: AZTECA 7
+http://qqtv.nl:8080/norma/12345/20168
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3QB9MomXycsETmPc8qGq-Mdl8o0Znj9ag_squC5NhFR9ihrt" tvg-id="LasEstrellas.mx" ,MEX: LAS ESTRELLAS
+http://qqtv.nl:8080/norma/12345/20295
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Las_Estrellas_logo_%282016%29.png/200px-Las_Estrellas_logo_%282016%29.png" tvg-id="Mexicanal.us" ,MEX: CANAL JUDICIAL
+http://qqtv.nl:8080/norma/12345/20413
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-id="13thStreet.de" ,MEX: CANAL DE LAS ESTRELLAS
+http://qqtv.nl:8080/norma/12345/20291
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Cinema_golden_choice.png/revision/latest?cb=20120104013116" tvg-id="13thStreet.de" ,MEX: GOLDEN
+http://qqtv.nl:8080/norma/12345/20290
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" tvg-id="GoldenEdge.mx" ,MEX: GOLDEN EDGE
+http://qqtv.nl:8080/norma/12345/20165
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Multimedios_Televisi%C3%B3n_2015.png/revision/latest?cb=20150818212223" tvg-id="Multimedios.mx" ,MEX: MULTIMEDIOS
+http://qqtv.nl:8080/norma/12345/20432
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://2.bp.blogspot.com/-69wNBnKbq8w/T5SgDLXp7dI/AAAAAAAAAEc/6QtETdJhF8I/s1600/milenio_tv.png%20width=" tvg-id="13thStreet.de" ,MEX: MEXIQUICE
+http://qqtv.nl:8080/norma/12345/20397
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_of_Tokyo_Metro_Ginza_Line.svg/200px-Logo_of_Tokyo_Metro_Ginza_Line.svg.png" tvg-id="GoldenPremier.mx" ,MEX: GOLF CH
+http://qqtv.nl:8080/norma/12345/20419
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VOD5T1FxBoP4m6NuC687B16d1gpVuADYIlvBlw4mKCAe4f-0" tvg-id="13thStreet.de" ,MEX: GOLDEN PLUS
+http://qqtv.nl:8080/norma/12345/20420
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" tvg-id="13thStreet.de" ,MEX: FILM & ART
+http://qqtv.nl:8080/norma/12345/20399
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPpveBSVH_JS6MQD0_dl5AMyeAidh-2YMjrEKsqYgHF7ZaSQY" tvg-id="AztecaCinema.mx" ,MEX: AZTECA CLICK
+http://qqtv.nl:8080/norma/12345/20404
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://trademarks.justia.com/media/image.php?serial=85957958" ,MEX: AZTECA 7 HD OPC 1
+http://qqtv.nl:8080/norma/12345/20164
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i.pinimg.com/originals/9c/c0/f3/9cc0f3f687771342776dd5ccea0939b3.jpg" tvg-id="Mexicanal.us" ,MEX: UNICABLE
+http://qqtv.nl:8080/norma/12345/20088
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/314px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" tvg-id="MasChicTV.mx" ,MEX: MAS CHIC
+http://qqtv.nl:8080/norma/12345/20048
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://qqtv.nl:8123/html/channel-logo/azteca13.png" tvg-id="Azteca13.mx" ,MEX: AZTECA UNO
+http://qqtv.nl:8080/norma/12345/20255
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" tvg-id="UltraTainment.us" ,MEX: AZTECA 1 HD OPC 2
+http://qqtv.nl:8080/norma/12345/20163
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" tvg-id="DistritoComedia.mx" ,MEX: DISTRITO COMEDIA
+http://qqtv.nl:8080/norma/12345/19997
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OSJNrdhEjBiDN4m1fwnK7a3QTJEg0X9tpUrOEzAlfkHStj9C" tvg-id="DePelicula.mx" ,MEX: DE PELICULA PLUS HD
+http://qqtv.nl:8080/norma/12345/20273
+#EXTINF:-1 group-title="SPANISH" ,MEX: DE PELICULA HD
+http://qqtv.nl:8080/norma/12345/431434
+#EXTINF:-1 group-title="SPANISH" ,MEX: DE PELICULA CLASICO HD
+http://qqtv.nl:8080/norma/12345/431433
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/378800000298345148/6c7fe65a19efe1443fc1f5718fc32070_400x400.jpeg" ,------Dominica Republic------
+http://qqtv.nl:8080/norma/12345/54826
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvhFLriCxsIc_QEC8xCKfFDxcbKXroFXlDD4oM6Nc0wwNsbJT" ,DOM: TELEVISON DOMINICANA
+http://qqtv.nl:8080/norma/12345/20114
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBpZ_PV8YEDIk0v0Wl_GZbTk3xEL0tURzOO-A=s48-mo-c-c0xffffffff-rj-k-no" ,DOM: TELESISTEMA 11
+http://qqtv.nl:8080/norma/12345/148546
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_CDN_Canal_37.png" ,DOM: CDN 37 RD
+http://qqtv.nl:8080/norma/12345/20051
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX7Od4o7u2KhgylOC-m6NkBLw7Mv7s70h_MXYnCY9tHNI3k9UR" tvg-id="CanalDelSol.do" ,DOM: CINEVISION DO
+http://qqtv.nl:8080/norma/12345/20182
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKYiyXu7aoQ9W1_vZnBAs_emTvrOmEIDuLWpnDamuNQxJsFAi" tvg-id="Digital15.do" ,DOM: DIGITAL 15
+http://qqtv.nl:8080/norma/12345/20007
+#EXTINF:-1 group-title="SPANISH" ,DOM: CDN2
+http://qqtv.nl:8080/norma/12345/20014
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://image.roku.com/developer_channels/prod/9983163eee55e5f4ae13e34438099bf45975fc1d54e822c8daaf281e1c0153c7.png" tvg-id="ColorVision.do" ,DOM: COLOR VISION 9
+http://qqtv.nl:8080/norma/12345/20013
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i.vimeocdn.com/portrait/25817385_300x300" ,DOM: TELE ANTILLAS
+http://qqtv.nl:8080/norma/12345/20012
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20160827154743" tvg-id="TeleAntillas.do" ,DOM: TELE ANTILLAS
+http://qqtv.nl:8080/norma/12345/20006
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PTuSNRAVTeu-FD9-fq3IwYAZPw2lp_jzo2z4E-vDX5-JcRbv2w" tvg-id="Telemicro.do" ,DOM: TELEMICRO CANAL 5
+http://qqtv.nl:8080/norma/12345/20005
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfHos13-H5_Ld5MwOv7k3VvxABlRi1NtIpZnsZFbO1th6s3PG" tvg-id="TeleCentro.do" ,DOM: TELECENTRO 13
+http://qqtv.nl:8080/norma/12345/20011
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://qqtv.nl:8123/html/channel-logo/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" tvg-id="Telesistema.do" ,DOM: TELESISTEMA
+http://qqtv.nl:8080/norma/12345/20010
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://3.bp.blogspot.com/-Ept3AXhJR24/WJOlbHNmnJI/AAAAAAAADGY/zXDoxATwqOI99Kg4hueC3pfd9G_Cl4WegCLcB/s1600/Tele%2Bunion%2Bcanal%2B16.jpg" tvg-id="Teleunion.do" ,DOM: TELEUNION
+http://qqtv.nl:8080/norma/12345/20009
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/universal_channel_global.png" tvg-id="TeleUniverso.do" ,DOM: TELEUNIVERSO 29
+http://qqtv.nl:8080/norma/12345/20008
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://www.underconsideration.com/brandnew/archives/el_salvador_logo_new.png" ,----------EI Salvador----------
+http://qqtv.nl:8080/norma/12345/54840
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png?fit=500%2C300" ,EL SALVADOR: WOW TV
+http://qqtv.nl:8080/norma/12345/20170
+#EXTINF:-1 group-title="SPANISH" tvg-id="Canal2Nacional.sv" ,EL SALVADOR: CANAL 2 
+http://qqtv.nl:8080/norma/12345/148606
+#EXTINF:-1 group-title="SPANISH" tvg-id="Canal4Nacional.sv" ,EL SALVADOR: CANAL 4
+http://qqtv.nl:8080/norma/12345/148605
+#EXTINF:-1 group-title="SPANISH" tvg-id="Canal6Nacional.sv" ,EL SALVADOR: CANAL 6
+http://qqtv.nl:8080/norma/12345/148607
+#EXTINF:-1 group-title="SPANISH" tvg-id="Canal12.sv" ,EL SALVADOR: CANAL 12  
+http://qqtv.nl:8080/norma/12345/148608
+#EXTINF:-1 group-title="SPANISH" ,EL SALVADOR: TABER 17
+http://qqtv.nl:8080/norma/12345/148611
+#EXTINF:-1 group-title="SPANISH" tvg-id="Canal19.sv" ,EL SALVADOR: CANAL 19 
+http://qqtv.nl:8080/norma/12345/148609
+#EXTINF:-1 group-title="SPANISH" ,EL SALVADOR: TVES CANAL 10
+http://qqtv.nl:8080/norma/12345/397186
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/VTV.png" ,EL SALVADOR: VTV CANAL 35
+http://qqtv.nl:8080/norma/12345/20002
+#EXTINF:-1 group-title="SPANISH" ,EL SALVADOR: 6 EL SALVADOR
+http://qqtv.nl:8080/norma/12345/397185
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfgKLUFzaQfD5T5BOCHnZ6WJv6MRl34FU04JUHwTbn-ol1thtnw" tvg-id="Canal21.sv" ,EL SALVADOR: TELE EL SALVADOR HD
+http://qqtv.nl:8080/norma/12345/20004
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Chile/canal6_cl.png" ,EL SALVADOR: MEGAVISION Canal 19
+http://qqtv.nl:8080/norma/12345/20003
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/El-Salvador/canal21_megavision_sv.png" tvg-id="10TV.in" ,EL SALVADOR: MEGAVISION Canal 21
+http://qqtv.nl:8080/norma/12345/148610
+#EXTINF:-1 group-title="SPANISH" ,----------Puerto Rico----------
+http://qqtv.nl:8080/norma/12345/54839
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Puerto-Rico/wkaq_dt2_punto2_san_juan.png" tvg-id="WKAQPunto2.us" ,PUERTO RICO: PUNTO2 TV
+http://qqtv.nl:8080/norma/12345/154502
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Puerto-Rico/wapa_televicentro.png" tvg-id="WAPA2Deportes.us" ,PUERTO RICO: WAPA
+http://qqtv.nl:8080/norma/12345/154505
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Paraguay/movistar-plus-pe.png" tvg-id="MovistarPlus.pe" ,PERU: MOVISTAR PLUS
+http://qqtv.nl:8080/norma/12345/20214
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/telemundo_este.png" tvg-id="TelemundoWKAQ.us" ,PUERTO RICO: TELEMUNDO
+http://qqtv.nl:8080/norma/12345/154506
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Chile/mega_cl.png" tvg-id="MegaTV.us" ,PUERTO RICO: MEGA TV
+http://qqtv.nl:8080/norma/12345/239339
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/United-States/univision_us.png" tvg-id="UnivisionWLII.us" ,PUERTO RICO: UNIVISION
+http://qqtv.nl:8080/norma/12345/340580
+#EXTINF:-1 group-title="SPANISH" ,----------Spain----------
+http://qqtv.nl:8080/norma/12345/54827
+#EXTINF:-1 group-title="SPANISH" tvg-id="GoldenPlus.mx" ,ES: GOLDEN PLUS HD
+http://qqtv.nl:8080/norma/12345/148631
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Chile/mega_cl.png" tvg-id="OmegaTV.cy" ,ES: MEGA HD
+http://qqtv.nl:8080/norma/12345/148632
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/antena3.png" tvg-id="Antena3.es" ,ES: ANTENA 3 HD
+http://qqtv.nl:8080/norma/12345/340566
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/cuatro_es.png" tvg-id="Cuatro.es" ,ES: CUATRO HD
+http://qqtv.nl:8080/norma/12345/340567
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/movistar_es_comedia.png" tvg-id="MovistarComedia.es" ,ES: MOVISTAR COMEDIA HD
+http://qqtv.nl:8080/norma/12345/340568
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/real_madrid_tv_es.png" tvg-id="RealMadridTV.es" ,ES: REAL MADRID TV HD
+http://qqtv.nl:8080/norma/12345/340570
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/telecinco.png" tvg-id="Telecinco.es" ,ES: TELECINCO HD
+http://qqtv.nl:8080/norma/12345/340571
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/la_sexta_es.png" tvg-id="LaSexta.es" ,ES: LA SEXTA
+http://qqtv.nl:8080/norma/12345/340572
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/toros_tv_es.png" ,ES: C TOROS HD
+http://qqtv.nl:8080/norma/12345/340573
+#EXTINF:-1 group-title="SPANISH" tvg-id="Calle13.es" ,ES: CALLE 13 FHD
+http://qqtv.nl:8080/norma/12345/340574
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/tve1_es.png" tvg-id="TvEscola.br" ,ES: TVE LA 1 HD
+http://qqtv.nl:8080/norma/12345/340575
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/tve2.png" tvg-id="TvEscola.br" ,ES: TVE LA 2 HD
+http://qqtv.nl:8080/norma/12345/340576
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/tve_canal_24horas.png" tvg-id="01TV.fr" ,ES: ACCION HD
+http://qqtv.nl:8080/norma/12345/392993
+#EXTINF:-1 group-title="SPANISH" ,ES: CAZA Y PESCA HD
+http://qqtv.nl:8080/norma/12345/431432
+#EXTINF:-1 group-title="SPANISH" ,ES: VIAJAR HD
+http://qqtv.nl:8080/norma/12345/431431
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Spain/tve_internacional_eu.png" tvg-id="HPItvInternational.ca" ,ES: TVE Internaciona
+http://qqtv.nl:8080/norma/12345/392994
+#EXTINF:-1 group-title="SPANISH" tvg-logo="http://glmtv.pw/logo/prestige/Mexico/tv_universidad_mx.png" tvg-id="HPItvInternational.ca" ,ES: TV Espanola Internacional
+http://qqtv.nl:8080/norma/12345/392995
+#EXTINF:-1 group-title="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1920px-Movistar_Deportes_1.svg.png" tvg-id="MovistarDeportes.es" ,ES: MOVISTAR DEPORTES
+http://qqtv.nl:8080/norma/12345/20215
+#EXTINF:-1 group-title="SPANISH" ,***** CUBA *****
+http://qqtv.nl:8080/norma/12345/87085
+#EXTINF:-1 group-title="SPANISH" tvg-id="Cubavision.cu" ,CUBA: CUBAVISION
+http://qqtv.nl:8080/norma/12345/87081
+#EXTINF:-1 group-title="SPANISH" ,CUBA: MARTINIQUE ESPERANCE  TV 
+http://qqtv.nl:8080/norma/12345/380696
+#EXTINF:-1 group-title="SPANISH" ,CUBA: AMERICA TV
+http://qqtv.nl:8080/norma/12345/87077
+#EXTINF:-1 group-title="SPANISH" tvg-id="CubaPlay.us" ,CUBA: CUBA PLAY +
+http://qqtv.nl:8080/norma/12345/380697
+#EXTINF:-1 group-title="SPANISH" tvg-id="CanalCaribe.cu" ,CUBA: CANAL CARIBE
+http://qqtv.nl:8080/norma/12345/87079
+#EXTINF:-1 group-title="SPANISH" tvg-id="TeleRebelde.cu" ,CUBA: TELE REBELDE
+http://qqtv.nl:8080/norma/12345/87078
+#EXTINF:-1 group-title="SPANISH" ,CUBA: CUBAVISION Internacional
+http://qqtv.nl:8080/norma/12345/87080
+#EXTINF:-1 group-title="SPANISH" tvg-id="OYE.pa" ,LA: OYE LATINOS HD
+http://qqtv.nl:8080/norma/12345/406639
