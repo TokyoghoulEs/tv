@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 HD
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 HD
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",PlutoTV
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.m3u8
