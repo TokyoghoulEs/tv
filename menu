@@ -1,12 +1,15 @@
-#EXTM3U
-#EXTINF:-1 ,Película de ejemplo (2017)
-https://servidor.com/película.mpg
+#EXTINF: 0
+ tvg-logo = "https://dl.dropbox.com/s/b71jvyzs3eiqlez/IMG_20200822_002529_409.jpg", IPTV
+http://usuarios.club/tv/free_JuanCarlos_Triana/npn.m3u
 
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 HD
+#EXTINF: 0
+ tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 HD
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="SPAIN",PlutoTV
+#EXTINF: 0
+  tvg-country="ES" tvg-logo="" group-title="SPAIN",PlutoTV
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.m3u8
 
-#EXTINF:-1 ,España
+#EXTINF: 0
+ tvg-logo = "https://dl.dropbox.com/s/b71jvyzs3eiqlez/IMG_20200822_002529_409.jpg", España 
 https://raw.githubusercontent.com/vk496/IPTVspain/master/spain.m3u8
