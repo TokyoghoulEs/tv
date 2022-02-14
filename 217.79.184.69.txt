@@ -1,1819 +1,315 @@
 #EXTM3U
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c654d35ebe6c4ad0ebd2b442065c5204.png" ,1 CINE HD | CLARO CINEMA
-http://vplay.club:8888/BEATRIZ/1234/70401
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c15379468ddd344f41990890d9c0c3d0.png" ,1 CINE HD | DHE
-http://vplay.club:8888/BEATRIZ/1234/70402
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/880369ce0793bc3319c0e8961641d593.png" ,1 CINE HD | FILM & ARTS
-http://vplay.club:8888/BEATRIZ/1234/70403
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,1 CINE HD | SHOWTIME EAST
-http://vplay.club:8888/BEATRIZ/1234/70471
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/22a09eae943b6174e51accf5da586360.png" ,1 CINE HD | SHOWTIME EXTREME
-http://vplay.club:8888/BEATRIZ/1234/70472
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4a71106e228ba206fac95c718a9e389e.png" ,1 CINE HD | STARZ
-http://vplay.club:8888/BEATRIZ/1234/70474
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/d2aeb2ba5fe13789ed3f33e85ee568ef.png" ,1 CINE HD | STARZ ENCORE
-http://vplay.club:8888/BEATRIZ/1234/70475
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/0bc74a3b8166bc9e9338e958af0285b2.png" ,1 CINE HD | STARZ EGDE
-http://vplay.club:8888/BEATRIZ/1234/70476
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/9ddc776ce1df88425a9d1ca0fb77edc7.png" ,1 CINE HD | STARZ COMEDY
-http://vplay.club:8888/BEATRIZ/1234/70477
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/324c8d5f876d45cae6c3db4409cf1652.png" ,1 CINE HD | STARZ SUSPENSE
-http://vplay.club:8888/BEATRIZ/1234/70478
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,1 CINE HD | STAR ACTION
-http://vplay.club:8888/BEATRIZ/1234/70481
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/d0fbf0bd2e3348bd987741033aae80c1.png" ,(1) CINE HD  | A&E
-http://vplay.club:8888/BEATRIZ/1234/70482
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,1 CINE HD  | AMC
-http://vplay.club:8888/BEATRIZ/1234/70483
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c6715bd72a907ca4980ac1449aab589a.png" ,(1) CINE HD | AXN
-http://vplay.club:8888/BEATRIZ/1234/70484
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c7488fe17fd9d760e48fa0dc1024a367.png" ,1 CINE HD  | CINECANAL
-http://vplay.club:8888/BEATRIZ/1234/70485
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" ,1 CINE HD  | CINEMAX
-http://vplay.club:8888/BEATRIZ/1234/70486
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,1 CINE HD | STAR CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70487
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,1 CINE HD  | STAR CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70488
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,1 CINE HD  | STAR COMEDY
-http://vplay.club:8888/BEATRIZ/1234/70489
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,1 CINE HD  | STAR FUN
-http://vplay.club:8888/BEATRIZ/1234/70490
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,1 CINE HD  | STAR FUN
-http://vplay.club:8888/BEATRIZ/1234/70491
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b0be8874582dc64be2aab3f4ba1ab6a4.png" ,1 CINE HD  | STAR LIFE
-http://vplay.club:8888/BEATRIZ/1234/70492
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,1 CINE HD  | STAR HITS
-http://vplay.club:8888/BEATRIZ/1234/70493
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,1 CINE HD  | STAR HITS
-http://vplay.club:8888/BEATRIZ/1234/70494
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" ,1 CINE HD  | STAR SERIES
-http://vplay.club:8888/BEATRIZ/1234/70495
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,1 CINE HD  | HBO
-http://vplay.club:8888/BEATRIZ/1234/70496
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,1 CINE HD  | HBO PLUS
-http://vplay.club:8888/BEATRIZ/1234/70497
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,1 CINE HD  | HBO 2
-http://vplay.club:8888/BEATRIZ/1234/70498
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,1 CINE HD  | HBO +
-http://vplay.club:8888/BEATRIZ/1234/70500
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,1 CINE HD  | HBO
-http://vplay.club:8888/BEATRIZ/1234/70502
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/90c19354b24dc6d73f2cbaabce49bf6d.png" ,(1) CINE HD  | PARAMOUNT
-http://vplay.club:8888/BEATRIZ/1234/70503
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/236356782b33dff364fbce79e8764152.png" ,1 CINE HD  | SONY
-http://vplay.club:8888/BEATRIZ/1234/70504
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/236356782b33dff364fbce79e8764152.png" ,1 CINE HD  | SONY
-http://vplay.club:8888/BEATRIZ/1234/70505
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/0cef6205e5f94f767fe6308c2ae81628.png" ,1 CINE HD  | SPACE
-http://vplay.club:8888/BEATRIZ/1234/70506
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/0cef6205e5f94f767fe6308c2ae81628.png" ,1 CINE HD  | SPACE
-http://vplay.club:8888/BEATRIZ/1234/70507
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/48139b60c2ad49dbeadb3c45d0541451.png" ,1 CINE HD  | TNT
-http://vplay.club:8888/BEATRIZ/1234/70508
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4672bc0bf1f80a7fc1650f82052520be.png" ,1 CINE HD | TNT SERIES
-http://vplay.club:8888/BEATRIZ/1234/70509
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7e24ba66a736d5b13fd88641394be740.png" ,(1) CINE HD  | WARNER CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70510
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1c961811ad68433fe9403cff3b2da4e5.png" ,(1) CINE FULL HD | A&E
-http://vplay.club:8888/BEATRIZ/1234/70511
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/db525921ef3ee6c494a65ce1021600c0.png" ,1 CINE FULL HD | AMC
-http://vplay.club:8888/BEATRIZ/1234/70512
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b0786690ffd5581c6f8a574b04bedb12.png" ,1 CINE FULL HD | AXN
-http://vplay.club:8888/BEATRIZ/1234/70513
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/402c922bc94cf2d73bc0f8d68966ef1a.png" ,1 CINE FULL HD | CINECANAL
-http://vplay.club:8888/BEATRIZ/1234/70514
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a15cbfc7c4af32c16b6fc62c76d134da.png" ,1 CINE FULL HD | CINEMAX
-http://vplay.club:8888/BEATRIZ/1234/70515
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,(1) CINE TV | STAR CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70517
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION
-http://vplay.club:8888/BEATRIZ/1234/70518
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/440fa83a02505db064a4cfac5222824b.png" ,(1) CINE FULL HD | STAR CINEMA
-http://vplay.club:8888/BEATRIZ/1234/70519
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,(1) CINE TV | STAR COMEDY
-http://vplay.club:8888/BEATRIZ/1234/70520
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,(1) CINE TV | STAR FUN
-http://vplay.club:8888/BEATRIZ/1234/70521
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,(1) CINE TV | STAR HITS
-http://vplay.club:8888/BEATRIZ/1234/70522
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" ,(1) CINE TV | STAR SERIES
-http://vplay.club:8888/BEATRIZ/1234/70523
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/91f0581c21b08992162709c90ad3cea8.png" ,(1) CINE TV | HBO
-http://vplay.club:8888/BEATRIZ/1234/70524
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,(1) CINE TV | HBO 2
-http://vplay.club:8888/BEATRIZ/1234/70525
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/8dab71cd68e2a8b333112b2e3634d5e0.png" ,(1) CINE TV | HBO PLUS
-http://vplay.club:8888/BEATRIZ/1234/70528
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/804908bb28c2ecbde0ea625369a3a7dc.png" ,(1) CINE TV | HBO POP
-http://vplay.club:8888/BEATRIZ/1234/70529
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/9ea14534c249fe19e2bec15c963b8412.png" ,(1) CINE TV | HBO XTREME
-http://vplay.club:8888/BEATRIZ/1234/70531
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/0cef6205e5f94f767fe6308c2ae81628.png" ,(1) CINE TV | SPACE
-http://vplay.club:8888/BEATRIZ/1234/70532
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2aeb434aacbe2a352b700376ae5dc9f9.png" ,(1) CINE TV | SONY
-http://vplay.club:8888/BEATRIZ/1234/70533
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3a60bd3d076dcf123836ed08694c4800.png" ,(1) CINE TV | SYFY
-http://vplay.club:8888/BEATRIZ/1234/70534
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3d46804c65402ec6b4ea8c50758018fc.png" ,(1) CINE TV | TCM
-http://vplay.club:8888/BEATRIZ/1234/70535
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/6d6632a8b7978d1c8878aa8bbbd10d4a.png" ,(1) CINE TV | TNT SERIES
-http://vplay.club:8888/BEATRIZ/1234/70536
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a09aff4221d54c43c484c90a3b0c0068.png" ,(1) CINE TV | TNT
-http://vplay.club:8888/BEATRIZ/1234/70537
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/39bf2a99c4b2c254441f4a969580a77f.png" ,(1) CINE TV | UNIVERSAL CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70538
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4b764f15c56a9525fa0409a01dcb03b5.png" ,(1) CINE TV| STUDIO UNIVERSAL
-http://vplay.club:8888/BEATRIZ/1234/70539
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7e24ba66a736d5b13fd88641394be740.png" ,(1) CINE TV | WARNER
-http://vplay.club:8888/BEATRIZ/1234/70540
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/e10f403305dc12632c4a7b65a477fd20.png" ,4 CINE TV | STARZ ENCORE WESTERN FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48831
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,4 CINE TV | SHOWTIME EXTREME HD
-http://vplay.club:8888/BEATRIZ/1234/48823
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,4 CINE TV | SHOWTIME EAST FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48820
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,(4) CINE TV | SHOWTIME BEYOND FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48819
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2eef3d0c5597348d281b9fb1555109d0.png" ,(4) CINE TV | OURTERMAX FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48818
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/70d560ed407cee3bde4f9d96c641e816.png" ,2 CINE TV | MOVIEMAX FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48816
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/db059dc8a47602a03922791832109693.png" ,2 CINE TV | INDIEPLEX FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48815
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/790e3ebf9aa381b7a00a9f009668faca.png" ,(4) CINE TV | WARNER CHANNEL (CO)
-http://vplay.club:8888/BEATRIZ/1234/48812
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/880369ce0793bc3319c0e8961641d593.png" ,(1) CINE TV | FILM & ARTS HD
-http://vplay.club:8888/BEATRIZ/1234/48808
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/880369ce0793bc3319c0e8961641d593.png" ,2 CINE TV | FILM AND ARTS
-http://vplay.club:8888/BEATRIZ/1234/48807
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/5594bb4326e8eaa91d4d125daf5b863f.png" ,4 CINE TV | I.SAT 
-http://vplay.club:8888/BEATRIZ/1234/48806
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/0a2221ed39a740ee946f3fe4dd0f07ab.png" ,4 CINE TV | DE PELICULA
-http://vplay.club:8888/BEATRIZ/1234/48805
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/77d8de6ba2b4d6a92f977ceefbab9749.png" ,(1) CINE TV | EUROPA EUROPA
-http://vplay.club:8888/BEATRIZ/1234/48804
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/806bf795e28ea5981c5277c8109a0232.png" ,4 CINE TV | STUDIO UNIVERSAL (MX)
-http://vplay.club:8888/BEATRIZ/1234/48801
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/fbd5c4d73ca0f4fc2e111c0952449cad.png" ,4 CINE TV | UNIVERSAL CHANNEL (MX)
-http://vplay.club:8888/BEATRIZ/1234/48800
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b48e76a84d08a98aed43fef38cb14016.png" ,(4) CINE TV | TNT SERIES FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48797
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b48e76a84d08a98aed43fef38cb14016.png" ,2 CINE TV | TNT SERIES HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48794
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b48e76a84d08a98aed43fef38cb14016.png" ,2 CINE TV | TNT SERIES (CO)
-http://vplay.club:8888/BEATRIZ/1234/48793
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a09aff4221d54c43c484c90a3b0c0068.png" ,(4) CINE TV | TNT FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48791
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a09aff4221d54c43c484c90a3b0c0068.png" ,4 CINE TV | TNT (MX)
-http://vplay.club:8888/BEATRIZ/1234/48790
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a09aff4221d54c43c484c90a3b0c0068.png" ,4 CINE TV | TNT FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48789
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a09aff4221d54c43c484c90a3b0c0068.png" ,4 CINE TV | TNT HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48788
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a09aff4221d54c43c484c90a3b0c0068.png" ,4 CINE TV | TNT (CO)
-http://vplay.club:8888/BEATRIZ/1234/48787
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3d46804c65402ec6b4ea8c50758018fc.png" ,(4) CINE TV | TCM
-http://vplay.club:8888/BEATRIZ/1234/48786
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1352fde86a004ea325d002e64a828ebb.png" ,4 CINE TV | SONY FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48779
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1352fde86a004ea325d002e64a828ebb.png" ,4 CINE TV | SONY (MX)
-http://vplay.club:8888/BEATRIZ/1234/48778
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1352fde86a004ea325d002e64a828ebb.png" ,4 CINE TV | SONY FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48777
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1352fde86a004ea325d002e64a828ebb.png" ,4 CINE TV | SONY (CO)
-http://vplay.club:8888/BEATRIZ/1234/48776
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/90c19354b24dc6d73f2cbaabce49bf6d.png" ,2 CINE TV | PARAMOUNT CHANNEL (MX)
-http://vplay.club:8888/BEATRIZ/1234/48773
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/90c19354b24dc6d73f2cbaabce49bf6d.png" ,2 CINE TV | PARAMOUNT CHANNEL FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48772
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/90c19354b24dc6d73f2cbaabce49bf6d.png" ,2 CINE TV | PARAMOUNT CHANNEL (CO)
-http://vplay.club:8888/BEATRIZ/1234/48771
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4abe5dbf1d26a337162bbf509b67897b.png" ,(1) CINE TV | HBO XTREME
-http://vplay.club:8888/BEATRIZ/1234/48767
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/19ab9c79a0b4c617457afdc07c1b06ef.png" ,(4) CINE TV | HBO POP FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48766
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/19ab9c79a0b4c617457afdc07c1b06ef.png" ,(4) CINE TV | HBO POP
-http://vplay.club:8888/BEATRIZ/1234/48765
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab86b4ceaeaaa7eb0a024f0ea4db479e.png" ,2 CINE TV | HBO MUNDI (CO)
-http://vplay.club:8888/BEATRIZ/1234/48764
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,2 CINE TV | HBO SUBTITULADO FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48763
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,2 CINE TV | HBO SUBTITULADO
-http://vplay.club:8888/BEATRIZ/1234/48762
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a1b78744a7165bf7144e36b9e3de7af7.png" ,4 CINE TV | HBO SIGNATURE FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48761
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a1b78744a7165bf7144e36b9e3de7af7.png" ,4 CINE TV | HBO SIGNATURE HD
-http://vplay.club:8888/BEATRIZ/1234/48760
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a1b78744a7165bf7144e36b9e3de7af7.png" ,4 CINE TV | HBO SIGNATURE
-http://vplay.club:8888/BEATRIZ/1234/48759
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,(4) CINE TV | HBO PLUS FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48757
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,(4) CINE TV | HBO PLUS HD
-http://vplay.club:8888/BEATRIZ/1234/48756
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,(4) CINE TV | HBO PLUS
-http://vplay.club:8888/BEATRIZ/1234/48755
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a1d2501aef7567ae837ee1113bbc3e59.png" ,(4) CINE TV | HBO FAMILY FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48753
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,4 CINE TV | HBO 2 FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48749
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,4 CINE TV | HBO 2 HD
-http://vplay.club:8888/BEATRIZ/1234/48748
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,4 CINE TV | HBO 2
-http://vplay.club:8888/BEATRIZ/1234/48747
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,4 CINE TV | HBO Full HD
-http://vplay.club:8888/BEATRIZ/1234/48745
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,4 CINE TV | HBO HD
-http://vplay.club:8888/BEATRIZ/1234/48744
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,4 CINE TV | HBO
-http://vplay.club:8888/BEATRIZ/1234/48743
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/6923ef2566c6deb9571c89aee3ef3aa5.png" ,4 CINE TV | GOLDEN PLUS FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48742
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/6923ef2566c6deb9571c89aee3ef3aa5.png" ,4 CINE TV | GOLDEN PLUS (MX)
-http://vplay.club:8888/BEATRIZ/1234/48741
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/e0bd51731fc8bce68517a74c329e93f4.png" ,4 CINE TV | GOLDEN EDGE (MX)
-http://vplay.club:8888/BEATRIZ/1234/48740
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/74219e77187d8a857d138208f97567c3.png" ,(1)  CINE TV | GOLDEN PREMIER FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48739
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/f14bbd867909bb7dd0ac4573e8893913.png" ,4 CINE TV | GOLDEN FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48737
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/f14bbd867909bb7dd0ac4573e8893913.png" ,4 CINE TV | GOLDEN
-http://vplay.club:8888/BEATRIZ/1234/48736
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01ba7efcd7770ffcd0cac8830c734f78.png" ,4 CINE TV | FX HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48732
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01ba7efcd7770ffcd0cac8830c734f78.png" ,4 CINE TV | FX (MX)
-http://vplay.club:8888/BEATRIZ/1234/48731
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/01ba7efcd7770ffcd0cac8830c734f78.png" ,2 CINE TV | FX (CO)
-http://vplay.club:8888/BEATRIZ/1234/48728
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" ,(1) CINE TV | STAR SERIES FHD
-http://vplay.club:8888/BEATRIZ/1234/48726
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" ,2 CINE TV | STAR SERIES
-http://vplay.club:8888/BEATRIZ/1234/48725
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,(1) CINE TV | STAR HITS FHD
-http://vplay.club:8888/BEATRIZ/1234/48721
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,(1) CINE TV | STAR HITS HD
-http://vplay.club:8888/BEATRIZ/1234/48720
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,(1) CINE TV | STAR HITS
-http://vplay.club:8888/BEATRIZ/1234/48719
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/81187b37a7eb98fbfc1ccc7ed8d1a99e.png" ,(1) CINE TV | STAR HITS (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48718
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,(1) CINE TV | STAR FUN (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48717
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,(1) CINE TV | STAR FUN FHD
-http://vplay.club:8888/BEATRIZ/1234/48714
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,(1) CINE TV | STAR FUN HD
-http://vplay.club:8888/BEATRIZ/1234/48713
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" ,(1) CINE TV | STAR FUN
-http://vplay.club:8888/BEATRIZ/1234/48712
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,(1) CINE TV | STAR COMEDY FHD
-http://vplay.club:8888/BEATRIZ/1234/48709
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,(1) CINE TV | STAR COMEDY HD
-http://vplay.club:8888/BEATRIZ/1234/48708
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,(1) CINE TV | STAR COMEDY
-http://vplay.club:8888/BEATRIZ/1234/48707
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,(1) CINE TV | STAR COMEDY (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48705
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/bd1fb8a8ce19a97d1798c38caca6c0e4.png" ,(1) CINE TV | STAR CLASSICS FHD
-http://vplay.club:8888/BEATRIZ/1234/48704
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/bd1fb8a8ce19a97d1798c38caca6c0e4.png" ,(1) CINE TV | STAR CLASSICS HD
-http://vplay.club:8888/BEATRIZ/1234/48703
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/bd1fb8a8ce19a97d1798c38caca6c0e4.png" ,(1) CINE TV | STAR CLASSICS
-http://vplay.club:8888/BEATRIZ/1234/48702
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/440fa83a02505db064a4cfac5222824b.png" ,(1) CINE TV | STAR CINEMA FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48700
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/440fa83a02505db064a4cfac5222824b.png" ,(1) CINE TV | STAR CINEMA
-http://vplay.club:8888/BEATRIZ/1234/48699
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/440fa83a02505db064a4cfac5222824b.png" ,(1) CINE TV | STAR CINEMA (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48698
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION FHD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48696
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION (MX)
-http://vplay.club:8888/BEATRIZ/1234/48695
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION FHD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48694
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48693
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION (CO)
-http://vplay.club:8888/BEATRIZ/1234/48692
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE TV | STAR ACTION (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48691
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b0be8874582dc64be2aab3f4ba1ab6a4.png" ,(1) CINE TV | STAR LIFE FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48690
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,(1) CINE TV | STAR CHANNEL FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48680
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,(1) CINE TV | STAR CHANNEL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48679
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,(1) CINE TV | STAR CHANNEL (CO)
-http://vplay.club:8888/BEATRIZ/1234/48678
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c15379468ddd344f41990890d9c0c3d0.png" ,(1) CINE TV | DHE FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48674
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c15379468ddd344f41990890d9c0c3d0.png" ,(1) CINE TV | DHE
-http://vplay.club:8888/BEATRIZ/1234/48673
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" ,(4) CINE TV | CINEMAX FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48669
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" ,(4) CINE TV | CINEMAX (MX)
-http://vplay.club:8888/BEATRIZ/1234/48668
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" ,(4) CINE TV | CINEMAX (CO)
-http://vplay.club:8888/BEATRIZ/1234/48667
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c4b0fb1cab52625cde8982c00f04979e.png" ,4 CINE TV | CINECANAL FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48665
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c4b0fb1cab52625cde8982c00f04979e.png" ,4 CINE TV | CINECANAL (MX)
-http://vplay.club:8888/BEATRIZ/1234/48664
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c4b0fb1cab52625cde8982c00f04979e.png" ,4 CINE TV | CINECANAL FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48663
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c4b0fb1cab52625cde8982c00f04979e.png" ,4 CINE TV | CINECANAL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48662
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c4b0fb1cab52625cde8982c00f04979e.png" ,4 CINE TV | CINECANAL (CO)
-http://vplay.club:8888/BEATRIZ/1234/48661
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c6715bd72a907ca4980ac1449aab589a.png" ,(4) CINE TV | AXN (MX)
-http://vplay.club:8888/BEATRIZ/1234/48658
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,4 CINE TV | AMC FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48653
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,4 CINE TV | AMC (MX)
-http://vplay.club:8888/BEATRIZ/1234/48652
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,2 CINE TV | AMC HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48650
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,2 CINE TV | AMC (CO)
-http://vplay.club:8888/BEATRIZ/1234/48649
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2182801c7075a6fac246ddb3aca5030c.png" ,4 CINE TV | A&E FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48647
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2182801c7075a6fac246ddb3aca5030c.png" ,4 CINE TV | A&E (MX)
-http://vplay.club:8888/BEATRIZ/1234/48646
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2182801c7075a6fac246ddb3aca5030c.png" ,4 CINE TV | A&E FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48645
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2182801c7075a6fac246ddb3aca5030c.png" ,4 CINE TV | A&E HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48644
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2182801c7075a6fac246ddb3aca5030c.png" ,(4) CINE TV | A&E (CO)
-http://vplay.club:8888/BEATRIZ/1234/48643
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/fbd5c4d73ca0f4fc2e111c0952449cad.png" ,4 CINE TV | UNIVERSAL CHANNEL (CO)
-http://vplay.club:8888/BEATRIZ/1234/48799
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4abe5dbf1d26a337162bbf509b67897b.png" ,2 CINE TV | HBO XTREAM FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48768
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/74219e77187d8a857d138208f97567c3.png" ,(1) CINE TV | GOLDEN PREMIER
-http://vplay.club:8888/BEATRIZ/1234/48738
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/6576467b48f715848c9be3339ba85367.png" ,4 CINE TV | FXM FULL HD (MX)
-http://vplay.club:8888/BEATRIZ/1234/48734
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/6576467b48f715848c9be3339ba85367.png" ,4 CINE TV | FXM (MX)
-http://vplay.club:8888/BEATRIZ/1234/48733
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" ,(1) CINE TV | STAR SERIES (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48724
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/d854f177f9072c0f2d25f38d13706e9e.png" ,4 CINE TV | CINEMA DINAMITA
-http://vplay.club:8888/BEATRIZ/1234/48671
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c6715bd72a907ca4980ac1449aab589a.png" ,(1) CINE TV | AXN FULL HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48657
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,(1) CINE HD | SHOWTIME WEST
-http://vplay.club:8888/BEATRIZ/1234/70473
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b2c43ebabb7c849a357fa221da49c24b.png" ,(4) CINE TV | STARZ CINEMA FULL HD
-http://vplay.club:8888/BEATRIZ/1234/48825
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/8f71f6a236abb24f0704a035f34b45ba.png" ,(1) CINE FULL HD | FX
-http://vplay.club:8888/BEATRIZ/1234/70516
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/0e31998bd78ddd4af68ce713c8882de8.png" ,(1) CINE HD  | HBO SIGNATURE
-http://vplay.club:8888/BEATRIZ/1234/70501
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,(6) CINE HD | SHOWTIME LATINO
-http://vplay.club:8888/BEATRIZ/1234/70470
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,(1) CINE HD | SHOWTIME BEYONC
-http://vplay.club:8888/BEATRIZ/1234/70469
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b0be8874582dc64be2aab3f4ba1ab6a4.png" ,(1) CINE TV | STAR LIFE HD (CO)
-http://vplay.club:8888/BEATRIZ/1234/48687
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/f2aca76501d7afd3b997b604374bacab.png" ,(1) CINE TV | CLARO CINEMA
-http://vplay.club:8888/BEATRIZ/1234/48672
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/777fcaf97cd90b812badb6ad575d624a.png" ,(5) CINE TV | AMC HD
-http://vplay.club:8888/BEATRIZ/1234/96542
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c5cf849da7a5832326a896fed2462850.png" ,(5) CINE TV | AZ CINEMA HD
-http://vplay.club:8888/BEATRIZ/1234/96549
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/2a76ad0b33406add7c37bc59f73c0dd5.png" ,(5) CINE TV | CINECANAL HD
-http://vplay.club:8888/BEATRIZ/1234/96550
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4e3af7dca8912b94a83ddf28cdad3554.png" ,(5) CINE TV | DE PELICULA PLUS HD
-http://vplay.club:8888/BEATRIZ/1234/96551
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/484ff667e25b1898ce78ed6b39af481d.png" ,(5) CINE TV | DE PELICULA
-http://vplay.club:8888/BEATRIZ/1234/96588
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/64f76803b18530eccf9f63e464bdd0ba.png" ,(5) CINE TV | FXM HD
-http://vplay.club:8888/BEATRIZ/1234/96556
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/8f71f6a236abb24f0704a035f34b45ba.png" ,(5) CINE TV | FX (MX) FHD
-http://vplay.club:8888/BEATRIZ/1234/96543
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/8f71f6a236abb24f0704a035f34b45ba.png" ,(5) CINE TV | FX FHD ( DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/96594
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/74219e77187d8a857d138208f97567c3.png" ,(5) CINE TV | GOLDEN PREMIER HD
-http://vplay.club:8888/BEATRIZ/1234/96558
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,(5) CINE TV | HBO HD (LAT)
-http://vplay.club:8888/BEATRIZ/1234/96559
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,(5) CINE TV | HBO PLUS
-http://vplay.club:8888/BEATRIZ/1234/96583
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/5e6fed1706a52f16ba8adb0709c9ba2f.png" ,(5) CINE TV | HBO POP
-http://vplay.club:8888/BEATRIZ/1234/96585
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c5bf7ff69c24d22aa6db07a0e2b1068d.png" ,(5) CINE TV | HBO HD LATINO ( DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/96590
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4711d71834ee30f564ea68ba4d07805f.png" ,(5) CINE TV | HBO XTREME HD
-http://vplay.club:8888/BEATRIZ/1234/96592
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b303ad821d6579919dcf17de5aa4bdd4.png" ,(5) CINE TV | MOREMAX
-http://vplay.club:8888/BEATRIZ/1234/96575
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/f23370372587e661adcf82cf88f8170e.png" ,(5) CINE TV | OUTERMAX
-http://vplay.club:8888/BEATRIZ/1234/96574
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/40a5f53eba93406621bd35f710f17c5a.png" ,(5) CINE TV | PARAMOUNT CHANNEL HD
-http://vplay.club:8888/BEATRIZ/1234/96544
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/644fb70d6899694e48aaeaf8f3aca926.png" ,(5) CINE TV | STAR FUN
-http://vplay.club:8888/BEATRIZ/1234/96577
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/9dc978081582467397cb7653a3a5d41e.png" ,(5) CINE TV | HBO 2 HD
-http://vplay.club:8888/BEATRIZ/1234/96560
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/99163f24ef085768ebf0c2faa4fa0624.png" ,(5) CINE TV | STAR CINEMA HD
-http://vplay.club:8888/BEATRIZ/1234/96553
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/84637e1c74ba3a81b902f802029b7b87.png" ,(5) CINE TV | SONY HD
-http://vplay.club:8888/BEATRIZ/1234/96545
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4a5e46e48b25a137e31dad568135177e.png" ,(5) CINE TV | SPACE HD
-http://vplay.club:8888/BEATRIZ/1234/96546
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b343e0f6449236510c6cb532a4bad667.png" ,(5) CINE TV | TNT SERIES HD
-http://vplay.club:8888/BEATRIZ/1234/96547
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/420bcea1c453bd8ec6919889e847fb8b.png" ,(5) CINE TV | WARNER CHANNEL HD (DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/96548
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/48a7d209497072e8bf152ff5a48d4fed.png" ,(5) CINE TV | STAR ACTION  ( DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/96552
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/04cfd6efe6781c3aaae78fe3ea76825b.png" ,(5) CINE TV | STAR FUN (DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/96554
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/467f585361fdccd39f859907efa8c185.png" ,(5) CINE TV | TNT HD DUAL
-http://vplay.club:8888/BEATRIZ/1234/96561
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/787fc028b5e6fc7c7f7b5892ba3dab79.png" ,(5) CINE TV | UNIVERSAL CHANNEL (MX)
-http://vplay.club:8888/BEATRIZ/1234/96562
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a169e40b58f0d7cbad19f5ff5e5df2d6.png" ,(5) CINE HD | STARZ ENCORE WESTERN
-http://vplay.club:8888/BEATRIZ/1234/96563
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a279ab18346e81a36bb54311dd9f3e6b.png" ,(5) CINE TV | STARZ ENCORE SUSPENSE
-http://vplay.club:8888/BEATRIZ/1234/96564
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a279ab18346e81a36bb54311dd9f3e6b.png" ,(5) CINE TV | STARZ ENCORE FAMILY HD
-http://vplay.club:8888/BEATRIZ/1234/96565
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a279ab18346e81a36bb54311dd9f3e6b.png" ,(5) CINE TV | STARZ ENCORE CLASSIC
-http://vplay.club:8888/BEATRIZ/1234/96566
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/be88c24c991863e8c781f36d384f1b1c.png" ,(5) CINE TV | STARZ ENCORE ACTION
-http://vplay.club:8888/BEATRIZ/1234/96567
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/58052ce1b8160d4c128b2b8ad57119a1.png" ,(5) CINE TV | STARZ CINEMA HD
-http://vplay.club:8888/BEATRIZ/1234/96570
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4b28a3310932223dbd5cf6f785ade666.png" ,(5) CINE TV | STARZ BLACK
-http://vplay.club:8888/BEATRIZ/1234/96571
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/c992e1f48df15a819cabcd94ae5ca895.png" ,(5) CINE TV | SHOWTIME HD
-http://vplay.club:8888/BEATRIZ/1234/96572
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/f4f74259054cf635914641dcce6764b0.png" ,(6) CINE TV | SHOWTIME BEYOND
-http://vplay.club:8888/BEATRIZ/1234/96573
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,(5) CINE TV | STAR CHANNEL HD
-http://vplay.club:8888/BEATRIZ/1234/96576
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/28fd3492ffff088dbc3cd90c1d5ed33e.png" ,(5) CINE TV | STAR SERIES HD
-http://vplay.club:8888/BEATRIZ/1234/96578
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/7c521d751c9a77cebdd188a18596e753.png" ,(5) CINE TV | STAR COMEDY ( DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/96579
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/145323ccc13dc82eace182cb6d54a205.png" ,(5) CINE TV | STAR CLASSICS
-http://vplay.club:8888/BEATRIZ/1234/96580
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/8094829c694453a2937681028aa80e8f.png" ,(5) CINE TV | CINEMAX (MX) HD
-http://vplay.club:8888/BEATRIZ/1234/96581
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/a1b78744a7165bf7144e36b9e3de7af7.png" ,(5) CINE TV | HBO SIGNATURE
-http://vplay.club:8888/BEATRIZ/1234/96582
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/bbefc0e486f4250519a23cc77f2a2888.png" ,(5) CINE TV | TBS HD
-http://vplay.club:8888/BEATRIZ/1234/96586
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/4b764f15c56a9525fa0409a01dcb03b5.png" ,(5) CINE TV | STUDIO UNIVERSAL HD
-http://vplay.club:8888/BEATRIZ/1234/96587
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/b0dad67cb69d1e7fbe1aabc5edbda612.png" ,(5) CINE TV | DE PELICULA CLASICO
-http://vplay.club:8888/BEATRIZ/1234/98212
-#EXTINF:-1 group-title="CINE HD (ESP) CINEMA HD" tvg-logo="http://vplay.club:8888/images/ab0f6caa9805cabc974ba5c835b30a23.png" ,4 CINE TV | SHOWTIME 2 HD
-http://vplay.club:8888/BEATRIZ/1234/48822
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,2 CINE TV | AMC FULL HD (ARG) (DUAL AUDIO)
-http://vplay.club:8888/BEATRIZ/1234/48654
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/0cef6205e5f94f767fe6308c2ae81628.png" ,(4) INE TV | SPACE (DUAL AUDIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48876
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/01ba7efcd7770ffcd0cac8830c734f78.png" ,(4) CINE TV | FX (DUAL AUDIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48877
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/f14bbd867909bb7dd0ac4573e8893913.png" ,(4) CINE TV | GOLDEN (DUAL AUDIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48878
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/769c481f5fd2bf070f3cb708dfc345ca.png" ,(4) CINE TV | AMC (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48880
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/0c0eec5d4e6ffb2af0adc8a5fca30c31.png" ,(4) CINE TV | TNT (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48888
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/15785c7e5967558fd34dbc4ff73e82d8.png" ,(4) CINE TV | STUDIO UNIVERSAL (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48890
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/53ad3ac9f4c6d4ec1cee55e5e8c516af.png" ,(4) CINE TV | A&E (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48891
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/b0be8874582dc64be2aab3f4ba1ab6a4.png" ,(1) CINE TV | STAR LIFE (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48684
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/f9d72198022947eb1e6c248c80d96c61.png" ,(4) CINE TV | TCM (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48883
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/b9c43322e50475923e4aab1d42a9c984.png" ,(4) CINE TV | TNT SERIES (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48887
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/0d74a38ac3d8629d9ace5bd04067380d.png" ,(4) CINE TV | UNIVERSAL (DUAL AUDIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48886
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" ,(4) CINE TV | CINEMAX (DUAL AUDIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48882
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,(4) CINE TV | HBO (DUAL AUDIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48875
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/34afb41b4368e9b15187974966abc91a.png" ,(4) CINE TV | HBO FAMILY (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48874
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,(4) CINE TV | HBO 2 (DUAL ADUIO) (MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48871
-#EXTINF:-1 group-title="CINE TV DUAL AUDIO (ESP-ENG)" tvg-logo="http://vplay.club:8888/images/4b7a1ebb2fb8d5c93fb5fab0b4fb0a6a.png" ,(4) CINE TV | SONY (DUAL AUDIO)(MOVIL)
-http://vplay.club:8888/BEATRIZ/1234/48870
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/d0fbf0bd2e3348bd987741033aae80c1.png" ,(1) CINE SD | A&E
-http://vplay.club:8888/BEATRIZ/1234/70431
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" ,(1) CINE SD | AMC
-http://vplay.club:8888/BEATRIZ/1234/70432
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/32402ed63625b0acb73e00a9958c0543.png" ,(1) CINE SD | AXN
-http://vplay.club:8888/BEATRIZ/1234/70433
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/c7488fe17fd9d760e48fa0dc1024a367.png" ,(1) CINE SD | CINECANAL
-http://vplay.club:8888/BEATRIZ/1234/70434
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" ,(1) CINE SD | CINEMAX
-http://vplay.club:8888/BEATRIZ/1234/70435
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" ,(1) CINE SD | STAR CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70436
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b0be8874582dc64be2aab3f4ba1ab6a4.png" ,(1) CINE SD | STAR LIFE
-http://vplay.club:8888/BEATRIZ/1234/70437
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" ,(1) CINE SD | STAR ACTION
-http://vplay.club:8888/BEATRIZ/1234/70438
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/440fa83a02505db064a4cfac5222824b.png" ,(1) CINE SD | STAR CINEMA
-http://vplay.club:8888/BEATRIZ/1234/70439
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/bd1fb8a8ce19a97d1798c38caca6c0e4.png" ,(1) CINE SD | STAR CLASSIC
-http://vplay.club:8888/BEATRIZ/1234/70440
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" ,(1) CINE SD | STAR COMEDY
-http://vplay.club:8888/BEATRIZ/1234/70441
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/37860502a084c26e264efd6f2f457cb8.png" ,(1) CINE SD | STAR SERIES
-http://vplay.club:8888/BEATRIZ/1234/70443
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/11253745d9347a0b8a3c58b29720b833.png" , (1) CINE SD | FX
-http://vplay.club:8888/BEATRIZ/1234/70444
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/5f2a35a3f04e349ece8e017584c227be.png" ,(1) CINE SD | FXM
-http://vplay.club:8888/BEATRIZ/1234/70445
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/f14bbd867909bb7dd0ac4573e8893913.png" ,(1) CINE SD | GOLDEN
-http://vplay.club:8888/BEATRIZ/1234/70446
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/e0bd51731fc8bce68517a74c329e93f4.png" ,(1) CINE SD | GOLDEN EDGE
-http://vplay.club:8888/BEATRIZ/1234/70447
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/6923ef2566c6deb9571c89aee3ef3aa5.png" ,(1) CINE SD | GOLDEN PLUS
-http://vplay.club:8888/BEATRIZ/1234/70448
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" ,(1) CINE SD | HBO
-http://vplay.club:8888/BEATRIZ/1234/70449
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" ,(1) CINE SD | HBO 2
-http://vplay.club:8888/BEATRIZ/1234/70450
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/a07b6439696ae5747ce18e0b76198bf2.png" ,(1) CINE SD | HBO FAMILY
-http://vplay.club:8888/BEATRIZ/1234/70451
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" ,(1) CINE SD | HBO PLUS
-http://vplay.club:8888/BEATRIZ/1234/70452
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/0e31998bd78ddd4af68ce713c8882de8.png" ,(1) CINE SD | HBO SIGNATURE
-http://vplay.club:8888/BEATRIZ/1234/70453
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/19ab9c79a0b4c617457afdc07c1b06ef.png" ,(1) CINE SD | HBO POP
-http://vplay.club:8888/BEATRIZ/1234/70454
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/90c19354b24dc6d73f2cbaabce49bf6d.png" ,(1) CINE SD | PARAMOUNT CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70455
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/d693ecd2a0c6f4c30198a07ecdddca5e.png" ,(1) CINE SD | SONY
-http://vplay.club:8888/BEATRIZ/1234/70456
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/0cef6205e5f94f767fe6308c2ae81628.png" ,(1) CINE SD | SPACE
-http://vplay.club:8888/BEATRIZ/1234/70457
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b63b47d70fe5372306238ee5a384bbbc.png" ,(1) CINE SD | STUDIO UNIVERSAL
-http://vplay.club:8888/BEATRIZ/1234/70458
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/e892c63bd34d4dafd1ab967a5681e548.png" ,(6) CINE SD | SYFY
-http://vplay.club:8888/BEATRIZ/1234/70459
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/d01e66e54992c09f8bff75a01944c78d.png" ,(1) CINE SD | TBS
-http://vplay.club:8888/BEATRIZ/1234/70460
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/3d46804c65402ec6b4ea8c50758018fc.png" ,(1) CINE SD | TCM
-http://vplay.club:8888/BEATRIZ/1234/70461
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/48139b60c2ad49dbeadb3c45d0541451.png" ,(1) CINE SD | TNT
-http://vplay.club:8888/BEATRIZ/1234/70462
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/4672bc0bf1f80a7fc1650f82052520be.png" ,(1) CINE SD  | TNT SERIES
-http://vplay.club:8888/BEATRIZ/1234/70463
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/39bf2a99c4b2c254441f4a969580a77f.png" ,(1) CINE SD | UNIVERSAL CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/70464
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/7e24ba66a736d5b13fd88641394be740.png" ,(1)  CINE SD | WARNER
-http://vplay.club:8888/BEATRIZ/1234/70465
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/8169a21543e3399cf0fae85dadbc21cd.png" ,(1) CINE SD | DE PELICULA PLUS
-http://vplay.club:8888/BEATRIZ/1234/70466
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/0e9a53bf35fa1be63d6cbb9a4d16b356.png" ,(1) CINE SD | MOVISTAR SERIE
-http://vplay.club:8888/BEATRIZ/1234/70467
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/d2d70770855b0bc718e1014343d2297a.png" ,(1) CINE SD | MOVISTAR ESTRENO
-http://vplay.club:8888/BEATRIZ/1234/70468
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/662dc2a6c96faad97c59ac522197510c.png" ,(1) CINE SD | CINEMA DINAMITA
-http://vplay.club:8888/BEATRIZ/1234/70479
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png" ,(1) CINE SD | CINELATINO
-http://vplay.club:8888/BEATRIZ/1234/70480
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/2ce89d3338f41b083038257592b560d1.png" ,(1) CINE SD | ULTRA CINE
-http://vplay.club:8888/BEATRIZ/1234/70576
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/65856a10a47e4dccff50fe003403435d.png" ,(1) CINE SD | ULTRA FAMILIA
-http://vplay.club:8888/BEATRIZ/1234/70577
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/49abaef8f7a218ab8a54ed1a6ae08096.png" ,(1) CINE SD | ULTRA FIESTA
-http://vplay.club:8888/BEATRIZ/1234/70578
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/c64b7263c4bc0389eeecac8132a70b9d.png" ,(1) CINE SD | ULTRA KIDZ
-http://vplay.club:8888/BEATRIZ/1234/70579
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/e974c6a78ab5a5bd4827c8ad1aa65243.png" ,(5) CINE SD | FX MOVIES LAT
-http://vplay.club:8888/BEATRIZ/1234/97853
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/90c19354b24dc6d73f2cbaabce49bf6d.png" ,(5) CINE SD | PARAMOUNT CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/97854
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/777fcaf97cd90b812badb6ad575d624a.png" ,(5) CINE | AMC
-http://vplay.club:8888/BEATRIZ/1234/96595
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b343e0f6449236510c6cb532a4bad667.png" ,(5) CINE | TNT SERIES
-http://vplay.club:8888/BEATRIZ/1234/96596
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b86ad4d6e7c537a4845ab6ecbf86d838.png" ,(5) CINE | DE PELICULA PLUS
-http://vplay.club:8888/BEATRIZ/1234/96597
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/99163f24ef085768ebf0c2faa4fa0624.png" ,(5) CINE | STARZ CINEMA
-http://vplay.club:8888/BEATRIZ/1234/96598
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/f09e479b0790a68e96954d8d99f70ac9.png" ,(5) CINE | HBO XTREME 
-http://vplay.club:8888/BEATRIZ/1234/96599
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/fa195ba027fb52a0d630d6a0b4d63ff8.png" ,(5) CINE | HBO SIGNATURE
-http://vplay.club:8888/BEATRIZ/1234/96600
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/cc7f69397266d81bdc0bda0bcec795cd.png" ,(5) CINE | AXN
-http://vplay.club:8888/BEATRIZ/1234/96601
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/70e4262306b56b6f1391f72b68590b13.png" ,(5) CINE | CINECANAL
-http://vplay.club:8888/BEATRIZ/1234/96602
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/665bc5a8199c319e44761624a3946128.png" ,(5) CINE | CINEMAX
-http://vplay.club:8888/BEATRIZ/1234/96603
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/145323ccc13dc82eace182cb6d54a205.png" ,(5) CINE | STAR ACTION SD
-http://vplay.club:8888/BEATRIZ/1234/96604
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b1e41ebee5cd839040ca901d40a3ac52.png" ,(5) CINE | FOX
-http://vplay.club:8888/BEATRIZ/1234/96605
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/145323ccc13dc82eace182cb6d54a205.png" ,(5) CINE | STAR CLASSIC SD
-http://vplay.club:8888/BEATRIZ/1234/96606
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/7c521d751c9a77cebdd188a18596e753.png" ,(5) CINE | STAR COMEDY SD
-http://vplay.club:8888/BEATRIZ/1234/96607
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/644fb70d6899694e48aaeaf8f3aca926.png" ,(5) CINE | STAR FUN SD
-http://vplay.club:8888/BEATRIZ/1234/96608
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/857f12ebe440b30a11064b202882aeec.png" ,(5) CINE | STAR HITS SD
-http://vplay.club:8888/BEATRIZ/1234/96609
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/cd5cba78cb2d6f6a0180a848b4d9d5c3.png" ,(5) CINE | STAR SERIES
-http://vplay.club:8888/BEATRIZ/1234/96610
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b1e41ebee5cd839040ca901d40a3ac52.png" ,(5) CINE | FX
-http://vplay.club:8888/BEATRIZ/1234/96611
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/2e315bff35524a97aad3b72c1925756f.png" ,(5) CINE | FXM
-http://vplay.club:8888/BEATRIZ/1234/96612
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/8e2c73c5d7d8bebe167d2a16957b4e6f.png" ,(5) CINE | GOLDEN
-http://vplay.club:8888/BEATRIZ/1234/96613
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/2acb975b971c02473af0b1c4b35d3310.png" ,(5) CINE | GOLDEN EDGE
-http://vplay.club:8888/BEATRIZ/1234/96614
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/2acb975b971c02473af0b1c4b35d3310.png" ,(5) CINE | HBO
-http://vplay.club:8888/BEATRIZ/1234/96615
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/5f650d7f0d83403a551bbec582b7c882.png" ,(5) CINE | HBO 2
-http://vplay.club:8888/BEATRIZ/1234/96616
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/090da01a5cb85ae93f43e45b60c7385d.png" ,(5) CINE | HBO PLUS
-http://vplay.club:8888/BEATRIZ/1234/96618
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/13bdea8422fca7a6e57e3f79a63da117.png" ,(5) CINE | HBO MUNDI
-http://vplay.club:8888/BEATRIZ/1234/96619
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/c662b69172802f4382203aaaa6b7e7ff.png" ,(5) CINE | PARAMOUNT CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/96620
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/3b761902522d60823f3f991f0d0bd2cf.png" ,(5) CINE | SONY
-http://vplay.club:8888/BEATRIZ/1234/96621
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/015f45e4cbb1ff96af6f58040cb88ba7.png" ,(5) CINE | SPACE
-http://vplay.club:8888/BEATRIZ/1234/96622
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/bbefc0e486f4250519a23cc77f2a2888.png" ,(5) CINE | TBS
-http://vplay.club:8888/BEATRIZ/1234/96623
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/2bb314970ddfdec332e9d024d694bd07.png" ,(5) CINE | TCM
-http://vplay.club:8888/BEATRIZ/1234/96624
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/1502f1678e7cd7c8fb2e296083268125.png" ,(5) CINE | TNT
-http://vplay.club:8888/BEATRIZ/1234/96625
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/3aa76b427941ebca9f7c7e0d69eb6193.png" ,(5) CINE | CINEMA DINAMITA
-http://vplay.club:8888/BEATRIZ/1234/96626
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/b0554fe5f6815acacec759fa770c58ee.png" ,(5) CINE | EUROPA EUROPA
-http://vplay.club:8888/BEATRIZ/1234/96627
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/53ad3ac9f4c6d4ec1cee55e5e8c516af.png" ,(5) CINE | A&E
-http://vplay.club:8888/BEATRIZ/1234/96628
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/3bf7dfab12e7df26d12cecd8fee92081.png" ,(5) CINE | FOX LIFE
-http://vplay.club:8888/BEATRIZ/1234/96629
-#EXTINF:-1 group-title="CINE SD (ESP) CINEMA SD" tvg-logo="http://vplay.club:8888/images/aac829b452022f5667aa561ef875cce7.png" ,(5) CINE | STAR TVE
-http://vplay.club:8888/BEATRIZ/1234/96630
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 01
-http://vplay.club:8888/BEATRIZ/1234/96632
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 02
-http://vplay.club:8888/BEATRIZ/1234/96633
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 03
-http://vplay.club:8888/BEATRIZ/1234/96634
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 05
-http://vplay.club:8888/BEATRIZ/1234/96636
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 07
-http://vplay.club:8888/BEATRIZ/1234/96638
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 08
-http://vplay.club:8888/BEATRIZ/1234/96639
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7  | CINEMA 09
-http://vplay.club:8888/BEATRIZ/1234/96640
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 10
-http://vplay.club:8888/BEATRIZ/1234/96641
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 11
-http://vplay.club:8888/BEATRIZ/1234/96642
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5)  24/7 | CINEMA 13
-http://vplay.club:8888/BEATRIZ/1234/96644
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 14
-http://vplay.club:8888/BEATRIZ/1234/96645
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 15
-http://vplay.club:8888/BEATRIZ/1234/96646
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 16
-http://vplay.club:8888/BEATRIZ/1234/96647
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 17
-http://vplay.club:8888/BEATRIZ/1234/96648
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 18
-http://vplay.club:8888/BEATRIZ/1234/96649
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 19
-http://vplay.club:8888/BEATRIZ/1234/96650
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) CINE | CINEMA 20
-http://vplay.club:8888/BEATRIZ/1234/96651
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 21
-http://vplay.club:8888/BEATRIZ/1234/96652
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 22
-http://vplay.club:8888/BEATRIZ/1234/96653
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 |CINEMA 23
-http://vplay.club:8888/BEATRIZ/1234/96654
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 24
-http://vplay.club:8888/BEATRIZ/1234/96655
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) CINE | CINEMA 25
-http://vplay.club:8888/BEATRIZ/1234/96656
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 |CINEMA 26
-http://vplay.club:8888/BEATRIZ/1234/96657
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 27
-http://vplay.club:8888/BEATRIZ/1234/96658
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) CINE | CINEMA 28
-http://vplay.club:8888/BEATRIZ/1234/96659
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 |CINEMA 32
-http://vplay.club:8888/BEATRIZ/1234/96663
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 |CINEMA 33
-http://vplay.club:8888/BEATRIZ/1234/96664
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 |CINEMA 34
-http://vplay.club:8888/BEATRIZ/1234/96665
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/7ec99c46038d19361b3108c1f4c81c3e.png" ,(5) 24/7 | CINEMA 37
-http://vplay.club:8888/BEATRIZ/1234/96668
-#EXTINF:-1 group-title="CINE 24/7 ESP CINEMA 24/7" tvg-logo="http://vplay.club:8888/images/d9decc2e61ece81a377a10dc8c638ffe.png" ,(5) 24/7 | LAW AND ORDER
-http://vplay.club:8888/BEATRIZ/1234/98635
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" ,(4) ESPAÑA | LA 1
-http://vplay.club:8888/BEATRIZ/1234/49746
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" ,(4) ESPAÑA | LA 1 HD
-http://vplay.club:8888/BEATRIZ/1234/49747
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" ,(4) ESPAÑA | LA 1 FHD
-http://vplay.club:8888/BEATRIZ/1234/49748
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/815ccfdb46fb52082d6555af078a0073.png" ,(4) ESPAÑA | LA 2
-http://vplay.club:8888/BEATRIZ/1234/49749
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/815ccfdb46fb52082d6555af078a0073.png" ,(4) ESPAÑA | LA 2 HD
-http://vplay.club:8888/BEATRIZ/1234/49750
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/815ccfdb46fb52082d6555af078a0073.png" ,(4) ESPAÑA | LA 2 FHD
-http://vplay.club:8888/BEATRIZ/1234/49751
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/23aadfa7d65f6fd9ef8f812a29734334.png" ,(4) ESPAÑA | ANTENA 3
-http://vplay.club:8888/BEATRIZ/1234/49753
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f77725a8c3685dac1218f4af58dc6a9b.png" ,(4) ESPAÑA | CUATRO
-http://vplay.club:8888/BEATRIZ/1234/49758
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f77725a8c3685dac1218f4af58dc6a9b.png" ,(4) ESPAÑA | CUATRO HD
-http://vplay.club:8888/BEATRIZ/1234/49759
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f77725a8c3685dac1218f4af58dc6a9b.png" ,(4) ESPAÑA | CUATRO FHD
-http://vplay.club:8888/BEATRIZ/1234/49760
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e8f8905782aa06673719d0695a088105.png" ,(4) ESPAÑA | TELECINCO
-http://vplay.club:8888/BEATRIZ/1234/49761
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e8f8905782aa06673719d0695a088105.png" ,(4) ESPAÑA | TELECINCO HD
-http://vplay.club:8888/BEATRIZ/1234/49762
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" ,(4) ESPAÑA | LA SEXTA
-http://vplay.club:8888/BEATRIZ/1234/49764
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" ,(4) ESPAÑA | LA SEXTA HD
-http://vplay.club:8888/BEATRIZ/1234/49765
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" ,(4) ESPAÑA | LA SEXTA FHD
-http://vplay.club:8888/BEATRIZ/1234/49766
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a77fbe144d90b3dcbe081f6b1bd7162e.png" ,(1) ESPAÑA | 24H
-http://vplay.club:8888/BEATRIZ/1234/49769
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" ,(4) ESPAÑA | MEGA
-http://vplay.club:8888/BEATRIZ/1234/49772
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" ,(4) ESPAÑA | MEGA HD
-http://vplay.club:8888/BEATRIZ/1234/49773
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" ,(4) ESPAÑA | MEGA FHD
-http://vplay.club:8888/BEATRIZ/1234/49774
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/82a7a302f98a56c49375720fd32fb78f.png" ,(1) ESPAÑA | DKISS
-http://vplay.club:8888/BEATRIZ/1234/49778
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/635095121873e7dfd606e4fa75b044f3.png" ,(1) ESPAÑA | DMAX
-http://vplay.club:8888/BEATRIZ/1234/49779
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/26ee3973e3608a61cf14e58732cff3c9.png" ,(1) ESPAÑA | DIVINITY
-http://vplay.club:8888/BEATRIZ/1234/49780
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/eefb5d6888d21717cccaf8d91f66a4fb.png" ,(4) ESPAÑA | ENERGY
-http://vplay.club:8888/BEATRIZ/1234/49781
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/44c22869e66b31cb475e8d8da996f41c.png" ,(1) ESPAÑA | NOVA
-http://vplay.club:8888/BEATRIZ/1234/49783
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/43d6beef147a1846b17c65e726889b97.png" ,(4) ESPAÑA | ODISEA FHD
-http://vplay.club:8888/BEATRIZ/1234/49787
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/56ba0c40da9443f81b9d542a9dd44d1f.png" ,(4) ESPAÑA | FDF
-http://vplay.club:8888/BEATRIZ/1234/49788
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4bbb23daaaf350da51d398860c308186.png" ,(4) ESPAÑA | NEOX
-http://vplay.club:8888/BEATRIZ/1234/49789
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4bbb23daaaf350da51d398860c308186.png" ,(4) ESPAÑA | NEOX FHD
-http://vplay.club:8888/BEATRIZ/1234/49790
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6a3e8a49a70e183d973fec63a643def4.png" ,(1) ESPAÑA | TEN
-http://vplay.club:8888/BEATRIZ/1234/49791
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/911455f40102dca000cf7360235c57d6.png" ,(1) ESPAÑA | CRIMEN INVESTIGATION
-http://vplay.club:8888/BEATRIZ/1234/49792
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5af5589994fb426066267b1a3b9576bc.png" ,(4) ESPAÑA | DISCOVERY CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/49794
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ab4dfae42bb6e391f67d76f40a6ff454.png" ,(4) ESPAÑA | HISTORIA
-http://vplay.club:8888/BEATRIZ/1234/49795
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ab4dfae42bb6e391f67d76f40a6ff454.png" ,(4) ESPAÑA | HISTORIA FHD
-http://vplay.club:8888/BEATRIZ/1234/49796
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e902bd10ed43eaa9ec13ed353cd163b5.png" ,(1) ESPAÑA | NAT GEO WILD
-http://vplay.club:8888/BEATRIZ/1234/49797
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e902bd10ed43eaa9ec13ed353cd163b5.png" ,(1) ESPAÑA | NAT GEO WILD HD
-http://vplay.club:8888/BEATRIZ/1234/49798
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e902bd10ed43eaa9ec13ed353cd163b5.png" ,(1) ESPAÑA | NAT GEO WILD FHD
-http://vplay.club:8888/BEATRIZ/1234/49799
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/8c47b3193734ae967b7de25479f373fb.png" ,(4)  ESPAÑA | NATIONAL GEOGRAPHIC
-http://vplay.club:8888/BEATRIZ/1234/49800
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/8c47b3193734ae967b7de25479f373fb.png" ,(4) ESPAÑA | NATIONAL GEOGRAPHIC HD
-http://vplay.club:8888/BEATRIZ/1234/49801
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/8c47b3193734ae967b7de25479f373fb.png" ,(4) ESPAÑA | NATIONAL GEOGRAPHIC FHD
-http://vplay.club:8888/BEATRIZ/1234/49802
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e83b093b76eeb86fe303ae3d57b4168c.png" ,(1) ESPAÑA | CANAL SUR ANDALUCÍA
-http://vplay.club:8888/BEATRIZ/1234/49803
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5ed3515aa4ccd971c7cd5bcc0c5dc11c.png" ,(1) ESPAÑA | TELEMADRID
-http://vplay.club:8888/BEATRIZ/1234/49804
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a5c416a8ae34a88ddc8f403a8c4e3d91.png" ,(4) ESPAÑA | COMEDY CENTRAL
-http://vplay.club:8888/BEATRIZ/1234/49805
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a5c416a8ae34a88ddc8f403a8c4e3d91.png" ,(4) ESPAÑA | COMEDY CENTRAL FHD
-http://vplay.club:8888/BEATRIZ/1234/49807
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/18c01cbdebaa4c40ed9e2df854b1439f.png" ,(1) ESPAÑA | DECASA
-http://vplay.club:8888/BEATRIZ/1234/49808
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/99be6b1faad60d9b4b184d36997504fc.png" ,(1) ESPAÑA | CANAL COCINA
-http://vplay.club:8888/BEATRIZ/1234/49810
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c36571cb9c817673f35b52f859d1f5e0.png" ,(1) ESPAÑA | COSMO
-http://vplay.club:8888/BEATRIZ/1234/49813
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c36571cb9c817673f35b52f859d1f5e0.png" ,(1) ESPAÑA | COSMO FHD
-http://vplay.club:8888/BEATRIZ/1234/49815
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" ,(4) ESPAÑA | VIAJAR
-http://vplay.club:8888/BEATRIZ/1234/49816
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" ,(4) ESPAÑA | VIAJAR HD
-http://vplay.club:8888/BEATRIZ/1234/49817
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" ,(4) ESPAÑA | VIAJAR FHD
-http://vplay.club:8888/BEATRIZ/1234/49818
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9f0ba0834b8d9e8ac6952139fb0034be.png" ,(4) ESPAÑA | TORES TV
-http://vplay.club:8888/BEATRIZ/1234/49819
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9f0ba0834b8d9e8ac6952139fb0034be.png" ,(4) ESPAÑA | TOROS TV HD
-http://vplay.club:8888/BEATRIZ/1234/49820
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9f0ba0834b8d9e8ac6952139fb0034be.png" ,(4) ESPAÑA | TOROS TV FHD
-http://vplay.club:8888/BEATRIZ/1234/49821
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0cac6d320bdb92b5f3e20b04abf6f03f.png" ,(4) ESPAÑA | CAZA Y PESCA
-http://vplay.club:8888/BEATRIZ/1234/49825
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0cac6d320bdb92b5f3e20b04abf6f03f.png" ,(4) ESPAÑA | CAZ Y PESCA HD
-http://vplay.club:8888/BEATRIZ/1234/49826
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0cac6d320bdb92b5f3e20b04abf6f03f.png" ,(4) ESPAÑA | CAZA Y PESCA FHD
-http://vplay.club:8888/BEATRIZ/1234/49827
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/53881996fd60ef90306c200047daa928.png" ,(4) ESPAÑA | IBERALIA TV
-http://vplay.club:8888/BEATRIZ/1234/49828
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" ,(4) ESPAÑA | BOING
-http://vplay.club:8888/BEATRIZ/1234/49917
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" ,(4) ESPAÑA | BOING HD
-http://vplay.club:8888/BEATRIZ/1234/49918
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9fc4b825fb113de0b2e5ad1248198ab7.png" ,(1) ESPAÑA | CLAN TVE
-http://vplay.club:8888/BEATRIZ/1234/49919
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9fc4b825fb113de0b2e5ad1248198ab7.png" ,(1) ESPAÑA | CLAN TVE HD
-http://vplay.club:8888/BEATRIZ/1234/49920
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9fc4b825fb113de0b2e5ad1248198ab7.png" ,(1) ESPAÑA | CLAN TVE FHD
-http://vplay.club:8888/BEATRIZ/1234/49921
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/98da911a6a7e9b677b03b2453b2befb1.png" ,(1) ESPAÑA | DISNEY CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/49922
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/98da911a6a7e9b677b03b2453b2befb1.png" ,(4) ESPAÑA | DISNEY CHANNEL HD
-http://vplay.club:8888/BEATRIZ/1234/49923
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/98da911a6a7e9b677b03b2453b2befb1.png" ,(1) ESPAÑA | DISNEY CHANNEL FHD
-http://vplay.club:8888/BEATRIZ/1234/49924
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4eeea8e0a9800c0e8d70b5c42c860734.png" ,(1) ESPAÑA | DINEY JUNIOR
-http://vplay.club:8888/BEATRIZ/1234/49925
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png" ,(4) ESPAÑA | NICK JR
-http://vplay.club:8888/BEATRIZ/1234/49926
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74c88f3c967009030c1392659e3cdb4a.png" ,(1) ESPAÑA | NICKELODEON
-http://vplay.club:8888/BEATRIZ/1234/49927
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74c88f3c967009030c1392659e3cdb4a.png" ,(1) ESPAÑA | NICKELODEON HD
-http://vplay.club:8888/BEATRIZ/1234/49928
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74c88f3c967009030c1392659e3cdb4a.png" ,(1) ESPAÑA | NICKELODEON FHD
-http://vplay.club:8888/BEATRIZ/1234/49929
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/337ed01ef1c4a03998626e2329513a9c.png" ,(1) ESPAÑA | BABY TV
-http://vplay.club:8888/BEATRIZ/1234/49931
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/1c68f907dbd400977e98e088cd706841.png" ,(1) ESPAÑA | M. DREAMWORKS FHD
-http://vplay.club:8888/BEATRIZ/1234/49934
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/721e2640a854855b52cfbc850b040794.png" ,(1) ESPAÑA | MTV ESPAÑA
-http://vplay.club:8888/BEATRIZ/1234/49936
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ba398949f0f86a825c61081aae68ec82.png" ,(4) ESPAÑA | MEZZO
-http://vplay.club:8888/BEATRIZ/1234/49937
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/902030112a76102b7f945105bd7da925.png" ,(1) ESPAÑA | COSMOS FHD
-http://vplay.club:8888/BEATRIZ/1234/70967
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/47f731c2586b5fe10de285f49dc622c2.png" ,(1) ESPAÑA | SOMOS FHD
-http://vplay.club:8888/BEATRIZ/1234/70968
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/27aeca607d0d11865bbd90246eb55694.png" ,(1) ESPAÑA | COMEDY CENTRAL FHD
-http://vplay.club:8888/BEATRIZ/1234/70969
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c6f55680d93e7895c5aa49bdb997619e.png" ,(1) ESPAÑA | #0 SPORTS  FHD
-http://vplay.club:8888/BEATRIZ/1234/70970
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5a30bebad06b2c2924fbe8a653b451fc.png" ,(1) ESPAÑA | PARAMOUNT NETWORK SD
-http://vplay.club:8888/BEATRIZ/1234/70971
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/aea24ffb27dcc0cf46728a45939443dd.png" ,(1) ESPAÑA | AMC FHD
-http://vplay.club:8888/BEATRIZ/1234/70972
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/81c48cd80fe4ba766d43fddcfeb5d2a1.png" ,(1) ESPAÑA | TCM FHD
-http://vplay.club:8888/BEATRIZ/1234/70973
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0a701527a4b65051f2d184f163a84c08.png" ,(1) ESPAÑA | AXN WHITE FHD
-http://vplay.club:8888/BEATRIZ/1234/70974
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0e8b76168fa34ca529c4ed2622e8c2cb.png" ,(1) ESPAÑA | AXN FHD
-http://vplay.club:8888/BEATRIZ/1234/70975
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c5e02b326985924052ffe94088a62824.png" ,(1) ESPAÑA | FOX FHD
-http://vplay.club:8888/BEATRIZ/1234/70976
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/709aea2bc6134db0df54c2be09ac5f39.png" ,(1) ESPAÑA | FOX LIFE FHD
-http://vplay.club:8888/BEATRIZ/1234/70977
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/626ccd32c1a9357f17ce008d8cf0805d.png" ,(1) ESPAÑA | HOLLYWOOD FHD
-http://vplay.club:8888/BEATRIZ/1234/70978
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ed4dd5f732dae69d8eedf3bb26aacf73.png" ,(1) ESPAÑA | TNT FHD
-http://vplay.club:8888/BEATRIZ/1234/70979
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/aec179a52ea638503522c9afcdcf7168.png" ,(1) ESPAÑA | XTRM FHD
-http://vplay.club:8888/BEATRIZ/1234/70980
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a5a077502f108cd8804adf298f790247.png" ,(1) ESPAÑA | SYFY FHD
-http://vplay.club:8888/BEATRIZ/1234/70981
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/13b8026be809ea7c401c7e15c856d142.png" ,(1) ESPAÑA | MTV SD
-http://vplay.club:8888/BEATRIZ/1234/70982
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/533d19bd7d7622398a33a7cc1520d4d8.png" ,(1) ESPAÑA | BOM CINE SD
-http://vplay.club:8888/BEATRIZ/1234/70983
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ee6cf026a89d04b451ec4b8dfe3faccf.png" ,(1) ESPAÑA | MOVISTAR ACCION FHD
-http://vplay.club:8888/BEATRIZ/1234/70984
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/77efa0258766af736985de0050490072.png" ,(1) ESPAÑA | D CINE ESPAÑOL SD
-http://vplay.club:8888/BEATRIZ/1234/70985
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6288492cfd070bdeaaaf23bdfd6a2545.png" ,(1) ESPAÑA | MOVISTAR CINE SD
-http://vplay.club:8888/BEATRIZ/1234/70986
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c7deea8f8b411a64bf974f5643a1cc66.png" ,(1) ESPAÑA | MOVISTAR DRAMA FHD
-http://vplay.club:8888/BEATRIZ/1234/70987
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d209e7fd95ae9c1d8a4434bc9441c249.png" ,(1) ESPAÑA | MOVISTAR SERIEMANIA FHD
-http://vplay.club:8888/BEATRIZ/1234/70988
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0e9a53bf35fa1be63d6cbb9a4d16b356.png" ,(1) ESPAÑA | MOVISTAR SERIES FHD
-http://vplay.club:8888/BEATRIZ/1234/70989
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/425418beb13895b2df926f0b4bfe427a.png" ,(1) ESPAÑA | MOVISTAR COMEDIA FHD
-http://vplay.club:8888/BEATRIZ/1234/70990
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9a5f911869cb800d5bcfccfddaf9ff7a.png" ,(1) ESPAÑA | MOVISTAR CINE DOC&ROLL FHD
-http://vplay.club:8888/BEATRIZ/1234/70992
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c6f55680d93e7895c5aa49bdb997619e.png" ,(1) ESPAÑA | #0 SD
-http://vplay.club:8888/BEATRIZ/1234/70993
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/aea24ffb27dcc0cf46728a45939443dd.png" ,(1) ESPAÑA | AMC SD
-http://vplay.club:8888/BEATRIZ/1234/70994
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6c57a067f9952bb0134791fd2622404b.png" ,(1) ESPAÑA | COMEDY CENTRAL SD
-http://vplay.club:8888/BEATRIZ/1234/70998
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/902030112a76102b7f945105bd7da925.png" ,(1) ESPAÑA | COSMO SD
-http://vplay.club:8888/BEATRIZ/1234/70999
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5fd9cbbee4268daa8cd0a8e02a7cc691.png" ,(1) ESPAÑA | DARK FHD
-http://vplay.club:8888/BEATRIZ/1234/71000
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c5e02b326985924052ffe94088a62824.png" ,(1) ESPAÑA | FOX SD
-http://vplay.club:8888/BEATRIZ/1234/71001
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/709aea2bc6134db0df54c2be09ac5f39.png" ,(1) ESPAÑA | FOX LIFE SD
-http://vplay.club:8888/BEATRIZ/1234/71002
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/626ccd32c1a9357f17ce008d8cf0805d.png" ,(1) ESPAÑA | HOLLYWOOD SD
-http://vplay.club:8888/BEATRIZ/1234/71003
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/425418beb13895b2df926f0b4bfe427a.png" ,(1) ESPAÑA | MOVISTAR COMEDIA SD
-http://vplay.club:8888/BEATRIZ/1234/71005
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c7deea8f8b411a64bf974f5643a1cc66.png" ,(1) ESPAÑA | MOVISTAR DRAMA SD
-http://vplay.club:8888/BEATRIZ/1234/71006
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0e9a53bf35fa1be63d6cbb9a4d16b356.png" ,(1) ESPAÑA | MOVISTAR SERIES SD
-http://vplay.club:8888/BEATRIZ/1234/71007
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d209e7fd95ae9c1d8a4434bc9441c249.png" ,(1) ESPAÑA | MOVISTAR SERIESMANIA SD
-http://vplay.club:8888/BEATRIZ/1234/71008
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a5a077502f108cd8804adf298f790247.png" ,(6) ESPAÑA | SYFY 
-http://vplay.club:8888/BEATRIZ/1234/71011
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/81c48cd80fe4ba766d43fddcfeb5d2a1.png" ,(1) ESPAÑA | TCM SD
-http://vplay.club:8888/BEATRIZ/1234/71012
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ed4dd5f732dae69d8eedf3bb26aacf73.png" ,(1) ESPAÑA | TNT SD
-http://vplay.club:8888/BEATRIZ/1234/71013
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/99646d3dd0aba891206b69bc3026aef7.png" ,(1) ESPAÑA | DE CASA SD
-http://vplay.club:8888/BEATRIZ/1234/71014
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" ,(1) ESPAÑA | VIAJAR SD
-http://vplay.club:8888/BEATRIZ/1234/71015
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/99be6b1faad60d9b4b184d36997504fc.png" ,(1) ESPAÑA | COCINA SD
-http://vplay.club:8888/BEATRIZ/1234/71016
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b21dfabdf7f6b04bad032072ac548279.png" ,(1) ESPAÑA | ODISEA FHD
-http://vplay.club:8888/BEATRIZ/1234/71017
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a5f6d4fa78b3bd8e24b93f110152f8ba.png" ,(1) ESPAÑA | CAZA & PESCA FHD
-http://vplay.club:8888/BEATRIZ/1234/71018
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b467cafd52a5d74487ea078884ea0a8e.png" ,(1) ESPAÑA | HISTORIA FHD
-http://vplay.club:8888/BEATRIZ/1234/71020
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b59c032c79b7d1613a2e6814ca8a24c0.png" ,(1) ESPAÑA | DISCOVERY CHANNEL SD
-http://vplay.club:8888/BEATRIZ/1234/71021
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f51a20d367a7a0add0cc4ab39c81bb62.png" ,(1) ESPAÑA | NAT GEO WILD FHD
-http://vplay.club:8888/BEATRIZ/1234/71022
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/64e8745649c2dc426bd4d3c932f35887.png" ,(1) ESPAÑA | NATIONAL GEOGRAFIC FHD
-http://vplay.club:8888/BEATRIZ/1234/71023
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f51a20d367a7a0add0cc4ab39c81bb62.png" ,(1) ESPAÑA | NATGEO WILD SD
-http://vplay.club:8888/BEATRIZ/1234/71024
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/99be6b1faad60d9b4b184d36997504fc.png" ,(1) ESPAÑA | CANAL COCINA SD
-http://vplay.club:8888/BEATRIZ/1234/71027
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" ,(1) ESPAÑA | VIAJAR FHD
-http://vplay.club:8888/BEATRIZ/1234/71029
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/64e8745649c2dc426bd4d3c932f35887.png" ,(1) ESPAÑA | NATIONAL GEOGRAFIC SD
-http://vplay.club:8888/BEATRIZ/1234/71030
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b21dfabdf7f6b04bad032072ac548279.png" ,(1) ESPAÑA | ODISEA SD
-http://vplay.club:8888/BEATRIZ/1234/71031
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b467cafd52a5d74487ea078884ea0a8e.png" ,(1) ESPAÑA | HISTORIA SD
-http://vplay.club:8888/BEATRIZ/1234/71032
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d57d938c756539d7ef828073165b8ba6.png" ,(1) ESPAÑA | IBERALIA TV SD
-http://vplay.club:8888/BEATRIZ/1234/71033
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" ,(1) ESPAÑA | BOING SD
-http://vplay.club:8888/BEATRIZ/1234/71074
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b90344c89a2c3290e12dd80b1e7c08c8.png" ,(1) ESPAÑA | PANDA SD
-http://vplay.club:8888/BEATRIZ/1234/71075
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74c88f3c967009030c1392659e3cdb4a.png" ,(1) ESPAÑA | NICKELEODEON SD
-http://vplay.club:8888/BEATRIZ/1234/71076
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ff177987fe3c3995620dc9ab951ad100.png" ,(1) ESPAÑA | DISNEY CHANNEL FHD
-http://vplay.club:8888/BEATRIZ/1234/71077
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ea8b46a59a57728af346abd8698f4ee3.png" ,(1) ESPAÑA | DISNEY JR SD
-http://vplay.club:8888/BEATRIZ/1234/71078
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png" ,(1) ESPAÑA | NICK JR SD
-http://vplay.club:8888/BEATRIZ/1234/71080
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/337ed01ef1c4a03998626e2329513a9c.png" ,(1) ESPAÑA | BABY TV SD
-http://vplay.club:8888/BEATRIZ/1234/71081
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d0701e031b8ab0056cd8da7660e56d55.png" ,(1) ESPAÑA | CLAN FHD
-http://vplay.club:8888/BEATRIZ/1234/71083
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/1c68f907dbd400977e98e088cd706841.png" ,(1) ESPAÑA | DREAMWORKS FHD
-http://vplay.club:8888/BEATRIZ/1234/71084
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74c88f3c967009030c1392659e3cdb4a.png" ,(1) ESPAÑA | NICKELODEON FHD
-http://vplay.club:8888/BEATRIZ/1234/71085
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ff177987fe3c3995620dc9ab951ad100.png" ,(1) ESPAÑA | DISNEY CHANNEL SD
-http://vplay.club:8888/BEATRIZ/1234/71086
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/1c68f907dbd400977e98e088cd706841.png" ,(1) ESPAÑA | DREAMWORKS SD
-http://vplay.club:8888/BEATRIZ/1234/71087
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" ,(1) ESPAÑA | LA 1 FHD
-http://vplay.club:8888/BEATRIZ/1234/71088
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/815ccfdb46fb52082d6555af078a0073.png" ,(1) ESPAÑA | LA 2 SD
-http://vplay.club:8888/BEATRIZ/1234/71089
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" ,(1) ESPAÑA | LA CUATRO FHD
-http://vplay.club:8888/BEATRIZ/1234/71090
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" ,(1) ESPAÑA | LA SEXTA SD
-http://vplay.club:8888/BEATRIZ/1234/71092
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ebe7530166c75e1c27565cbdecb71acc.png" ,(1) ESPAÑA | ANTENA INTERNACIONAL FHD
-http://vplay.club:8888/BEATRIZ/1234/71093
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5616825a0854f50bc6c2b59c45719417.png" ,(1) ESPAÑA | DIVINITY SD
-http://vplay.club:8888/BEATRIZ/1234/71095
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" ,(1) ESPAÑA | FDF SD
-http://vplay.club:8888/BEATRIZ/1234/71096
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6b85d7c44abed3dd42a91ab19471005b.png" ,(1) ESPAÑA | NEOX TV FHD
-http://vplay.club:8888/BEATRIZ/1234/71097
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" ,(1) ESPAÑA | MEGA FHD
-http://vplay.club:8888/BEATRIZ/1234/71098
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/44c22869e66b31cb475e8d8da996f41c.png" ,(1) ESPAÑA | NOVA FHD
-http://vplay.club:8888/BEATRIZ/1234/71099
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/300b7bbe6ae180152aba9198a9900068.png" ,(1) ESPAÑA | ENERGY SD
-http://vplay.club:8888/BEATRIZ/1234/71100
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/336ed5ff07b7cad34476e74505252dc6.png" ,(1) ESPAÑA | BE MAD SD
-http://vplay.club:8888/BEATRIZ/1234/71101
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/635095121873e7dfd606e4fa75b044f3.png" ,(1) ESPAÑA | DMAX SD
-http://vplay.club:8888/BEATRIZ/1234/71102
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/351a08afc722e7f08db83a3ac7047f87.png" ,(1) ESPAÑA | ATRES SERIES FHD
-http://vplay.club:8888/BEATRIZ/1234/71103
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/46ac188a544ebf52da92dd71717f3cf7.png" ,(1) ESPAÑA | INTERECONOMIA SD
-http://vplay.club:8888/BEATRIZ/1234/71104
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c627964b1ac636f6b546df78e80ee5d4.png" ,(1) ESPAÑA | TEN CHANNEL FHD
-http://vplay.club:8888/BEATRIZ/1234/71105
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" ,(1) ESPAÑA | CANAL ORANGE FHD
-http://vplay.club:8888/BEATRIZ/1234/71106
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" ,(1) ESPAÑA | LA SEXTA FHD
-http://vplay.club:8888/BEATRIZ/1234/71107
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Select_sport_logo.png" ,(1) ESPAÑA | SELEKT FHD
-http://vplay.club:8888/BEATRIZ/1234/71108
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" ,(1) ESPAÑA | CUATRO SD
-http://vplay.club:8888/BEATRIZ/1234/71110
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/82a7a302f98a56c49375720fd32fb78f.png" ,(1) ESPAÑA | DKISS SD
-http://vplay.club:8888/BEATRIZ/1234/71111
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" ,(1) ESPAÑA | LA 1 SD
-http://vplay.club:8888/BEATRIZ/1234/71112
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/815ccfdb46fb52082d6555af078a0073.png" ,(1) ESPAÑA | LA 2 FHD
-http://vplay.club:8888/BEATRIZ/1234/71115
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/300b7bbe6ae180152aba9198a9900068.png" ,(1) ESPAÑA | ENERGY HD
-http://vplay.club:8888/BEATRIZ/1234/71116
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7764f0b7acee2001c3426bcc6116b55b.png" ,(1) ESPAÑA |  FDF HD
-http://vplay.club:8888/BEATRIZ/1234/71117
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5616825a0854f50bc6c2b59c45719417.png" ,(1) ESPAÑA | DIVINITY HD
-http://vplay.club:8888/BEATRIZ/1234/71118
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/add82edf2a13a4e49d04cdf4bb55891d.png" ,(1) ESPAÑA | RT ESPANA FHD
-http://vplay.club:8888/BEATRIZ/1234/71119
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/deb392de629e1b1a7adc66d2437229b3.png" ,(1) ESPAÑA | PORTADA MOVISTAR SD
-http://vplay.club:8888/BEATRIZ/1234/71120
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a77fbe144d90b3dcbe081f6b1bd7162e.png" ,(1) ESPAÑA |  24HRS SD
-http://vplay.club:8888/BEATRIZ/1234/71121
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d856b5fdae89a1d531b16228328bc219.png" ,(1) ESPAÑA | LA OTRA TV FHD
-http://vplay.club:8888/BEATRIZ/1234/71124
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e83b093b76eeb86fe303ae3d57b4168c.png" ,(1) ESPAÑA | CANAL SUR ANDALUCIA FHD
-http://vplay.club:8888/BEATRIZ/1234/71125
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f8b1ec92a83ea3ca4b8eb9fc24997da1.png" ,(1) ESPAÑA | EXTREMADURA FHD
-http://vplay.club:8888/BEATRIZ/1234/71126
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5ed3515aa4ccd971c7cd5bcc0c5dc11c.png" ,(1) ESPAÑA | TELEMADRID FHD
-http://vplay.club:8888/BEATRIZ/1234/71127
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0885f8be5f8a27f7db7c084889cda856.png" ,(1) ESPAÑA | TV GALICIA FHD
-http://vplay.club:8888/BEATRIZ/1234/71128
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/072bca10a60424c16fb5ba1fc78ccae2.png" ,(1) ESPAÑA | A PUNT FHD
-http://vplay.club:8888/BEATRIZ/1234/71129
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4cb7cc032b3402ae5d7716ae63cdc4a9.png" ,(1) ESPAÑA | LA 7 TV SD
-http://vplay.club:8888/BEATRIZ/1234/71130
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" ,(3) ESPAÑA | LA 2 (OPC 1)
-http://vplay.club:8888/BEATRIZ/1234/72237
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" ,(3) ESPAÑA | LA 2 (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72238
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" ,(3) ESPAÑA | LA 2 (OPC 3)
-http://vplay.club:8888/BEATRIZ/1234/72239
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" ,(3) ESPAÑA | LA 2 CATALUNYA
-http://vplay.club:8888/BEATRIZ/1234/72415
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" ,(3) ESPAÑA | LA 2 CATALUNYA
-http://vplay.club:8888/BEATRIZ/1234/72416
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f35ee4b9a8bda42c67de4d02f93205ab.png" ,(3) ESPAÑA | EL TORO TV
-http://vplay.club:8888/BEATRIZ/1234/72241
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/608543a87ec5b69f973a5234b94f6e78.png" ,(3) ESPAÑA | MTMAD 24H
-http://vplay.club:8888/BEATRIZ/1234/72242
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/199c649ea110e7d48e585838620ff062.png" ,(3) ESPAÑA | 24H
-http://vplay.club:8888/BEATRIZ/1234/72244
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/199c649ea110e7d48e585838620ff062.png" ,(3) ESPAÑA | 24H (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72245
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/199c649ea110e7d48e585838620ff062.png" ,(3) ESPAÑA | 24H CANARIAS
-http://vplay.club:8888/BEATRIZ/1234/72361
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/199c649ea110e7d48e585838620ff062.png" ,(3) ESPAÑA | 24H : CATALUNYA 
-http://vplay.club:8888/BEATRIZ/1234/72417
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f728f56e230b50b9c2013357442d8dde.png" ,(3) ESPAÑA | 24H ONDA CÁDIZ 
-http://vplay.club:8888/BEATRIZ/1234/72349
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b090a06bdde9d478e8d068fd5c5cccdc.png" ,(3) ESPAÑA | NIUS HD
-http://vplay.club:8888/BEATRIZ/1234/72246
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b090a06bdde9d478e8d068fd5c5cccdc.png" ,(3) ESPAÑA | NIUS SD
-http://vplay.club:8888/BEATRIZ/1234/72247
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9c45e4227a62794f69ba71f46f370b0e.png" ,(3) ESPAÑA | EURONEWS
-http://vplay.club:8888/BEATRIZ/1234/72248
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/02996e361be0434b3a0d9b785cd445f5.png" ,(3) ESPAÑA | EL SEMBRADOR TV EUROPA
-http://vplay.club:8888/BEATRIZ/1234/72790
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/93edfeaa2e6f6200a774c23b332b5065.png" ,(3) ESPAÑA | ESPORT 3
-http://vplay.club:8888/BEATRIZ/1234/72255
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/cb5ac6d56be633a116fa378e5214e6a8.png" ,(3) ESPAÑA | ARAGÓN TV
-http://vplay.club:8888/BEATRIZ/1234/72354
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a2bd22a1acbced54e7f9960c117de04b.png" ,(3) ESPAÑA | CLAN GEO (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72261
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f0c88d74b1217c5c607291468708651e.png" ,(3) ESPAÑA | PEQUERADIO TV
-http://vplay.club:8888/BEATRIZ/1234/72263
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bffcdf99283530027ef7cef5922f56c8.png" ,(3) ESPAÑA | +24
-http://vplay.club:8888/BEATRIZ/1234/72267
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bffcdf99283530027ef7cef5922f56c8.png" ,(3) ESPAÑA | +24 (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72266
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/383119cc82fd3f63679274f7322904be.png" ,(3) ESPAÑA | CANAL PARLAMENTO
-http://vplay.club:8888/BEATRIZ/1234/72276
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4162b22f5558adb29e1389a013eaa92e.png" ,(3) ESPAÑA | CONGRESO DE LOS DIPUTADOS
-http://vplay.club:8888/BEATRIZ/1234/72281
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4162b22f5558adb29e1389a013eaa92e.png" ,(3) ESPAÑA | CONGRESO DE LOS DIPUTADOS (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72280
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/4162b22f5558adb29e1389a013eaa92e.png" ,(3) ESPAÑA | CONGRESO DE LOS DIPUTADOS (OPC 3)
-http://vplay.club:8888/BEATRIZ/1234/72279
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/50f149f4aa6de3a5694aee2bccd65142.png" ,(3) ESPAÑA | RADIO 3
-http://vplay.club:8888/BEATRIZ/1234/72285
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/239f2a66761f3d4e100731397dd92bdc.png" ,(3) ESPAÑA | PARLAMENTO DE ANDALUCÍA
-http://vplay.club:8888/BEATRIZ/1234/72353
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/239f2a66761f3d4e100731397dd92bdc.png" ,(3) ESPAÑA | PARLAMENTO DE ANDALUCÍA (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72352
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c444438e10488c39535ecd78b9b129f5.png" ,(3) ESPAÑA | 101 TV MALÁGA
-http://vplay.club:8888/BEATRIZ/1234/72302
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c58aa8573c65b356b6bc70950a9163ae.png" ,(3) ESPAÑA | 101 TELE ANTEQUERA
-http://vplay.club:8888/BEATRIZ/1234/72346
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9363c432728b8bf6bf28a0aea69ce66a.png" ,(3) ESPAÑA | WEBCAM ONDAMADRID
-http://vplay.club:8888/BEATRIZ/1234/72490
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9363c432728b8bf6bf28a0aea69ce66a.png" ,(3) ESPAÑA | WECAM ONDAMADRID (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/72489
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d4fbf97a81ebba87225f3496eec1deb2.png" ,(3) ESPAÑA | ONDA MEZQUITA 7 TV 
-http://vplay.club:8888/BEATRIZ/1234/72325
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/df9da4480472eaa6b041a4eec823fd33.png" ,(3) ESPAÑA | ONDA ALGECIRAS TV
-http://vplay.club:8888/BEATRIZ/1234/72321
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d52f75b31e2f7cce385871b9d0fabfc4.png" ,(3) ESPAÑA | M95 MARBELLA
-http://vplay.club:8888/BEATRIZ/1234/72305
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e575cabc79976218bc2a894abc67a5a9.png" ,(3) ESPAÑA | HUELVA TV
-http://vplay.club:8888/BEATRIZ/1234/72306
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ae82017a06f894f150008928738d6ed9.png" ,(3) ESPAÑA | CANAL SAN ROQUE 
-http://vplay.club:8888/BEATRIZ/1234/72320
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/3c57151db69b483ac9a920d1777070ef.png" ,(3) ESPAÑA | MIJAS 3.40 TV
-http://vplay.club:8888/BEATRIZ/1234/72303
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/50cc45727fbe1afc190657095fe183b5.png" ,(3) ESPAÑA | CANAL SIERRA DE CADIZ SD
-http://vplay.club:8888/BEATRIZ/1234/72309
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/50cc45727fbe1afc190657095fe183b5.png" ,(3) ESPAÑA | CANAL SIERRA DE CADIZ  HD
-http://vplay.club:8888/BEATRIZ/1234/72308
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/50cc45727fbe1afc190657095fe183b5.png" ,(3) ESPAÑA | CANAL SIERRA DE CADIZ HD
-http://vplay.club:8888/BEATRIZ/1234/72307
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/efb57642f977fdf98661c9081ad2a131.png" ,(3) ESPAÑA | PTV MALÁGA
-http://vplay.club:8888/BEATRIZ/1234/72311
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/efb57642f977fdf98661c9081ad2a131.png" ,(3) ESPAÑA | PTV SEVILLA
-http://vplay.club:8888/BEATRIZ/1234/72342
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/efb57642f977fdf98661c9081ad2a131.png" ,(3) ESPAÑA | PTV CÓRDOBA
-http://vplay.club:8888/BEATRIZ/1234/72341
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/efb57642f977fdf98661c9081ad2a131.png" ,(3) ESPAÑA | PTV GRANADA
-http://vplay.club:8888/BEATRIZ/1234/72336
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/efb57642f977fdf98661c9081ad2a131.png" ,(3) ESPAÑA | PTV LINARES
-http://vplay.club:8888/BEATRIZ/1234/72326
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/00e4aa852f4e87f3df5118b9cd5de275.png" ,(3) ESPAÑA | CÓRDOBA TV
-http://vplay.club:8888/BEATRIZ/1234/72312
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/42509b390cb9c1907ba06fb93d6d6d7a.png" ,(3) ESPAÑA | COSTADELSOLTV
-http://vplay.club:8888/BEATRIZ/1234/72331
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/3bdb33c686c83621e8b7bba39b418f6c.png" ,(3) ESPAÑA | CANALCOSTA
-http://vplay.club:8888/BEATRIZ/1234/72316
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/1eacbbaf201648d44c2e5e1fca8c146c.png" ,(3) ESPAÑA | COSTA NOROESTE TV
-http://vplay.club:8888/BEATRIZ/1234/72313
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c10854672aef50767e503e963233acdb.png" ,(3) ESPAÑA | TELE 7
-http://vplay.club:8888/BEATRIZ/1234/72556
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b73c17a6923050248529ec66384de877.png" ,(3) ESPAÑA | TELEVIGO
-http://vplay.club:8888/BEATRIZ/1234/72544
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a019dd8c7e9b3ad2e659f36f16208daa.png" ,(3) ESPAÑA | TELEVISIÓN DE ALICANTE 
-http://vplay.club:8888/BEATRIZ/1234/72525
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ccdcdde923be397067d0bb238be82861.png" ,(3) ESPAÑA | TELESAFOR
-http://vplay.club:8888/BEATRIZ/1234/72516
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/2353c30def307e3aa29663f8ded57536.png" ,(3) ESPAÑA | 7 TELEVALENCIA 
-http://vplay.club:8888/BEATRIZ/1234/72504
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a49437c2f52737893a0d85513ef28f1f.png" ,(3) ESPAÑA | XALOA TELEBISTA 
-http://vplay.club:8888/BEATRIZ/1234/72500
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/2029385fc169ec12c4363abe1fd41bc8.png" ,(3) ESPAÑA | TELERIBERA 
-http://vplay.club:8888/BEATRIZ/1234/72499
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5ed3515aa4ccd971c7cd5bcc0c5dc11c.png" ,(3) ESPAÑA | TELEMADRID 
-http://vplay.club:8888/BEATRIZ/1234/72487
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/987193e5121e0818479d15b0fd28ffeb.png" ,(3) ESPAÑA | ISLATEL 
-http://vplay.club:8888/BEATRIZ/1234/72340
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/8eab3a5e2f32c6826492bd396d5b6bfc.png" ,(3) ESPAÑA | TELEGILENA 
-http://vplay.club:8888/BEATRIZ/1234/72337
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d213c8ca53d9209e95ac91d90dee7f28.png" ,(3) ESPAÑA | TELEONUBA
-http://vplay.club:8888/BEATRIZ/1234/72314
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6dc64f5c61675351d90268e2cece9d4f.png" ,(3) ESPAÑA | TRECE
-http://vplay.club:8888/BEATRIZ/1234/72240
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/43d6beef147a1846b17c65e726889b97.png" ,(4) ESPAÑA | ODISEA
-http://vplay.club:8888/BEATRIZ/1234/49785
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74125480be0cd8919f15ce22aed2ca65.png" ,(3) ESPAÑA | RELIGION COPE ESPAÑA
-http://vplay.club:8888/BEATRIZ/1234/72786
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b7b5c13df838adc51f5a71308b6d225e.png" ,(1) ESPAÑA | CANAL EXTREMADURA TV
-http://vplay.club:8888/BEATRIZ/1234/49947
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ba398949f0f86a825c61081aae68ec82.png" ,(4) ESPAÑA | MEZZO FHD
-http://vplay.club:8888/BEATRIZ/1234/49939
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ba398949f0f86a825c61081aae68ec82.png" ,(4) ESPAÑA | MEZZO HD
-http://vplay.club:8888/BEATRIZ/1234/49938
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a5c416a8ae34a88ddc8f403a8c4e3d91.png" ,(4) ESPAÑA | COMEDY CENTRAL HD
-http://vplay.club:8888/BEATRIZ/1234/49806
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/43d6beef147a1846b17c65e726889b97.png" ,(4) ESPAÑA | ODISEA HD
-http://vplay.club:8888/BEATRIZ/1234/49786
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6a2970f47c88539526d140429d77e61a.png" ,(3) ESPAÑA | EL TORO VALENCIA TV
-http://vplay.club:8888/BEATRIZ/1234/72524
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a6d48c948a046483947fd09770990ae3.png" ,(3) ESPAÑA | TELETOLEDO 
-http://vplay.club:8888/BEATRIZ/1234/72380
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/42d74acb3009e5c2a37563564d61a42a.png" ,(3) ESPAÑA | ONDA CÁDIZ
-http://vplay.club:8888/BEATRIZ/1234/72304
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/55315c4d479ca8ffbfcaf7e811ef8ab6.png" ,(3) ESPAÑA | TELEMOTRIL
-http://vplay.club:8888/BEATRIZ/1234/72329
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/35e1b11ee5382d17d25615f5ff31a989.png" ,(1) ESPAÑA | VH1 SD
-http://vplay.club:8888/BEATRIZ/1234/71131
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/44c22869e66b31cb475e8d8da996f41c.png" ,(1) ESPAÑA | NOVA FHD
-http://vplay.club:8888/BEATRIZ/1234/49784
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c36571cb9c817673f35b52f859d1f5e0.png" ,(1) ESPAÑA | COSMO HD
-http://vplay.club:8888/BEATRIZ/1234/49814
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/1c68f907dbd400977e98e088cd706841.png" ,(1) ESPAÑA | M. DREAMWORKS
-http://vplay.club:8888/BEATRIZ/1234/49933
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5e43542c58ad9ebdacc5817b68485005.png" ,(1) ESPAÑA | MOVISTAR CRIMEN SD
-http://vplay.club:8888/BEATRIZ/1234/71009
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/fa30209437fe95ecbaede43789fa6b6d.png" ,(3) ESPAÑA | HISPAN TV
-http://vplay.club:8888/BEATRIZ/1234/49770
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ddf2849b1c40c5b6c88d50fdcaa095f8.png" tvg-id="natgeowild.es" ,(5) ESPAÑA | NAT GEO WILD HD
-http://vplay.club:8888/BEATRIZ/1234/97000
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5fd9cbbee4268daa8cd0a8e02a7cc691.png" tvg-id="dark.es" ,(5) ESPAÑA | DARK FHD
-http://vplay.club:8888/BEATRIZ/1234/95020
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" tvg-id="la1.es" ,(5) ESPAÑA | LA 1 HD
-http://vplay.club:8888/BEATRIZ/1234/96974
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" tvg-id="la2.es" ,(5) ESPAÑA  | La 2 HD
-http://vplay.club:8888/BEATRIZ/1234/96975
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" tvg-id="cuatro.es" ,(5) ESPAÑA | CUATRO HD
-http://vplay.club:8888/BEATRIZ/1234/96977
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" tvg-id="lasexta.es" ,(5) ESPAÑA | LA SEXTA HD
-http://vplay.club:8888/BEATRIZ/1234/96979
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/cb5ac6d56be633a116fa378e5214e6a8.png" ,(5) ESPAÑA | ARAGON TV HD
-http://vplay.club:8888/BEATRIZ/1234/96980
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a02108687756369d59d5e8c8e4f740d1.png" ,(5) ESPAÑA | ANDALUCIA TV HD
-http://vplay.club:8888/BEATRIZ/1234/96981
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e5b8fd14afb4d147a782ccac47c594a8.png" tvg-id="bemad.es" ,(5) ESPAÑA  | BEMAD HD
-http://vplay.club:8888/BEATRIZ/1234/96982
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f3171dccfa295daf1aef58757c72f5da.png" tvg-id="blaze.es" ,(5) ESPAÑA | BLAZE HD
-http://vplay.club:8888/BEATRIZ/1234/96983
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/337ed01ef1c4a03998626e2329513a9c.png" tvg-id="babytv.es" ,(5) ESPAÑA | BABY TV HD
-http://vplay.club:8888/BEATRIZ/1234/96984
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" tvg-id="boing.es" ,(5) ESPAÑA | BOING HD
-http://vplay.club:8888/BEATRIZ/1234/96985
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e83b093b76eeb86fe303ae3d57b4168c.png" ,(5) ESPAÑA | CANAL SUR
-http://vplay.club:8888/BEATRIZ/1234/96986
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e284dbe008e08e0ebdbb0d6783a129f2.png" tvg-id="canalpanda.es" ,(5) ESPAÑA | CANAL PANDA
-http://vplay.club:8888/BEATRIZ/1234/96987
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/99be6b1faad60d9b4b184d36997504fc.png" tvg-id="canalcocina.es" ,(5) ESPAÑA | CANAL COCINA HD
-http://vplay.club:8888/BEATRIZ/1234/96988
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a8b11551a6ffbcfdf4bf98e7d6d57d39.png" tvg-id="canaldecasa.es" ,(5) ESPAÑA | CANAL DECASA HD
-http://vplay.club:8888/BEATRIZ/1234/96989
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0cac6d320bdb92b5f3e20b04abf6f03f.png" tvg-id="cazapesca.es" ,(5) ESPAÑA | CAZA Y PESCA HD
-http://vplay.club:8888/BEATRIZ/1234/96990
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9fc4b825fb113de0b2e5ad1248198ab7.png" tvg-id="clantve.es" ,(5) ESPAÑA | CLAN TV HD
-http://vplay.club:8888/BEATRIZ/1234/96991
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c36571cb9c817673f35b52f859d1f5e0.png" tvg-id="cosmo.es" ,(5) ESPAÑA | COSMO HD
-http://vplay.club:8888/BEATRIZ/1234/96992
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/cc513c50b72a192ce555dd2914067e09.png" tvg-id="disneyxd.es" ,(5) ESPAÑA | DISNEY XD HD
-http://vplay.club:8888/BEATRIZ/1234/96993
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5b494de62b3e12c547a20c3cac2cc946.png" tvg-id="dkiss.es" ,(5) ESPAÑA | DKISS TV HD
-http://vplay.club:8888/BEATRIZ/1234/96994
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b467cafd52a5d74487ea078884ea0a8e.png" tvg-id="historia.es" ,(5) ESPAÑA | HISTORIA SD
-http://vplay.club:8888/BEATRIZ/1234/96995
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d57d938c756539d7ef828073165b8ba6.png" ,(5) ESPAÑA | IBERALIA TV SD
-http://vplay.club:8888/BEATRIZ/1234/96996
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" ,(5) ESPAÑA | NAT GEO HD
-http://vplay.club:8888/BEATRIZ/1234/96997
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/f3385fd6af94c408d4233dcbb4ee9ec8.png" ,(5) ESPAÑA | DISCOVERY CHANNEL HD
-http://vplay.club:8888/BEATRIZ/1234/96998
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/858fcaca2c67da444492e796e3cb8678.png" ,(5) ESPAÑA | TVE INTERNACIONAL HD
-http://vplay.club:8888/BEATRIZ/1234/96999
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png" tvg-id="nickjr.es" ,(5) ESPAÑA | NICK JR HD
-http://vplay.club:8888/BEATRIZ/1234/97001
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/74c88f3c967009030c1392659e3cdb4a.png" tvg-id="nickelodeon.es" ,(5) ESPAÑA | NICKELODEON HD
-http://vplay.club:8888/BEATRIZ/1234/97002
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7c127ba2c4155d97888c1cae393dac4c.png" tvg-id="nova.es" ,(5) ESPAÑA | NOVA HD
-http://vplay.club:8888/BEATRIZ/1234/97003
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6dc64f5c61675351d90268e2cece9d4f.png" ,(5) ESPAÑA | TRECE TV HD
-http://vplay.club:8888/BEATRIZ/1234/97004
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/cff8e6d2b12404bd3a44ee006d22de72.png" ,(5) ESPAÑA | CANAL 0 HD
-http://vplay.club:8888/BEATRIZ/1234/97005
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" tvg-id="mega.es" ,(5) ESPAÑA | MEGA HD
-http://vplay.club:8888/BEATRIZ/1234/97006
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24b86aab2c6ee94678aca1afbede5575.png" tvg-id="mtv.es" ,(5) ESPAÑA | MTV HD
-http://vplay.club:8888/BEATRIZ/1234/97007
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/71816970b13739fc1e0f4c2a90f00198.png" tvg-id="odisea.es" ,(5) ESPAÑA | Odisea HD
-http://vplay.club:8888/BEATRIZ/1234/97008
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b7b5c13df838adc51f5a71308b6d225e.png" ,(5) ESPAÑA | CANAL EXTREMADURA
-http://vplay.club:8888/BEATRIZ/1234/97009
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/c83de5a2c80180b3c900011769f360e2.png" ,(5) ESPAÑA | CANAL MALAGANA
-http://vplay.club:8888/BEATRIZ/1234/97010
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/84c2cffae25bbe1ccc6516c22ab296dd.png" ,(5) ESPAÑA | TV3 CATALUNYA
-http://vplay.club:8888/BEATRIZ/1234/97011
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d7da24acb8128b9ddb63162601b9e0e0.png" ,(5) ESPAÑA | DISTRITO TV
-http://vplay.club:8888/BEATRIZ/1234/97012
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" tvg-id="boing.es" ,(5) ESPAÑA | BOING HD
-http://vplay.club:8888/BEATRIZ/1234/97013
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" tvg-id="boing.es" ,(5) ESPAÑA | BOING
-http://vplay.club:8888/BEATRIZ/1234/97014
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/5ed3515aa4ccd971c7cd5bcc0c5dc11c.png" ,(5) ESPAÑA | TELEMADRID
-http://vplay.club:8888/BEATRIZ/1234/97015
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/cb5ac6d56be633a116fa378e5214e6a8.png" ,(5) ESPAÑA |  ARAGON TV
-http://vplay.club:8888/BEATRIZ/1234/97016
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/38fb12bb331aa9ef9738bf617ecfc89d.png" tvg-id="disneychannel.es" ,(5) ESPAÑA | DISNEY CHANNEL FHD
-http://vplay.club:8888/BEATRIZ/1234/97017
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/38fb12bb331aa9ef9738bf617ecfc89d.png" tvg-id="disneychannel.es" ,(5) ESPAÑA | DISNEY CHANNEL HD
-http://vplay.club:8888/BEATRIZ/1234/97018
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e87c53b5a46db75352c69984ddcedea8.png" tvg-id="disneyjunior.es" ,(5) ESPAÑA | DISNEY JUNIOR HD
-http://vplay.club:8888/BEATRIZ/1234/97019
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/0132b7e8c384c95434aa85d4e871f64c.png" ,(5) ESPAÑA  | CANAL CGTN Español
-http://vplay.club:8888/BEATRIZ/1234/97020
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" tvg-id="viajar.es" ,(5) ESPAÑA | VIAJAR HD
-http://vplay.club:8888/BEATRIZ/1234/97021
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/3311a46adf4b95fd6cc6f9f658ae5b45.png" tvg-id="crimeinvestigation.es" ,(5) ESPAÑA | CRIMEN & INVESTIGACION
-http://vplay.club:8888/BEATRIZ/1234/97022
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/28961ea25ef62864e64086e8242bdd6c.png" ,(5) ESPAÑA | CAZAVISION FHD
-http://vplay.club:8888/BEATRIZ/1234/97023
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" tvg-id="cuatro.es" ,(5) ESPAÑA | CUATRO HD OPC 2
-http://vplay.club:8888/BEATRIZ/1234/97026
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" tvg-id="lasexta.es" ,(5) ESPAÑA | LA SEXTA HD OPC 2
-http://vplay.club:8888/BEATRIZ/1234/97027
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" tvg-id="la1.es" ,(5) ESPAÑA | LA 1 HD
-http://vplay.club:8888/BEATRIZ/1234/97028
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" ,(5) ESPAÑA | LA 1 FHD
-http://vplay.club:8888/BEATRIZ/1234/97029
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b5819e4a85dee106817fd76e19f89299.png" tvg-id="la1.es" ,(5) ESPAÑA | LA 1 SD
-http://vplay.club:8888/BEATRIZ/1234/97030
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" tvg-id="la2.es" ,(5) ESPAÑA | LA 2 HD
-http://vplay.club:8888/BEATRIZ/1234/97031
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" tvg-id="la2.es" ,(5) ESPAÑA | LA 2 FHD
-http://vplay.club:8888/BEATRIZ/1234/97032
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/e2ccd7d00d33aaf7bef3c65da8f82d8b.png" tvg-id="la2.es" ,(5) ESPAÑA | LA 2 SD
-http://vplay.club:8888/BEATRIZ/1234/97033
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/56599d64de09cf11ccb9c65b17c8c775.png" tvg-id="antena3.es" ,(5) ESPAÑA | ANTENA 3 HD
-http://vplay.club:8888/BEATRIZ/1234/97034
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" tvg-id="cuatro.es" ,(5) ESPAÑA | CUATRO HD
-http://vplay.club:8888/BEATRIZ/1234/97037
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" tvg-id="cuatro.es" ,(5) ESPAÑA | CUATRO FHD
-http://vplay.club:8888/BEATRIZ/1234/97038
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/97730af0f4ef2df7fd3dbfad20c866fb.png" tvg-id="cuatro.es" ,(5) ESPAÑA | CUATRO SD
-http://vplay.club:8888/BEATRIZ/1234/97039
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" tvg-id="lasexta.es" ,(5) ESPAÑA | LA SEXTA HD
-http://vplay.club:8888/BEATRIZ/1234/97043
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" tvg-id="lasexta.es" ,(5) ESPAÑA | LA SEXTA FHD
-http://vplay.club:8888/BEATRIZ/1234/97044
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/bf03de22a08f3f0bc57eb17c072d5a59.png" tvg-id="lasexta.es" ,(5) ESPAÑA | LA SEXTA SD
-http://vplay.club:8888/BEATRIZ/1234/97045
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7764f0b7acee2001c3426bcc6116b55b.png" tvg-id="telecinco.es" ,(5) ESPAÑA | FDF HD
-http://vplay.club:8888/BEATRIZ/1234/97046
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7764f0b7acee2001c3426bcc6116b55b.png" tvg-id="telecinco.es" ,(5) ESPAÑA | FDF FHD
-http://vplay.club:8888/BEATRIZ/1234/97047
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7764f0b7acee2001c3426bcc6116b55b.png" tvg-id="telecinco.es" ,(5) ESPAÑA | FDF SD
-http://vplay.club:8888/BEATRIZ/1234/97048
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/6dc64f5c61675351d90268e2cece9d4f.png" ,(5) ESPAÑA | TRECE TV
-http://vplay.club:8888/BEATRIZ/1234/97049
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/2084d1464eaf1aa13eb49c24743adb76.png" tvg-id="energy.es" ,(5) ESPAÑA | ENERGY HD
-http://vplay.club:8888/BEATRIZ/1234/97050
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/2084d1464eaf1aa13eb49c24743adb76.png" tvg-id="energy.es" ,(5) ESPAÑA | ENERGY FHD
-http://vplay.club:8888/BEATRIZ/1234/97051
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/80742dd5c0ac141a078399f3f21c3674.png" tvg-id="energy.es" ,(5) ESPAÑA | ENERGY SD
-http://vplay.club:8888/BEATRIZ/1234/97052
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b440b05c921ac2991cc88559b4044f7d.png" ,(5) ESPAÑA | PARAMOUNT NETWORK HD
-http://vplay.club:8888/BEATRIZ/1234/97053
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b440b05c921ac2991cc88559b4044f7d.png" ,(5) ESPAÑA | PARAMOUNT NETWORK HD
-http://vplay.club:8888/BEATRIZ/1234/97054
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7c127ba2c4155d97888c1cae393dac4c.png" tvg-id="nova.es" ,(5) ESPAÑA | NOVA HD
-http://vplay.club:8888/BEATRIZ/1234/97055
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7c127ba2c4155d97888c1cae393dac4c.png" tvg-id="nova.es" ,(5) ESPAÑA | NOVA FHD
-http://vplay.club:8888/BEATRIZ/1234/97056
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/59a4648db13e54245a50db9500ec778e.png" tvg-id="nova.es" ,(5) ESPAÑA | NOVA SD
-http://vplay.club:8888/BEATRIZ/1234/97057
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" tvg-id="divinity.es" ,(5) ESPAÑA | DIVINITY HD
-http://vplay.club:8888/BEATRIZ/1234/97058
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" tvg-id="divinity.es" ,(5) ESPAÑA | DIVINITY FHD
-http://vplay.club:8888/BEATRIZ/1234/97059
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d2f057b5be21c647944a6c01293e05f1.png" tvg-id="divinity.es" ,(5) ESPAÑA | DIVINITY SD
-http://vplay.club:8888/BEATRIZ/1234/97060
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" tvg-id="mega.es" ,(5) ESPAÑA | MEGA HD
-http://vplay.club:8888/BEATRIZ/1234/97061
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" tvg-id="mega.es" ,(5) ESPAÑA | MEGA FHD
-http://vplay.club:8888/BEATRIZ/1234/97062
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b98991087f0f5f55802845ee9ba541d0.png" tvg-id="mega.es" ,(5) ESPAÑA | MEGA SD
-http://vplay.club:8888/BEATRIZ/1234/97063
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a19bfe59e5e7573cd6a3f465b95dc9b4.png" tvg-id="neox.es" ,(5) ESPAÑA | NEOX HD
-http://vplay.club:8888/BEATRIZ/1234/97064
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a19bfe59e5e7573cd6a3f465b95dc9b4.png" tvg-id="neox.es" ,(5) ESPAÑA | NEOX FHD
-http://vplay.club:8888/BEATRIZ/1234/97065
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/a19bfe59e5e7573cd6a3f465b95dc9b4.png" tvg-id="neox.es" ,(5) ESPAÑA | NEOX SD
-http://vplay.club:8888/BEATRIZ/1234/97066
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9b2a4470cf0399079d752a701638f747.png" tvg-id="bemad.es" ,(5) ESPAÑA | BE MAD HD
-http://vplay.club:8888/BEATRIZ/1234/97067
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9b2a4470cf0399079d752a701638f747.png" tvg-id="bemad.es" ,(5) ESPAÑA | BE MAD FHD
-http://vplay.club:8888/BEATRIZ/1234/97068
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/9b2a4470cf0399079d752a701638f747.png" tvg-id="bemad.es" ,(5) ESPAÑA | BE MAD SD
-http://vplay.club:8888/BEATRIZ/1234/97069
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" tvg-id="boing.es" ,(5) ESPAÑA | BOING HD
-http://vplay.club:8888/BEATRIZ/1234/97070
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" tvg-id="boing.es" ,(5) ESPAÑA | BOING FHD
-http://vplay.club:8888/BEATRIZ/1234/97071
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/24ec4da163bfe4407e16bcce0afd1207.png" tvg-id="boing.es" ,(5) ESPAÑA | BOING SD
-http://vplay.club:8888/BEATRIZ/1234/97072
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" tvg-id="viajar.es" ,(5) ESPAÑA | VIAJAR HD*
-http://vplay.club:8888/BEATRIZ/1234/97073
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" tvg-id="viajar.es" ,(5) ESPAÑA  | VIAJAR FHD
-http://vplay.club:8888/BEATRIZ/1234/97074
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/ef6ca58028001a602830c3993a8a258b.png" tvg-id="viajar.es" ,(5) ESPAÑA  | VIAJAR SD
-http://vplay.club:8888/BEATRIZ/1234/97075
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d05229e76b30601ae4f4786c076cf22f.png" ,(5) ESPAÑA | TVG
-http://vplay.club:8888/BEATRIZ/1234/97076
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7ebbcd29964f5881c5ba00318e025a94.png" ,(5) ESPAÑA |  24 HORAS
-http://vplay.club:8888/BEATRIZ/1234/97077
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/886d57bd7c58e7509819ecc230950448.png" tvg-id="hollywood.es" ,(5) ESPAÑA | HOLLYWOOD SD
-http://vplay.club:8888/BEATRIZ/1234/98211
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/b0b8ecf3da4fc45bc172243e6ba0fa44.png" tvg-id="ten.es" ,(5) ESPAÑA | TEN
-http://vplay.club:8888/BEATRIZ/1234/98280
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/facd9f63d69c1415d15c4fc7b419d43a.png" tvg-id="dmax.es" ,(5) ESPAÑA | DMAX
-http://vplay.club:8888/BEATRIZ/1234/98281
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/8fadcb5a7ae5400552bd598886355c35.png" tvg-id="odisea.es" ,(5) ESPAÑA | ODISEA FHD
-http://vplay.club:8888/BEATRIZ/1234/98286
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/fbca8812bfbd0d3125ee052d6b2e1291.png" ,(5) ESPAÑA | ANTENA 3 INTERNACIONAL FHD
-http://vplay.club:8888/BEATRIZ/1234/98744
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/7060d03c921202246ecdb4c0e28439d4.png" ,(1) ESPAÑA | CALLE 13 FHD
-http://vplay.club:8888/BEATRIZ/1234/70966
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://vplay.club:8888/images/d6cd745dedc4040298da55fc3ffab928.png" ,(4) ESPAÑA | M. F1
-http://vplay.club:8888/BEATRIZ/1234/47488
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA |  LALIGA TV HD
-http://vplay.club:8888/BEATRIZ/1234/97079
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR LIGA DE CAMPEONES HD
-http://vplay.club:8888/BEATRIZ/1234/97080
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR LALIGA  HD
-http://vplay.club:8888/BEATRIZ/1234/97081
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3825c6f1bac9e18bc07d611b80e758c6.png" ,(5) ESPAÑA | EUROSPORT 1 HD
-http://vplay.club:8888/BEATRIZ/1234/97082
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3825c6f1bac9e18bc07d611b80e758c6.png" ,(5) ESPAÑA | EUROSPORT 2 HD
-http://vplay.club:8888/BEATRIZ/1234/97083
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR DEPORTES HD
-http://vplay.club:8888/BEATRIZ/1234/97084
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR FORMULA 1 HD
-http://vplay.club:8888/BEATRIZ/1234/97085
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/9821205f01e60bbc0deebdf6fe255806.png" tvg-id="toros.es" ,(5) ESPAÑA | TOROS TV HD
-http://vplay.club:8888/BEATRIZ/1234/97087
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR GOLF  HD
-http://vplay.club:8888/BEATRIZ/1234/97089
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/d8763580b2a217689d53509f2638f5c1.png" ,(5) ESPAÑA | MOVISTAR F1 FHD
-http://vplay.club:8888/BEATRIZ/1234/97092
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/4759fe4b5babd9ebfef99ceb1a6e9702.png" ,(5) ESPAÑA | BARCA TV
-http://vplay.club:8888/BEATRIZ/1234/97093
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA  | MOVISTAR LALIGA
-http://vplay.club:8888/BEATRIZ/1234/97095
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3ae4ad899a5f43af18a47c099f47f57d.png" ,(5) ESPAÑA | BEINSPORT LALIGA HD  ( SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97096
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/b73921b3779718e66aa63c519a1b62e3.png" tvg-id="vamos.es" ,(5) ESPAÑA | VAMOS HD
-http://vplay.club:8888/BEATRIZ/1234/97098
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/c33f1ce00a57b589cd8db62ebcea7524.png" ,(5) ESPAÑA | REAL MADRID TV FHD
-http://vplay.club:8888/BEATRIZ/1234/97099
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR GOLF
-http://vplay.club:8888/BEATRIZ/1234/97100
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/c0f58b881813364cd5d8eddb560b87ba.png" tvg-id="gol.es" ,(5) ESPAÑA | GOL TV
-http://vplay.club:8888/BEATRIZ/1234/97102
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/922ea1757ebd83045a08d03fa3082ac0.png" ,(5) ESPAÑA | MOVISTAR LALIGA
-http://vplay.club:8888/BEATRIZ/1234/97106
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA |  LALIGA HD
-http://vplay.club:8888/BEATRIZ/1234/97107
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/c33f1ce00a57b589cd8db62ebcea7524.png" ,(5) ESPAÑA | +REAL MADRID TV
-http://vplay.club:8888/BEATRIZ/1234/97109
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/b73921b3779718e66aa63c519a1b62e3.png" tvg-id="vamos.es" ,(5) ESPAÑA | #VAMOS HD
-http://vplay.club:8888/BEATRIZ/1234/97111
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/b73921b3779718e66aa63c519a1b62e3.png" tvg-id="vamos.es" ,(5) ESPAÑA | VAMOS
-http://vplay.club:8888/BEATRIZ/1234/97112
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/dcf12bce9993103f40d532f9b18ff71b.png" tvg-id="teledeporte.es" ,(5) ESPAÑA | TELEDEPORTE HD
-http://vplay.club:8888/BEATRIZ/1234/97113
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/177c0553d8fd9ef8202c2783430c9452.png" ,(5) ESPAÑA | MOVISTAR LALIGA 1 (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97115
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/177c0553d8fd9ef8202c2783430c9452.png" ,(5) ESPAÑA | MOVISTAR LALIGA 2 (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97116
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | LIGA DE CAMPEONES FHD
-http://vplay.club:8888/BEATRIZ/1234/97125
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR LIGA DE CAMPEONES 1  (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97130
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
-http://vplay.club:8888/BEATRIZ/1234/97131
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR LIGA DE CAMPEONES
-http://vplay.club:8888/BEATRIZ/1234/97132
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA 1 SD
-http://vplay.club:8888/BEATRIZ/1234/97133
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA 2 SD
-http://vplay.club:8888/BEATRIZ/1234/97134
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA 2 FHD
-http://vplay.club:8888/BEATRIZ/1234/97135
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA 3 FHD
-http://vplay.club:8888/BEATRIZ/1234/97136
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA 3 SD
-http://vplay.club:8888/BEATRIZ/1234/97137
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | MOVISTAR LALIGA 4 SD
-http://vplay.club:8888/BEATRIZ/1234/97138
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA 6 SD
-http://vplay.club:8888/BEATRIZ/1234/97140
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | M. LALIGA1 FHD
-http://vplay.club:8888/BEATRIZ/1234/97145
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | LALIGA 1 SD (SÓLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97146
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | LALIGA 1 FHD (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97147
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | LALIGA 2 SD (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97148
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | LALIGA 3 SD (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97149
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3c28ad0e08129a6cfb26d0725ec40722.png" ,(5) ESPAÑA | LALIGA 6 (SOLO EVENTOS)
-http://vplay.club:8888/BEATRIZ/1234/97156
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/cd64e4f2e577a4de25ca0a59fbaaa827.png" ,(5) ESPAÑA | M. FORMULA 1 HD
-http://vplay.club:8888/BEATRIZ/1234/97161
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/cb82bc1950507afb456fd552f9216576.png" ,(5) ESPAÑA |  M. DEPORTES HD
-http://vplay.club:8888/BEATRIZ/1234/97162
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/cb82bc1950507afb456fd552f9216576.png" ,(5) ESPAÑA |  M. DEPORTES 1
-http://vplay.club:8888/BEATRIZ/1234/97163
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA |  M. DEPORTES 1 HD
-http://vplay.club:8888/BEATRIZ/1234/97164
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA |  M. DEPORTES 2
-http://vplay.club:8888/BEATRIZ/1234/97165
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA |  M. DEPORTES 2 HD
-http://vplay.club:8888/BEATRIZ/1234/97166
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA |  M. DEPORTES 7 (LIVEEVEENT)
-http://vplay.club:8888/BEATRIZ/1234/97167
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA |  M. DEPORTES 8
-http://vplay.club:8888/BEATRIZ/1234/97168
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR LIGA DE CAMPEONES FHD
-http://vplay.club:8888/BEATRIZ/1234/97169
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/bf087c62dc063e07321f048abf02d17e.png" ,(5) ESPAÑA | EL TORO TV
-http://vplay.club:8888/BEATRIZ/1234/98462
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/dcf12bce9993103f40d532f9b18ff71b.png" ,(5) ESPAÑA | TELEDEPORTE FHD
-http://vplay.club:8888/BEATRIZ/1234/98739
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/6838171d831c62f80f120363b883fc18.png" ,(5) ESPAÑA | ESPORTE 3
-http://vplay.club:8888/BEATRIZ/1234/99043
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/9b3de0b1e2a8750862366a8cc31b2558.png" ,(5) ESPAÑA | MULTIDEPORTES 
-http://vplay.club:8888/BEATRIZ/1234/99045
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/cb82bc1950507afb456fd552f9216576.png" ,(1) ESPAÑA | M. LALIGA FHD (OPC 1)
-http://vplay.club:8888/BEATRIZ/1234/47469
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/64b1851001040d7b62fe0bc392e85301.png" ,(1) ESPAÑA | M. LIGA DE CAMPEONES SD (OPC 1)
-http://vplay.club:8888/BEATRIZ/1234/47476
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/64b1851001040d7b62fe0bc392e85301.png" ,(1) ESPAÑA | M. LIGA DE CAMPEONES FHD (OPC 2)
-http://vplay.club:8888/BEATRIZ/1234/47481
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/ebbd979126c17233cbe8da2091019168.png" ,(4) ESPAÑA | #VAMOS
-http://vplay.club:8888/BEATRIZ/1234/47482
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2babf60fad46ac375fa64e097b8e0b24.png" ,(4) ESPAÑA | GOL
-http://vplay.club:8888/BEATRIZ/1234/47485
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/42ca670519d33f25aa07e51664c9cb5d.png" ,(4) ESPAÑA | TELEDEPORTE
-http://vplay.club:8888/BEATRIZ/1234/47491
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/d9e63f258a8dad18aeea80ab2f732779.png" ,(4) ESPAÑA | M. DEPORTES
-http://vplay.club:8888/BEATRIZ/1234/47496
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/c33f1ce00a57b589cd8db62ebcea7524.png" ,(4) ESPAÑA | REAL MADRID TV
-http://vplay.club:8888/BEATRIZ/1234/47513
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/9821205f01e60bbc0deebdf6fe255806.png" ,(1) ESPAÑA | TOROS SD
-http://vplay.club:8888/BEATRIZ/1234/71034
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/d6cd745dedc4040298da55fc3ffab928.png" ,(1) ESPAÑA | DAZN F1 FHD
-http://vplay.club:8888/BEATRIZ/1234/71035
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/5e2a8403d68047505f99b4c215d09fef.png" ,(1) ESPAÑA | #V FHD
-http://vplay.club:8888/BEATRIZ/1234/71036
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2babf60fad46ac375fa64e097b8e0b24.png" ,(1) ESPAÑA | GOLTV SD
-http://vplay.club:8888/BEATRIZ/1234/71037
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/7cc21ea2559b2fc2b0c90848b54b81f0.png" ,(1) ESPAÑA | BARCA TV SD
-http://vplay.club:8888/BEATRIZ/1234/71040
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f899b38d13c6f0e7241b69532967dcb7.png" ,(1) ESPAÑA | MOVISTAR LIGA DE CAMPEONES FHD
-http://vplay.club:8888/BEATRIZ/1234/71043
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/06160c03ea3d2429e39b92764cdf1f1d.png" ,(1) ESPAÑA | MOVISTAR GOLF SD
-http://vplay.club:8888/BEATRIZ/1234/71044
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f899b38d13c6f0e7241b69532967dcb7.png" ,(1) ESPAÑA | MOVISTAR LIGA DE CAMPEONES 1 FHD
-http://vplay.club:8888/BEATRIZ/1234/71045
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f899b38d13c6f0e7241b69532967dcb7.png" ,(1) ESPAÑA | MOVISTAR LIGA DE CAMPEONES 3 HD
-http://vplay.club:8888/BEATRIZ/1234/71047
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/3825c6f1bac9e18bc07d611b80e758c6.png" ,(1) ESPAÑA | EUROSPORT 2 SD
-http://vplay.club:8888/BEATRIZ/1234/71054
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/760264fa0c45bf78d1c426c58aec4122.png" ,(1) ESPAÑA | DAZN 2 VIP FHD
-http://vplay.club:8888/BEATRIZ/1234/71056
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/10cffb81c3df4a36081e6a9cc2f110d9.png" ,(1) ESPAÑA | DAZN 3 VIP FHD
-http://vplay.club:8888/BEATRIZ/1234/71057
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/10cffb81c3df4a36081e6a9cc2f110d9.png" ,(1) ESPAÑA | DAZN 4 VIP FHD
-http://vplay.club:8888/BEATRIZ/1234/71058
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f317fe00ab772a8fd3b6bf0cd9bed5ce.png" ,(1) ESPAÑA | MOVISTAR DEPORTE FHD
-http://vplay.club:8888/BEATRIZ/1234/71059
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/d4cd1cea5cf4f967189aa377a5509b67.png" ,(1) ESPAÑA | MOVISTAR LA LIGA 3 FHD
-http://vplay.club:8888/BEATRIZ/1234/71060
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/42ca670519d33f25aa07e51664c9cb5d.png" ,(1) ESPAÑA | TELEDEPORTE FHD
-http://vplay.club:8888/BEATRIZ/1234/71061
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/06160c03ea3d2429e39b92764cdf1f1d.png" ,(1) ESPAÑA | MOVISTAR GOLF FHD
-http://vplay.club:8888/BEATRIZ/1234/71062
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2babf60fad46ac375fa64e097b8e0b24.png" ,(1) ESPAÑA | GOL SD
-http://vplay.club:8888/BEATRIZ/1234/71064
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f317fe00ab772a8fd3b6bf0cd9bed5ce.png" ,(1) ESPAÑA | MOVISTAR DEPORTES SD
-http://vplay.club:8888/BEATRIZ/1234/71065
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f317fe00ab772a8fd3b6bf0cd9bed5ce.png" ,(1) ESPAÑA | MOVISTAR DEPORTES 1 SD
-http://vplay.club:8888/BEATRIZ/1234/71066
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/dd3afef83c6e34771dc3ec157b978e25.png" ,(1) ESPAÑA | MOVISTAR LA LIGA SD
-http://vplay.club:8888/BEATRIZ/1234/71067
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/f899b38d13c6f0e7241b69532967dcb7.png" ,(1) ESPAÑA | MOVISTAR LIGA DE CAMPEON 1 SD
-http://vplay.club:8888/BEATRIZ/1234/71071
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/cb82bc1950507afb456fd552f9216576.png" ,(1) ESPAÑA | M. LALIGA FHD (H265)
-http://vplay.club:8888/BEATRIZ/1234/47471
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/4759fe4b5babd9ebfef99ceb1a6e9702.png" ,(5) ESPAÑA | BARCA TV HD
-http://vplay.club:8888/BEATRIZ/1234/97078
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/b3d2cc08e72df042c8093b615eee8df9.png" ,(5) ESPAÑA | LEVANTE TV
-http://vplay.club:8888/BEATRIZ/1234/97088
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" ,(5) ESPAÑA | MOVISTAR DEPORTES 1 FULL HD
-http://vplay.club:8888/BEATRIZ/1234/97090
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" tvg-id="toros.es" ,(5) ESPAÑA  | MOVISTAR  TOROS
-http://vplay.club:8888/BEATRIZ/1234/97091
-#EXTINF:-1 group-title="ESPAÑA DEPORTES (SPAIN SPORTS)" tvg-logo="http://vplay.club:8888/images/ba6efc7251b70029a6765e38848f32ab.png" ,(4) ESPAÑA | M. GOLF 
-http://vplay.club:8888/BEATRIZ/1234/47493
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c6f55680d93e7895c5aa49bdb997619e.png" ,(1) ESPAÑA | #0
-http://vplay.club:8888/BEATRIZ/1234/49830
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c6f55680d93e7895c5aa49bdb997619e.png" ,(4) ESPAÑA | #0 HD
-http://vplay.club:8888/BEATRIZ/1234/49831
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c6f55680d93e7895c5aa49bdb997619e.png" ,(4) ESPAÑA | #0 FHD
-http://vplay.club:8888/BEATRIZ/1234/49832
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/4b0f203987ff24bbce6bda0208d4e726.png" ,(1) ESPAÑA | AMC
-http://vplay.club:8888/BEATRIZ/1234/49833
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/4b0f203987ff24bbce6bda0208d4e726.png" ,(1) ESPAÑA | AMC HD
-http://vplay.club:8888/BEATRIZ/1234/49834
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/4b0f203987ff24bbce6bda0208d4e726.png" ,(1) ESPAÑA | AMC FHD
-http://vplay.club:8888/BEATRIZ/1234/49835
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e39ef444e99adc186231082757b346c6.png" ,(1) ESPAÑA | AXN
-http://vplay.club:8888/BEATRIZ/1234/49836
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/0e8b76168fa34ca529c4ed2622e8c2cb.png" ,(6) ESPAÑA | AXN FHD
-http://vplay.club:8888/BEATRIZ/1234/49838
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/0a701527a4b65051f2d184f163a84c08.png" ,(6) ESPAÑA | AXN WHITE FHD
-http://vplay.club:8888/BEATRIZ/1234/49841
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/7060d03c921202246ecdb4c0e28439d4.png" ,(1) ESPAÑA | CALLE 13
-http://vplay.club:8888/BEATRIZ/1234/49842
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/7060d03c921202246ecdb4c0e28439d4.png" ,(1) ESPAÑA | CALLE 13 FHD
-http://vplay.club:8888/BEATRIZ/1234/49844
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/bae70c4a179174262e0d31fe4fd99ce9.png" ,(1) ESPAÑA | DARK
-http://vplay.club:8888/BEATRIZ/1234/49845
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/bae70c4a179174262e0d31fe4fd99ce9.png" ,(1) ESPAÑA | DARK HD
-http://vplay.club:8888/BEATRIZ/1234/49846
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/bae70c4a179174262e0d31fe4fd99ce9.png" ,(1) ESPAÑA | DARK FHD
-http://vplay.club:8888/BEATRIZ/1234/49847
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/be8cbfdf0aadf92713546e79b4d6eb7f.png" ,(1) ESPAÑA | FOX
-http://vplay.club:8888/BEATRIZ/1234/49848
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/be8cbfdf0aadf92713546e79b4d6eb7f.png" ,(4) ESPAÑA | FOX HD
-http://vplay.club:8888/BEATRIZ/1234/49849
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/be8cbfdf0aadf92713546e79b4d6eb7f.png" ,(1) ESPAÑA | FOX FHD
-http://vplay.club:8888/BEATRIZ/1234/49850
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/de73d8cd8eb9e0c7b279f2047979e7db.png" ,(4) ESPAÑA | FOX LIFE
-http://vplay.club:8888/BEATRIZ/1234/49851
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/de73d8cd8eb9e0c7b279f2047979e7db.png" ,(4) ESPAÑA | FOX LIFE HD
-http://vplay.club:8888/BEATRIZ/1234/49852
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/de73d8cd8eb9e0c7b279f2047979e7db.png" ,(4) ESPAÑA | FOX LIFE FHD
-http://vplay.club:8888/BEATRIZ/1234/49853
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/cbc567a84b478fd2d3e034ad01e2e5c2.png" ,(1) ESPAÑA | SOMOS FHD
-http://vplay.club:8888/BEATRIZ/1234/49854
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/79d7a8d3d1fa84e23b22060288b8052f.png" ,(1) ESPAÑA | HOLLYWOOD
-http://vplay.club:8888/BEATRIZ/1234/49857
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/79d7a8d3d1fa84e23b22060288b8052f.png" ,(1) ESPAÑA | HOLLYWOOD FHD
-http://vplay.club:8888/BEATRIZ/1234/49859
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/87e074680384e66aab7cd4d21098caea.png" ,(4) ESPAÑA | M. ACCION
-http://vplay.club:8888/BEATRIZ/1234/49873
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/87e074680384e66aab7cd4d21098caea.png" ,(4) ESPAÑA | M. ACCION HD
-http://vplay.club:8888/BEATRIZ/1234/49874
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/87e074680384e66aab7cd4d21098caea.png" ,(4) ESPAÑA | M. ACCION FHD
-http://vplay.club:8888/BEATRIZ/1234/49875
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/578707a4a9fb515de6da3e0da011163c.png" ,(4) ESPAÑA | M. CINE ESPAÑOL
-http://vplay.club:8888/BEATRIZ/1234/49876
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c2ef3b64b224f8c8caa30189d4ebffc7.png" ,(4) ESPAÑA | M. COMEDIA 
-http://vplay.club:8888/BEATRIZ/1234/49880
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c2ef3b64b224f8c8caa30189d4ebffc7.png" ,(4) ESPAÑA | M. COMEDIA HD
-http://vplay.club:8888/BEATRIZ/1234/49881
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c2ef3b64b224f8c8caa30189d4ebffc7.png" ,(4) ESPAÑA | M. COMEDIA FHD
-http://vplay.club:8888/BEATRIZ/1234/49882
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e4b04e7ce5c4c7f67d6e996a48d5cd67.png" ,(4) ESPAÑA | M. DRAMA 
-http://vplay.club:8888/BEATRIZ/1234/49883
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e4b04e7ce5c4c7f67d6e996a48d5cd67.png" ,(4) ESPAÑA | M. DRAMA HD
-http://vplay.club:8888/BEATRIZ/1234/49884
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e4b04e7ce5c4c7f67d6e996a48d5cd67.png" ,(4) ESPAÑA | M. DRAMA FHD
-http://vplay.club:8888/BEATRIZ/1234/49885
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/3ffc9ed0f76f9b3d712dc695c75bd107.png" ,(4) ESPAÑA | M. ESTRENOS
-http://vplay.club:8888/BEATRIZ/1234/49886
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/3ffc9ed0f76f9b3d712dc695c75bd107.png" ,(4) ESPAÑA | M. ESTRENOS HD
-http://vplay.club:8888/BEATRIZ/1234/49887
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/3ffc9ed0f76f9b3d712dc695c75bd107.png" ,(4) ESPAÑA | M. ESTRENOS FHD
-http://vplay.club:8888/BEATRIZ/1234/49888
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/ae05c75a5883efaa0684968ee6e9ae1b.png" ,(4) ESPAÑA | M. SERIES
-http://vplay.club:8888/BEATRIZ/1234/49889
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/ae05c75a5883efaa0684968ee6e9ae1b.png" ,(4) ESPAÑA | M. SERIES HD
-http://vplay.club:8888/BEATRIZ/1234/49890
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/ae05c75a5883efaa0684968ee6e9ae1b.png" ,(4) ESPAÑA | M. SERIES FHD
-http://vplay.club:8888/BEATRIZ/1234/49891
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/2193dc59168bd1a8aa4d008d82dd2b56.png" ,(4) ESPAÑA | SERIESMANIA
-http://vplay.club:8888/BEATRIZ/1234/49892
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/2193dc59168bd1a8aa4d008d82dd2b56.png" ,(4) ESPAÑA | M. SERIESMANIA HD
-http://vplay.club:8888/BEATRIZ/1234/49893
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/2193dc59168bd1a8aa4d008d82dd2b56.png" ,(4) ESPAÑA | M. SERIESMANIA FHD
-http://vplay.club:8888/BEATRIZ/1234/49894
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e87db1698c62b01316b0dce7a2deda18.png" ,(4) ESPAÑA | TCM
-http://vplay.club:8888/BEATRIZ/1234/49898
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e87db1698c62b01316b0dce7a2deda18.png" ,(4) ESPAÑA | TCM HD
-http://vplay.club:8888/BEATRIZ/1234/49899
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/e87db1698c62b01316b0dce7a2deda18.png" ,(4) ESPAÑA | TCM FHD
-http://vplay.club:8888/BEATRIZ/1234/49900
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/b14ca34427b0a6b2ed0051fff2554fbc.png" ,(4) ESPAÑA | TNT
-http://vplay.club:8888/BEATRIZ/1234/49901
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/b14ca34427b0a6b2ed0051fff2554fbc.png" ,(4) ESPAÑA | TNT HD
-http://vplay.club:8888/BEATRIZ/1234/49902
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/b14ca34427b0a6b2ed0051fff2554fbc.png" ,(4) ESPAÑA | TNT FHD
-http://vplay.club:8888/BEATRIZ/1234/49903
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/9b49b0dd204e38b755a53ce58b0a4984.png" ,(1) ESPAÑA | XTRM
-http://vplay.club:8888/BEATRIZ/1234/49904
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/fdb599736f497c57811579c609a5a15f.png" ,(1) ESPAÑA | CANAL EXTREMADURA SAT
-http://vplay.club:8888/BEATRIZ/1234/49905
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/055a433d3aef26faa8b79032da17ea45.png" ,(1) ESPAÑA | TAQUILLA 2 ANIMACION
-http://vplay.club:8888/BEATRIZ/1234/49907
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/055a433d3aef26faa8b79032da17ea45.png" ,(1) ESPAÑA | TAQUILLA 4 CRIMEN
-http://vplay.club:8888/BEATRIZ/1234/49909
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/055a433d3aef26faa8b79032da17ea45.png" ,(1) ESPAÑA | TAQUILLA 5 TERROR
-http://vplay.club:8888/BEATRIZ/1234/49910
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/5795ffe719265c02ba161700e67f6cac.png" ,(1) ESPAÑA | BOM CINE
-http://vplay.club:8888/BEATRIZ/1234/49913
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/f109ae203af01482556c8d4e49d15727.png" ,(4) ESPAÑA | SYFY FHD
-http://vplay.club:8888/BEATRIZ/1234/49897
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/055a433d3aef26faa8b79032da17ea45.png" ,(1) ESPAÑA | TAQUILLA 1 ACCIÓN
-http://vplay.club:8888/BEATRIZ/1234/49906
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/055a433d3aef26faa8b79032da17ea45.png" ,(1) ESPAÑA | TAQUILLA 3 CIENCIA FICCION
-http://vplay.club:8888/BEATRIZ/1234/49908
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/055a433d3aef26faa8b79032da17ea45.png" ,(1) ESPAÑA | TAQUILLA 7 COMEDIA
-http://vplay.club:8888/BEATRIZ/1234/49912
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/5a953b054065f3b6603fcd04cc7ff030.png" ,(1) ESPAÑA | PARAMOUNT CHANNEL
-http://vplay.club:8888/BEATRIZ/1234/49914
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/777fcaf97cd90b812badb6ad575d624a.png" tvg-id="amc.es" ,(5) ESPAÑA | AMC HD
-http://vplay.club:8888/BEATRIZ/1234/97170
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/50a85ec1424369af53b57519542fa258.png" tvg-id="atreseries.es" ,(5) ESPAÑA | ATRESERIES INT
-http://vplay.club:8888/BEATRIZ/1234/97173
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/7060d03c921202246ecdb4c0e28439d4.png" tvg-id="calle13.es" ,(5) ESPAÑA | CALLE 13 HD
-http://vplay.club:8888/BEATRIZ/1234/97174
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/6c57a067f9952bb0134791fd2622404b.png" tvg-id="comedycentral.es" ,(5) ESPAÑA | COMEDY CENTRAL HD
-http://vplay.club:8888/BEATRIZ/1234/97175
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/4c6f4f591e2d19e14013e4cc1ca96a65.png" tvg-id="divinity.es" ,(5) ESPAÑA | DIVINITY HD
-http://vplay.club:8888/BEATRIZ/1234/97176
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/2084d1464eaf1aa13eb49c24743adb76.png" tvg-id="energy.es" ,(5) ESPAÑA | ENERGY HD
-http://vplay.club:8888/BEATRIZ/1234/97177
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/7764f0b7acee2001c3426bcc6116b55b.png" ,(5) ESPAÑA | FDF HD
-http://vplay.club:8888/BEATRIZ/1234/97178
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/be8cbfdf0aadf92713546e79b4d6eb7f.png" tvg-id="fox.es" ,(5) ESPAÑA | FOX HD
-http://vplay.club:8888/BEATRIZ/1234/97179
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/be8cbfdf0aadf92713546e79b4d6eb7f.png" tvg-id="foxlife.es" ,(5) ESPAÑA | FOX LIFE HD
-http://vplay.club:8888/BEATRIZ/1234/97180
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/79d7a8d3d1fa84e23b22060288b8052f.png" tvg-id="hollywood.es" ,(5) ESPAÑA | HOLLYWOOD HD
-http://vplay.club:8888/BEATRIZ/1234/97181
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/dd884593cc4b5d3c6540fe70a38357ff.png" tvg-id="movistaraccion.es" ,(5) ESPAÑA | MOVISTAR ACCIÓN  HD
-http://vplay.club:8888/BEATRIZ/1234/97182
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/94dfd0b23fc021e4ece713617a3792a5.png" ,(5) ESPAÑA | MOVISTAR CINE HD
-http://vplay.club:8888/BEATRIZ/1234/97183
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/344e3b917090dbc7b9a0619df5d78a67.png" tvg-id="movistarcomedia.es" ,(5) ESPAÑA | MOVISTAR COMEDIA  HD
-http://vplay.club:8888/BEATRIZ/1234/97184
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/d2c3d68c608b731e27fa0ad50510c082.png" tvg-id="movistarseries.es" ,(5) ESPAÑA | MOVISTAR SERIES HD
-http://vplay.club:8888/BEATRIZ/1234/97185
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/d2c3d68c608b731e27fa0ad50510c082.png" tvg-id="movistarseriesmania.es" ,(5) ESPAÑA | MOVISTAR SERIES 2
-http://vplay.club:8888/BEATRIZ/1234/97186
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/3258c3fe2aaf340f0bf6390a46b371f8.png" tvg-id="movistarestrenos.es" ,(5) ESPAÑA | MOVISTAR ESTRENOS HD
-http://vplay.club:8888/BEATRIZ/1234/97187
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/b14ca34427b0a6b2ed0051fff2554fbc.png" tvg-id="tnt.es" ,(5) ESPAÑA | TNT HD
-http://vplay.club:8888/BEATRIZ/1234/97189
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/cfa31f301a1b8a445eab6f1d2a0bafe8.png" tvg-id="syfy.es" ,(5) ESPAÑA | SYFY HD
-http://vplay.club:8888/BEATRIZ/1234/97191
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/ae7712bb43c2beb35a1415c08b59b38a.png" tvg-id="tcm.es" ,(5) ESPAÑA | TCM HD
-http://vplay.club:8888/BEATRIZ/1234/97192
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c802595340ac3cd0ca52e828363e62e1.png" ,(5) ESPAÑA |  TAQUILLA 4 HD
-http://vplay.club:8888/BEATRIZ/1234/97193
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c802595340ac3cd0ca52e828363e62e1.png" ,(5) ESPAÑA | TAQUILLA 2 HD
-http://vplay.club:8888/BEATRIZ/1234/97195
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/24cf985e425499567776e255ba5ee0be.png" ,(5) ESPAÑA | ALQUILER 3 HD
-http://vplay.club:8888/BEATRIZ/1234/97198
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/24cf985e425499567776e255ba5ee0be.png" ,(5) ESPAÑA | ALQUILER 4 HD
-http://vplay.club:8888/BEATRIZ/1234/97199
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/24cf985e425499567776e255ba5ee0be.png" ,(5) ESPAÑA | ALQUILER 5 HD
-http://vplay.club:8888/BEATRIZ/1234/97200
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/5a953b054065f3b6603fcd04cc7ff030.png" tvg-id="paramountchannel.es" ,(5) ESPAÑA | PARAMOUNT CHANNEL HD
-http://vplay.club:8888/BEATRIZ/1234/97202
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/3258c3fe2aaf340f0bf6390a46b371f8.png" tvg-id="mcinedocandroll.es" ,(5) ESPAÑA | MOVISTAR ESTRENOS 2
-http://vplay.club:8888/BEATRIZ/1234/97203
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/26483a8a10e094d6d8a76f2c708d19d8.png" ,(5) ESPAÑA | MOVISTAR DISNEY
-http://vplay.club:8888/BEATRIZ/1234/97204
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/26483a8a10e094d6d8a76f2c708d19d8.png" ,(5) ESPAÑA | MOVISTAR DISNEY + HD
-http://vplay.club:8888/BEATRIZ/1234/97205
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/50a85ec1424369af53b57519542fa258.png" tvg-id="atreseries.es" ,(5) ESPAÑA | ATRESERIES HD
-http://vplay.club:8888/BEATRIZ/1234/97207
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/50a85ec1424369af53b57519542fa258.png" tvg-id="atreseries.es" ,(5) ESPAÑA | ATRESERIES FHD
-http://vplay.club:8888/BEATRIZ/1234/97208
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/50a85ec1424369af53b57519542fa258.png" tvg-id="atreseries.es" ,(5) ESPAÑA | ATRESERIES SD
-http://vplay.club:8888/BEATRIZ/1234/97209
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/c6f55680d93e7895c5aa49bdb997619e.png" ,(5) ESPAÑA | #0 FHD
-http://vplay.club:8888/BEATRIZ/1234/97210
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/cbc567a84b478fd2d3e034ad01e2e5c2.png" ,(5) ESPAÑA | SOMOS HD
-http://vplay.club:8888/BEATRIZ/1234/97212
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/cbc567a84b478fd2d3e034ad01e2e5c2.png" ,(5) ESPAÑA | SOMOS FHD
-http://vplay.club:8888/BEATRIZ/1234/97213
-#EXTINF:-1 group-title="ESPAÑA CINE (SPAIN CINEMA)" tvg-logo="http://vplay.club:8888/images/7060d03c921202246ecdb4c0e28439d4.png" ,(1) ESPAÑA | CALLE 13 HD
-http://vplay.club:8888/BEATRIZ/1234/49843
+#EXTINF:-1 group-title="Spagna" ,ES - Viajar HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/275
+#EXTINF:-1 group-title="Spagna" ,ES - Viajar
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/276
+#EXTINF:-1 group-title="Spagna" ,ES - Vamos HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/315
+#EXTINF:-1 group-title="Spagna" ,ES - TV 3 Catalunya
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/373
+#EXTINF:-1 group-title="Spagna" ,ES - Toros HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/321
+#EXTINF:-1 group-title="Spagna" ,ES - Toros
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/322
+#EXTINF:-1 group-title="Spagna" ,ES - TNT HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/344
+#EXTINF:-1 group-title="Spagna" ,ES - TNT
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/345
+#EXTINF:-1 group-title="Spagna" ,ES - Teledeporte
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/313
+#EXTINF:-1 group-title="Spagna" ,ES - Telecinco HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/380
+#EXTINF:-1 group-title="Spagna" ,ES - Telecinco
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/381
+#EXTINF:-1 group-title="Spagna" ,ES - TCM HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/346
+#EXTINF:-1 group-title="Spagna" ,ES - TCM
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/347
+#EXTINF:-1 group-title="Spagna" ,ES - SYFY HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/332
+#EXTINF:-1 group-title="Spagna" ,ES - SYFY
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/333
+#EXTINF:-1 group-title="Spagna" ,ES - Sundance
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/371
+#EXTINF:-1 group-title="Spagna" ,ES - Real Madrid TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/292
+#EXTINF:-1 group-title="Spagna" ,ES - Nova
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/377
+#EXTINF:-1 group-title="Spagna" ,ES - NIckelodeon HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/260
+#EXTINF:-1 group-title="Spagna" ,ES - NICK JR
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/264
+#EXTINF:-1 group-title="Spagna" ,ES - Neox
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/329
+#EXTINF:-1 group-title="Spagna" ,ES - National Geographic
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/283
+#EXTINF:-1 group-title="Spagna" ,ES - Nat Geo Wild HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/280
+#EXTINF:-1 group-title="Spagna" ,ES - Nat Geo Wild
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/281
+#EXTINF:-1 group-title="Spagna" ,ES - Nat Geo HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/282
+#EXTINF:-1 group-title="Spagna" ,ES - MTV Espana
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/369
+#EXTINF:-1 group-title="Spagna" ,ES - MoviStar Golf
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/291
+#EXTINF:-1 group-title="Spagna" ,ES - MoviStar  Deportes 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/317
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Series HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/354
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Series
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/355
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Golf HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/290
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar F1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/288
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Estrenos HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/363
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Estrenos
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/364
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Deportes 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/316
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Deportes 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/318
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Deportes 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/319
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Comedia HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/359
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Comedia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/360
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Cine Espanol
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/356
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Accion HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/361
+#EXTINF:-1 group-title="Spagna" ,ES - Moviestar Accion
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/362
+#EXTINF:-1 group-title="Spagna" ,ES - Mezzo Live HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/323
+#EXTINF:-1 group-title="Spagna" ,ES - M. Seriesmania HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/352
+#EXTINF:-1 group-title="Spagna" ,ES - M. Seriesmania
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/353
+#EXTINF:-1 group-title="Spagna" ,ES - M. Drama HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/357
+#EXTINF:-1 group-title="Spagna" ,ES - M. Drama
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/358
+#EXTINF:-1 group-title="Spagna" ,ES - M. CINEDOC&ROLL HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/342
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/285
+#EXTINF:-1 group-title="Spagna" ,ES - LALIGA TV BAR 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/298
+#EXTINF:-1 group-title="Spagna" ,ES - La Sexta HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/378
+#EXTINF:-1 group-title="Spagna" ,ES - La Sexta
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/379
+#EXTINF:-1 group-title="Spagna" ,ES - LA LIGA 123TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/312
+#EXTINF:-1 group-title="Spagna" ,ES - La 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/386
+#EXTINF:-1 group-title="Spagna" ,ES - La 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/387
+#EXTINF:-1 group-title="Spagna" ,ES - La 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/388
+#EXTINF:-1 group-title="Spagna" ,ES - Iberalia TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/374
+#EXTINF:-1 group-title="Spagna" ,ES - Hollywood HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/350
+#EXTINF:-1 group-title="Spagna" ,ES - Hollywood
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/351
+#EXTINF:-1 group-title="Spagna" ,ES - Historia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/274
+#EXTINF:-1 group-title="Spagna" ,ES - Gol TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/297
+#EXTINF:-1 group-title="Spagna" ,ES - Galicia TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/376
+#EXTINF:-1 group-title="Spagna" ,ES - Fox Life HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/338
+#EXTINF:-1 group-title="Spagna" ,ES - Fox Life
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/339
+#EXTINF:-1 group-title="Spagna" ,ES - Fox HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/340
+#EXTINF:-1 group-title="Spagna" ,ES - Fox
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/341
+#EXTINF:-1 group-title="Spagna" ,ES - FDF
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/324
+#EXTINF:-1 group-title="Spagna" ,ES - Eurosport 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/294
+#EXTINF:-1 group-title="Spagna" ,ES - Eurosport 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/295
+#EXTINF:-1 group-title="Spagna" ,ES - Eurosport 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/296
+#EXTINF:-1 group-title="Spagna" ,ES - Energy
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/370
+#EXTINF:-1 group-title="Spagna" ,ES - Divinity
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/372
+#EXTINF:-1 group-title="Spagna" ,ES - Disney JR
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/265
+#EXTINF:-1 group-title="Spagna" ,ES - Disney Channel HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/266
+#EXTINF:-1 group-title="Spagna" ,ES - Disney Channel
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/267
+#EXTINF:-1 group-title="Spagna" ,ES - Discovery channel
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/279
+#EXTINF:-1 group-title="Spagna" ,ES - Cuatro HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/382
+#EXTINF:-1 group-title="Spagna" ,ES - Cuatro
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/383
+#EXTINF:-1 group-title="Spagna" ,ES - Crime Investigation
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/278
+#EXTINF:-1 group-title="Spagna" ,ES - Cosmo HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/325
+#EXTINF:-1 group-title="Spagna" ,ES - Cosmo
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/326
+#EXTINF:-1 group-title="Spagna" ,ES - Comedy Central HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/327
+#EXTINF:-1 group-title="Spagna" ,ES - Comedy Central
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/328
+#EXTINF:-1 group-title="Spagna" ,ES - Clan TVE
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/368
+#EXTINF:-1 group-title="Spagna" ,ES - Caza y Pesca HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/271
+#EXTINF:-1 group-title="Spagna" ,ES - Caza y Pesca
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/272
+#EXTINF:-1 group-title="Spagna" ,ES - Canal Odisea
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/273
+#EXTINF:-1 group-title="Spagna" ,ES - Canal Decasa
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/270
+#EXTINF:-1 group-title="Spagna" ,ES - Canal Cocina
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/269
+#EXTINF:-1 group-title="Spagna" ,ES - Calle 13 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/330
+#EXTINF:-1 group-title="Spagna" ,ES - Calle 13
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/331
+#EXTINF:-1 group-title="Spagna" ,ES - Boing
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/262
+#EXTINF:-1 group-title="Spagna" ,ES - Blaze
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/277
+#EXTINF:-1 group-title="Spagna" ,ES - Bein Sports HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/311
+#EXTINF:-1 group-title="Spagna" ,ES - Bein Liga 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/306
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 8
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/300
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 7
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/301
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 6
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/302
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 5
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/303
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 4
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/304
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/305
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/307
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/308
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/310
+#EXTINF:-1 group-title="Spagna" ,ES - Barca TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/293
+#EXTINF:-1 group-title="Spagna" ,ES - Baby TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/261
+#EXTINF:-1 group-title="Spagna" ,ES - AXN White HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/334
+#EXTINF:-1 group-title="Spagna" ,ES - AXN White
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/335
+#EXTINF:-1 group-title="Spagna" ,ES - AXN HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/336
+#EXTINF:-1 group-title="Spagna" ,ES - AXN
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/337
+#EXTINF:-1 group-title="Spagna" ,ES - Antena 3 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/384
+#EXTINF:-1 group-title="Spagna" ,ES - Antena 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/385
+#EXTINF:-1 group-title="Spagna" ,ES - Andalucia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/375
+#EXTINF:-1 group-title="Spagna" ,ES - AMC HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/348
+#EXTINF:-1 group-title="Spagna" ,ES - AMC
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/349
+#EXTINF:-1 group-title="Spagna" ,ES - #0 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/365
+#EXTINF:-1 group-title="Spagna" ,ES - #0
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/366
+#EXTINF:-1 group-title="Spagna" ,ES -  MoviStar F1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/289
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn 2  HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn F1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1992
+#EXTINF:-1 group-title="Spagna" ,ES - BE MAD HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1993
+#EXTINF:-1 group-title="Spagna" ,ES - Tolkien
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1994
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1995
+#EXTINF:-1 group-title="Spagna" ,ES - Multideporte
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1996
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1997
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones 7
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1998
+#EXTINF:-1 group-title="Spagna" ,ES - M. Deportes 5 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1999
+#EXTINF:-1 group-title="Spagna" ,ES - LALIGA TV BAR 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2000
+#EXTINF:-1 group-title="Spagna" ,ES - Dreamworks 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2001
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn F1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2002
+#EXTINF:-1 group-title="Spagna" ,ES - Movistar Deportes HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2003
+#EXTINF:-1 group-title="Spagna" ,ES - LALIGA TV BAR 4 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2004
+#EXTINF:-1 group-title="Spagna" ,ES - Movistar LaLiga 9
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2005
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones 5
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2007
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones 6
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2008
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2009
+#EXTINF:-1 group-title="Spagna" ,ES - Movistar Laliga 10
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2010
+#EXTINF:-1 group-title="Spagna" ,ES - Classica
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2011
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones 8 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2012
+#EXTINF:-1 group-title="Spagna" ,ES - M. Deportes 6
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2013
+#EXTINF:-1 group-title="Spagna" ,ES - LALIGA TV BAR 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2014
+#EXTINF:-1 group-title="Spagna" ,ES - M. Deportes 7
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2015
+#EXTINF:-1 group-title="Spagna" ,ES - Paramount
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2016
+#EXTINF:-1 group-title="Spagna" ,ES - 24 Horas
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2017
+#EXTINF:-1 group-title="Spagna" ,ES - Vamos
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2018
+#EXTINF:-1 group-title="Spagna" ,ES - Nickelodeon
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2019
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2020
+#EXTINF:-1 group-title="Spagna" ,ES - Canal sur 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2021
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn 3 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2022
+#EXTINF:-1 group-title="Spagna" ,ES - Dazn 4 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2023
+#EXTINF:-1 group-title="Spagna" ,ES - M. Campeones 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2024
+#EXTINF:-1 group-title="Spagna" ,ES - Bein La Liga 3 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2025
+#EXTINF:-1 group-title="Spagna" ,ES - La 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2026
+#EXTINF:-1 group-title="Spagna" ,ES - Aragon TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2027
+#EXTINF:-1 group-title="Spagna" ,ES - Extremadura
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2028
